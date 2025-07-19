@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="rss.xsl"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>王則倫的部落格 Blog</title>
+        <link>https://fattie0926.github.io/jaron-blog/blog</link>
+        <description>王則倫的部落格 Blog</description>
+        <lastBuildDate>Sun, 20 Jul 2025 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>zh-tw</language>
+        <item>
+            <title><![CDATA[第一篇貼文]]></title>
+            <link>https://fattie0926.github.io/jaron-blog/blog/first</link>
+            <guid>https://fattie0926.github.io/jaron-blog/blog/first</guid>
+            <pubDate>Sun, 20 Jul 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[今天是 2025 年的 7 月 20 日，凌晨 2 點 35 分。]]></description>
+            <content:encoded><![CDATA[<p>今天是 2025 年的 7 月 20 日，凌晨 2 點 35 分。</p>
+<p>我大約只花了 2 小時的時間把整個網站架設好，並且還調整好客製化設定，沒有太多 AI 工具的幫忙，只能說 Docusaurus 太神啦！</p>
+<p>但我現在還找不到要怎麼把側邊欄的「Recent posts」改成「最新的貼文」。</p>
+<p><strong>02:47 更新：</strong> 我找到了，只要在 config.js 裡面 blog 的變數中加上 <code>blogSidebarTitle: '近期貼文'</code> 就可以了。</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="悲慘世界音樂劇">悲慘世界音樂劇<a href="https://fattie0926.github.io/jaron-blog/blog/first#%E6%82%B2%E6%85%98%E4%B8%96%E7%95%8C%E9%9F%B3%E6%A8%82%E5%8A%87" class="hash-link" aria-label="悲慘世界音樂劇的直接連結" title="悲慘世界音樂劇的直接連結">​</a></h3>
+<p>今天</p>]]></content:encoded>
+        </item>
+    </channel>
+</rss>
