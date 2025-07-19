@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://fattie0926.github.io/jaron-blog/blog</id>
+    <id>https://fattie0926.github.io/blog</id>
     <title>王則倫的部落格 Blog</title>
     <updated>2025-07-20T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://fattie0926.github.io/jaron-blog/blog"/>
+    <link rel="alternate" href="https://fattie0926.github.io/blog"/>
     <subtitle>王則倫的部落格 Blog</subtitle>
-    <icon>https://fattie0926.github.io/jaron-blog/img/favicon.ico</icon>
+    <icon>https://fattie0926.github.io/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[第一篇貼文]]></title>
-        <id>https://fattie0926.github.io/jaron-blog/blog/first</id>
-        <link href="https://fattie0926.github.io/jaron-blog/blog/first"/>
+        <id>https://fattie0926.github.io/blog/first</id>
+        <link href="https://fattie0926.github.io/blog/first"/>
         <updated>2025-07-20T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[今天是 2025 年的 7 月 20 日，凌晨 2 點 35 分。]]></summary>
         <content type="html"><![CDATA[<p>今天是 2025 年的 7 月 20 日，凌晨 2 點 35 分。</p>
 <p>我大約只花了 2 小時的時間把整個網站架設好，並且還調整好客製化設定，沒有太多 AI 工具的幫忙，只能說 Docusaurus 太神啦！</p>
 <p>但我現在還找不到要怎麼把側邊欄的「Recent posts」改成「最新的貼文」。</p>
 <p><strong>02:47 更新：</strong> 我找到了，只要在 config.js 裡面 blog 的變數中加上 <code>blogSidebarTitle: '近期貼文'</code> 就可以了。</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="悲慘世界音樂劇">悲慘世界音樂劇<a href="https://fattie0926.github.io/jaron-blog/blog/first#%E6%82%B2%E6%85%98%E4%B8%96%E7%95%8C%E9%9F%B3%E6%A8%82%E5%8A%87" class="hash-link" aria-label="悲慘世界音樂劇的直接連結" title="悲慘世界音樂劇的直接連結">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="悲慘世界音樂劇">悲慘世界音樂劇<a href="https://fattie0926.github.io/blog/first#%E6%82%B2%E6%85%98%E4%B8%96%E7%95%8C%E9%9F%B3%E6%A8%82%E5%8A%87" class="hash-link" aria-label="悲慘世界音樂劇的直接連結" title="悲慘世界音樂劇的直接連結">​</a></h3>
 <p>今天</p>]]></content>
     </entry>
 </feed>
