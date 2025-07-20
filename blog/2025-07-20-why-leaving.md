@@ -1,6 +1,6 @@
 ---
 slug: why-blog
-title: 部落格？都 2025 年了欸？
+title: 沒有社群怎麼活
 ---
 哈囉 👋 歡迎你來到我的新網站！
 
@@ -11,7 +11,7 @@ title: 部落格？都 2025 年了欸？
 
 <!-- truncate -->
 
-### 現在不是 2025 年了嗎？
+### 你是原始人嗎
 
 這是一個好問題，因為我也還沒有辦法想像在別人跟我要 IG 的時候，我卻拿出一個 QR Code 跟他說：
 
@@ -21,7 +21,7 @@ title: 部落格？都 2025 年了欸？
 
 ---
 
-### 我什麼時候開始覺得不對勁？
+### 所以為什麼
 
 > TL;DR 用社群媒體並沒有讓我變得更開心，也沒有讓我跟重要的人保持聯繫。
 
@@ -73,8 +73,8 @@ _（是的，不管你叫 Reel 還是 Short，其實我們都看得出來是被 
    >  
    > **Key Activities Supporting This Goal:**  
    > * Regularly take the time for meaningful connection with those who are most important to me (e.g., a long talk, a meal, joint activity).  
-   > * Give of myself to those who are most important to me (e.g., making nontrivial sacrifices that improve their lives).  
-   > 
+   > * Give of myself to those who are most important to me (e.g., making nontrivial sacrifices that improve their lives).
+   >
    > **個人目標：**  
    > 和一群對我來說重要的人，**維持親密且有意義的友誼關係**。  
    >  
@@ -90,7 +90,7 @@ _（是的，不管你叫 Reel 還是 Short，其實我們都看得出來是被 
 
 ---
 
-### 我為什麼不想再用了？你不是創作者嗎？
+### 創作者的身份怎麼辦
 
 除了前面提到的過程，另外是受到我的偶像兼良師 Wiwi 官大為的啟發。
 
@@ -119,7 +119,7 @@ _（是的，不管你叫 Reel 還是 Short，其實我們都看得出來是被 
 
 ---
 
-### 那我想要的是什麼？
+### 我想要什麼
 
 我覺得可以 Recap 回 Cal Newport 的觀點，跟對我重要的人維持互動與聯繫，所以好像也沒有太多的期待。
 
@@ -141,11 +141,11 @@ _（是的，不管你叫 Reel 還是 Short，其實我們都看得出來是被 
 
 ---
 
-### 如果你也想寫自己的部落格⋯
+### 如果你也想要
 
 我大約只花了五個小時就讓網站上線並且成功運作，從無到有。  
 （當然還有 ChatGPT 的幫助）
 
 我使用的套件是 [Docusaurus](https://docusaurus.io/)，新增新的文章非常簡單，只需要新增一個 Markdown 文件，就會自動建立好新的網站。
 
-如果你還沒用過 Markdown 的話，可以試試這個 [學習 Markdown 語法的網站](https://docusaurus.io/)，可以讓你快速熟悉基本文法，推推！
+如果你還沒用過 Markdown 的話，可以試試這個[學習 Markdown 語法的網站](https://www.markdowntutorial.com/)，可以讓你快速熟悉基本文法，推推！

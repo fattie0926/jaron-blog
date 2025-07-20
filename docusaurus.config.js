@@ -84,10 +84,10 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Jaron.tw',
+        title: 'Jaron Wong',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/logo.png',
         },
         items: [
           {to: '/blog', label: '貼文', position: 'left'},
@@ -111,10 +111,10 @@ const config = {
             ],
           },
           {
-            title: '我的其他網站',
+            title: '我的其他連結',
             items: [
               {
-                label: 'YouTube 頻道',
+                label: '影片作品',
                 href: 'https://www.youtube.com/@fattie0926',
               },
               {
@@ -122,7 +122,7 @@ const config = {
                 href: 'https://defines.tw',
               },
               {
-                label: 'Facebook',
+                label: '個人 Facebook',
                 href: 'https://facebook.com/jaron.tw',
               },
             ],
