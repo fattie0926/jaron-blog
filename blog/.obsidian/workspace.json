@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a8c7c398df1db52c",
+        "id": "2d1669bff8c2aeaa",
         "type": "tabs",
         "children": [
           {
-            "id": "610be878ed610783",
+            "id": "5a86b20bf559d83b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2025-07-20-why-leaving.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2025-07-20-why-leaving"
+              "title": "New tab"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2025-07-20-why-leaving.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-07-20-why-leaving"
+              "title": "Backlinks"
             }
           },
           {
@@ -113,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2025-07-20-why-leaving.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025-07-20-why-leaving"
+              "title": "Outgoing links"
             }
           },
           {
@@ -142,13 +136,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2025-07-20-why-leaving.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-07-20-why-leaving"
+              "title": "Outline"
             }
           }
         ]
@@ -168,10 +161,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "610be878ed610783",
+  "active": "5a86b20bf559d83b",
   "lastOpenFiles": [
-    "2024-10-4-piano-memories.md",
     "2025-07-20-why-leaving.md",
+    "2024-10-4-piano-memories.md",
     "wiwi.blog.md",
     "2025-07-20-why-blog/docusaurus-plushie-banner.jpeg",
     "2025-07-20-why-blog",

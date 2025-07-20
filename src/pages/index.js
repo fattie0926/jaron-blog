@@ -3,7 +3,7 @@ import React from 'react';
 
 export default function Home() {
   return (
-    <Layout title="Jaron.Wang - 我的貼文和創作空間">
+    <Layout title="Jaron 的貼文">
       <main style={{ fontFamily: 'sans-serif', maxWidth: 720, margin: '80px auto', padding: '0 1em' }}>
         <h1>👋 嗨，我是則倫</h1>
 

@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: '王則倫的部落格',
+  title: 'Jaron Writes.',
   tagline: '寫作練習',
   favicon: 'img/favicon.ico',
 

@@ -74,7 +74,7 @@ _（是的，不管你叫 Reel 還是 Short，其實我們都看得出來是被 
    > **Key Activities Supporting This Goal:**  
    > * Regularly take the time for meaningful connection with those who are most important to me (e.g., a long talk, a meal, joint activity).  
    > * Give of myself to those who are most important to me (e.g., making nontrivial sacrifices that improve their lives).
-   >
+   >  
    > **個人目標：**  
    > 和一群對我來說重要的人，**維持親密且有意義的友誼關係**。  
    >  
