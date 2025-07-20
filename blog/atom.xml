@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fattie0926.github.io/blog</id>
-    <title>王則倫的部落格 Blog</title>
+    <title>Jaron Writes. Blog</title>
     <updated>2025-07-20T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://fattie0926.github.io/blog"/>
-    <subtitle>王則倫的部落格 Blog</subtitle>
+    <subtitle>Jaron Writes. Blog</subtitle>
     <icon>https://fattie0926.github.io/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[沒有社群怎麼活]]></title>
