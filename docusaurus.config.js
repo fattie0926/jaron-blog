@@ -82,7 +82,11 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/social-card.jpeg',
+      metadata: [
+        {name: 'og:image', content: 'https://www.jaron.tw/img/social-card.jpeg'},
+        {name: 'twitter:image', content: 'https://www.jaron.tw/img/social-card.jpeg'},
+      ],
       navbar: {
         title: 'Jaron Wong',
         logo: {
