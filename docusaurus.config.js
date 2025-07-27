@@ -84,7 +84,15 @@ const config = {
       // Replace with your project's social card
       image: 'img/social-card.jpeg',
       metadata: [
+        {name: 'og:type', content: 'website'},
+        {name: 'og:title', content: 'Jaron Writes.'},
+        {name: 'og:description', content: '寫下一些關於生活、創作和思考的片段。'},
         {name: 'og:image', content: 'https://www.jaron.tw/img/social-card.jpeg'},
+        {name: 'og:url', content: 'https://www.jaron.tw'},
+
+        {name: 'twitter:card', content: 'summary_large_image'},
+        {name: 'twitter:title', content: 'Jaron Writes.'},
+        {name: 'twitter:description', content: '寫下一些關於生活、創作和思考的片段。'},
         {name: 'twitter:image', content: 'https://www.jaron.tw/img/social-card.jpeg'},
       ],
       navbar: {
