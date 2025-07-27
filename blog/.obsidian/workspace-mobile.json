@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "2ab0d6e5dd6f157a",
+        "id": "1dbe1f4a49a32883",
         "type": "tabs",
         "children": [
           {
-            "id": "5890c60d017bec08",
+            "id": "0f483fd49906de70",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-07-20-why-leaving.md",
+                "file": "2025-07-23-birtv-day-2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-07-20-why-leaving"
+              "title": "2025-07-23-birtv-day-2"
+            }
+          },
+          {
+            "id": "479a1c1e033c817f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2025-07-24-birtv-day-2/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -36,7 +51,7 @@
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "alphabetical",
+            "sortOrder": "alphabeticalReverse",
             "autoReveal": false
           },
           "icon": "lucide-folder-closed",
@@ -98,6 +113,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "2025-07-22-birtv-day-1.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -147,12 +163,26 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "5890c60d017bec08",
+  "active": "479a1c1e033c817f",
   "lastOpenFiles": [
-    "2025-07-20-les-miserables.md",
-    "2025-07-20-why-leaving.md"
+    "2025-07-23-birtv-day-1/index.md",
+    "2025-07-22-first-time-in-beijing/index.md",
+    "2025-07-23-birtv-day-2.md",
+    "2025-07-22-birtv-day-1.md",
+    "2025-07-26-birtv-day-5.md",
+    "2025-07-25-birtv-day-4.md",
+    "2025-07-24-birtv-day-3.md",
+    "2025-07-20-why-blog.md",
+    "2025-07-22-beijing-day1.md",
+    "2025-07-21-youtube-has-changed.md",
+    "2025-07-21-name-and-identity.md",
+    "().md",
+    "blog/youtube-has-changed.md",
+    "blog",
+    "2025-07-20-les-miserables.md"
   ]
 }
