@@ -10,6 +10,8 @@ title: BIRTV｜不小心買了一台 RED
 
 > _門口的 Banner 就是三大單眼巨頭，不知道 Canon 那個位置要多加多少錢？_
 
+<!-- truncate -->
+
 ---
 
 ### 好大
