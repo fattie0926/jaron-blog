@@ -1,6 +1,6 @@
 ---
 slug: birtv-day-2
-title: BIRTV｜見到活的 Tim 老師
+title: 見到活的 Tim 老師
 ---
 昨晚跟 Paul 聊到凌晨 5 點，睡醒已經中午了。結果星培一起床就跟我說：
 
@@ -11,8 +11,6 @@ _**Tim 今天早上十點出現在展場**_
 我：😴🥱😮😦😧
 
 <!-- truncate -->
-
----
 
 ### 是活的 Tim！！！
 
@@ -60,15 +58,12 @@ _**Tim 今天早上十點出現在展場**_
 
 整體來說還蠻推薦的！我自己也還在使用初代的 [SHINOBI SDI](https://www.bhphotovideo.com/c/product/1470081-REG/atomos_atomshbs01_shinobi_5_3g_sdi.html) 版本。
 
----
-
 ### [Blackmagicdesign](https://www.blackmagicdesign.com/)
 
 他們展場的**工作人員都不太理人耶**！是我看起來太年輕了嗎？
 
-[Davinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) 後期相關的產品展的不多，只有 [Speed Editor](https://www.blackmagicdesign.com/products/davinciresolve/techspecs/W-DRE-13)、[Editor Keyboard](https://www.blackmagicdesign.com/products/davinciresolve/techspecs/W-DRE-12)、[Micro Color Panel](https://www.blackmagicdesign.com/products/davinciresolve/techspecs/W-DRE-16)，跟 [Advanced Panel](https://www.blackmagicdesign.com/products/davinciresolve/techspecs/W-DRE-06) 而已。我比較想看 [Mini Panel](https://www.blackmagicdesign.com/products/davinciresolve/techspecs/W-DRE-09) 跟 [Fairlight](https://www.blackmagicdesign.com/products/davinciresolve/fairlight) 相關的 Console。
-
----
+[Davinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) 後期相關的產品展的不多，只有 [Speed Editor](https://www.blackmagicdesign.com/products/davinciresolve/techspecs/W-DRE-13)、[Editor Keyboard](https://www.blackmagicdesign.com/products/davinciresolve/techspecs/W-DRE-12)、[Micro Color Panel](https://www.blackmagicdesign.com/products/davinciresolve/techspecs/W-DRE-16)，跟 [Advanced Panel](https://www.blackmagicdesign.com/products/davinciresolve/techspecs/W-DRE-06) 而已。  
+我比較想看 [Mini Panel](https://www.blackmagicdesign.com/products/davinciresolve/techspecs/W-DRE-09) 跟 [Fairlight](https://www.blackmagicdesign.com/products/davinciresolve/fairlight) 相關的 Console。
 
 ![](2025-07-24-advanced-panel.jpeg)
 
@@ -79,21 +74,15 @@ _**Tim 今天早上十點出現在展場**_
 **Editor Keybaord**，售價 US$655。  
 我還蠻想要這個的耶！因為用 Speed Editor 還是常常會需要鍵盤跟滑鼠切換，但這款直接把兩個功能整合在一起了。
 
----
-
 然後還有一台聽說是借來的 OB （[Outside Broadcast](https://en.wikipedia.org/wiki/Outside_broadcasting)）車。
 
 ![](2025-07-24-ob-truck.jpeg)
-
----
 
 ### [Aputure](https://aputure.com/) 的晚宴
 
 晚上參加 Aputure 的**行業用戶晚宴**，認識了很多厲害的創作者跟攝影指導！
 
 ![](2025-07-24-aputure.jpeg)
-
----
 
 他們今年新的技術的是 **BLAIR** 跟 **BLAIR-CG**，BLAIR-CG 分別代表著：
 
@@ -105,13 +94,11 @@ _**Tim 今天早上十點出現在展場**_
 - **C**yan（青色）
 - **G**reen（綠色）
 
-比起過往燈珠的排列組合，BLAIR-CG 可以覆蓋 90% 的 Rec2020，提供更廣的色域和顏色光創作者選擇，目前已經應用在 [STORM 80c](https://aputure.com/products/storm-80c) 和 Nova II[^1] 上。
+比起過往燈珠的排列組合，**BLAIR-_CG_** 可以覆蓋 90% 的 Rec2020，提供更廣的色域和顏色光創作者選擇，目前已經應用在 [STORM 80c](https://aputure.com/products/storm-80c) 和 Nova II[^1] 上。
 
-而 BLAIR 目前則應用在最新的 [STORM 400x](https://aputure.com/products/storm-400x) 上，它的 Indigo（靛藍）燈珠能模擬自然光與鎢絲燈光譜，讓 LED 光源更接近太陽光與鎢絲燈的質感。
+而 **BLAIR** 目前則應用在最新的 [STORM 400x](https://aputure.com/products/storm-400x) 上，它的 Indigo（靛藍）燈珠能模擬自然光與鎢絲燈光譜，讓 LED 光源更接近太陽光與鎢絲燈的質感。
 
----
-
-以下影片展示了 BLAIR-CG 的效果（[在 YouTube 上觀看](https://www.youtube.com/watch?v=影片ID)）：
+這個影片展示了 BLAIR-CG 的效果（[在 YouTube 上觀看](https://www.youtube.com/watch?v=影片ID)）：
 
 <iframe
   class="custom-iframe"
@@ -123,8 +110,6 @@ _**Tim 今天早上十點出現在展場**_
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen>
 </iframe>
-
----
 
 他們現場播放的 Demo 把 BLAIR-CG 的性能示範的很完整，但會讓我拿出手機拍的原因是，視覺真的做得**好用心**！
 
