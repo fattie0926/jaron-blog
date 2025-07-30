@@ -10,7 +10,9 @@ Helvetica 是啥？你可能沒注意過，但他真的**到處都是**。我很
 
 甚至我現在的品牌 [defines 定義文化](https://www.defines.tw/)，使用的第一版 **Logo 字型也是 Helvetica**！片中其中一位受訪者是這麼形容它的：
 
-> If you are _not a good designer_, or if you are _not a designer_, just use a Helvetica Bold in one size, like for a flyer. It looks good.
+> If you are _not a good designer_, or if you are _not a designer_, just use a Helvetica Bold in one size, like for a flyer. It looks good.  
+>   
+>   （如果你不是一個好的設計師，或者根本不是設計師，那就直接用同一個字級的 Helvetica 粗體，像做傳單一樣。看起來會很不錯。）
 
 大部分人應該都沒機會看完整部紀錄片，所以我打算來分享紀錄片中一些有趣的小故事：
 
@@ -22,12 +24,12 @@ Helvetica 這款字體由瑞士的 Haas 鑄字廠（後來被德國 Stempel 控�
 
 我覺得這隻紀錄片的價值除了紀念這個經典字體之外，還讓我們有機會一探究竟**字體設計師**的世界和浪漫，這是幾個讓我印象特別深刻、他們形容 Helvetica 的方式：
 
-- Helvetica is like air.  
+- Helvetica is **like air**.  
   _Helvetica 就像空氣一樣，無所不在。_
-- Helvetica the perfume of the city.  
-  _Helvetica 就有如城市裡的香水。_
-- Helvetica reminded me of cleaning up your room.  
-  _Helvetica 太簡潔了，以至於讓我想起我該打掃房間了。_
+- Helvetica **the perfume of the city**.  
+  _Helvetica 就像城市的香水。_
+- Helvetica reminded me of **cleaning up your room**.  
+  _Helvetica 簡潔的讓我想起該打掃房間了。_
 
 What？我這輩子都沒想過字體還能給人帶來這麼多感受。
 
