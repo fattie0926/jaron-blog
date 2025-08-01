@@ -25,8 +25,8 @@
 </blockquote>
 <p>聰明的你一定會覺得困惑，既沒有廣告、沒有演算法可以左右內容、又沒有短影片可以<a href="https://www.jaron.tw/blog/distraction-free">搶走我的注意力</a>，更不會在我在乎的朋友的貼文中來一則詐騙廣告，我<a href="https://www.jaron.tw/blog/why-blog">最喜歡的社群媒體</a>們怎麼可能會給我這麼好的東西呢！</p>
 <p>那就對了。Facebook 早在 2015 年就<a href="https://developers.facebook.com/docs/graph-api/changelog/version2.3#v2_3_90_day_deprecations" target="_blank" rel="noopener noreferrer">把官方的 RSS 給關閉了</a>。如果給你們這麼好康的，那我要怎麼知道你用哪一牌的手機、住在哪、你最好的朋友是誰、跟前女友在什麼時候分手（或許比你以為的還早）、你晚上會不會打開外送 App 點一份鹽酥雞，甚至能知道凌晨三點還在暈船對象的貼文停留了 27 秒？</p>
-<p>這些平台<strong>比你還要了解你自己</strong>，他們可以再把這些資料名正言順的跟「廣告合作夥伴」共享（畢竟你都在註冊帳號的時候同意了）。就算你關掉定位、登出帳號，甚至用無痕模式，他們還是能憑藉一些零碎的特徵<sup><a href="https://www.jaron.tw/blog/rss-reader#user-content-fn-1-7e8a7a" id="user-content-fnref-1-7e8a7a" data-footnote-ref="true" aria-describedby="footnote-label">1</a></sup>，<strong>把你從幾十億個用戶中精準的抓出來</strong>。</p>
-<p>不然你以為，這些社群平台怎麼會是免費的，難道是做身體健康的嗎？換句話說，使用者們正在把自己珍貴的注意力、時間、努力賺來的薪水<sup><a href="https://www.jaron.tw/blog/rss-reader#user-content-fn-2-7e8a7a" id="user-content-fnref-2-7e8a7a" data-footnote-ref="true" aria-describedby="footnote-label">2</a></sup>，跟你自己都不知道的秘密，拿來訂閱了這些「免費」的社群平台。</p>
+<p>這些平台<strong>比你還要了解你自己</strong>，他們可以再把這些資料名正言順的跟「廣告合作夥伴」共享（畢竟你都在註冊帳號的時候同意了）。就算你關掉定位、登出帳號，甚至用無痕模式，他們還是能憑藉一些零碎的特徵<sup><a href="https://www.jaron.tw/blog/rss-reader#user-content-fn-1-72c4f8" id="user-content-fnref-1-72c4f8" data-footnote-ref="true" aria-describedby="footnote-label">1</a></sup>，<strong>把你從幾十億個用戶中精準的抓出來</strong>。</p>
+<p>不然你以為，這些社群平台怎麼會是免費的，難道是做身體健康的嗎？換句話說，使用者們正在把自己珍貴的注意力、時間、努力賺來的薪水<sup><a href="https://www.jaron.tw/blog/rss-reader#user-content-fn-2-72c4f8" id="user-content-fnref-2-72c4f8" data-footnote-ref="true" aria-describedby="footnote-label">2</a></sup>，跟你自己都不知道的秘密，拿來訂閱了這些「免費」的社群平台。</p>
 <p>（<em>就在我寫這篇文章的當下，<a href="https://www.forbes.com/sites/tylerroush/2025/07/31/zuckerberg-overtakes-bezos-for-worlds-third-richest-person-as-meta-rally-adds-28-billion-to-his-fortune/" target="_blank" rel="noopener noreferrer">Mark Zuckerberg 的身價超過了 Jeff Bezos</a>，來到 2,684 億美元，世界排名第三。或許這就是我們「免費」使用社群媒體的代價。</em>）</p>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="快教教我吧">快教教我吧<a href="https://www.jaron.tw/blog/rss-reader#%E5%BF%AB%E6%95%99%E6%95%99%E6%88%91%E5%90%A7" class="hash-link" aria-label="快教教我吧的直接連結" title="快教教我吧的直接連結">​</a></h3>
 <p>好消息是，我們其實還有選擇。除了社群媒體以外，大部分的網站仍然提供了 RSS 訂閱，包括<a href="https://www.jaron.tw/blog/youtube-has-changed">我們最愛的 YouTube</a>。先來介紹閱讀器的部分。</p>
@@ -53,14 +53,17 @@
 <hr>
 <p>如果你也厭倦了演算法替你決定要看什麼，不如現在就花 5 分鐘，幫你的生活加點你真正想看的東西吧。（當然，先從我的部落格開始）。</p>
 <p>也恭喜你，離更安靜的生活又更進一步了！</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="後記">後記<a href="https://www.jaron.tw/blog/rss-reader#%E5%BE%8C%E8%A8%98" class="hash-link" aria-label="後記的直接連結" title="後記的直接連結">​</a></h3>
+<p>在我發佈文章不到半小時後，我媽已經自己載好 NetNewsWire，還訂閱了我的部落格耶！你還不趕快試試看嗎？</p>
+<p><img decoding="async" loading="lazy" src="https://www.jaron.tw/assets/images/2025-08-01-netnewswire-e06c570a6d4a1a305f60a48c24e62475.jpg" width="700" height="467" class="img_ev3q"></p>
 <!-- -->
 <section data-footnotes="true" class="footnotes"><h2 class="anchor anchorWithStickyNavbar_LWe7 sr-only" id="footnote-label">Footnotes<a href="https://www.jaron.tw/blog/rss-reader#footnote-label" class="hash-link" aria-label="Footnotes的直接連結" title="Footnotes的直接連結">​</a></h2>
 <ol>
-<li id="user-content-fn-1-7e8a7a">
-<p>舉例來說，像是你的 IP 位置、瀏覽器類型與版本、作業系統、螢幕解析度、安裝的字體跟外掛程式、時區和語言設定，甚至你的滑鼠移動和打字行為。這些東西單看一個都無法準確識別你，但組合起來就能形成一個幾乎<strong>獨一無二的數位指紋</strong>，用來追蹤或分析使用者行為。 <a href="https://www.jaron.tw/blog/rss-reader#user-content-fnref-1-7e8a7a" data-footnote-backref="" aria-label="Back to reference 1" class="data-footnote-backref">↩</a></p>
+<li id="user-content-fn-1-72c4f8">
+<p>舉例來說，像是你的 IP 位置、瀏覽器類型與版本、作業系統、螢幕解析度、安裝的字體跟外掛程式、時區和語言設定，甚至你的滑鼠移動和打字行為。這些東西單看一個都無法準確識別你，但組合起來就能形成一個幾乎<strong>獨一無二的數位指紋</strong>，用來追蹤或分析使用者行為。 <a href="https://www.jaron.tw/blog/rss-reader#user-content-fnref-1-72c4f8" data-footnote-backref="" aria-label="Back to reference 1" class="data-footnote-backref">↩</a></p>
 </li>
-<li id="user-content-fn-2-7e8a7a">
-<p>別讓我開始講購物網站那精準到噁心的廣告⋯⋯連你自己忘了加到購物車的東西，它都能提醒你。 <a href="https://www.jaron.tw/blog/rss-reader#user-content-fnref-2-7e8a7a" data-footnote-backref="" aria-label="Back to reference 2" class="data-footnote-backref">↩</a></p>
+<li id="user-content-fn-2-72c4f8">
+<p>別讓我開始講購物網站那精準到噁心的廣告⋯⋯連你自己忘了加到購物車的東西，它都能提醒你。 <a href="https://www.jaron.tw/blog/rss-reader#user-content-fnref-2-72c4f8" data-footnote-backref="" aria-label="Back to reference 2" class="data-footnote-backref">↩</a></p>
 </li>
 </ol>
 </section>]]></content:encoded>
