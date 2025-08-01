@@ -2,11 +2,68 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.jaron.tw/blog</id>
     <title>Jaron Writes. Blog</title>
-    <updated>2025-07-31T00:00:00.000Z</updated>
+    <updated>2025-08-01T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.jaron.tw/blog"/>
     <subtitle>Jaron Writes. Blog</subtitle>
     <icon>https://www.jaron.tw/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[RSS：比演算法更懂你的好朋友]]></title>
+        <id>https://www.jaron.tw/blog/rss-reader</id>
+        <link href="https://www.jaron.tw/blog/rss-reader"/>
+        <updated>2025-08-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[如果你跟我一樣，也厭倦了被演算法操控的首頁（同時也為了讓我的大腦獲得即時的獎勵），並且把我的文章塞進你各位的手機中，我想是時候來教大家怎麼訂閱你有興趣的 RSS 內容了！]]></summary>
+        <content type="html"><![CDATA[<p>如果你跟我一樣，也<a href="https://www.jaron.tw/blog/why-blog">厭倦了被演算法操控的首頁</a>（同時也為了讓我的大腦獲得<a href="https://www.jaron.tw/blog/distraction-free#%E5%8D%B3%E6%99%82%E7%9A%84%E7%8D%8E%E5%8B%B5">即時的獎勵</a>），並且把我的文章塞進你各位的手機中，我想是時候來教大家怎麼訂閱你有興趣的 RSS 內容了！</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="為什麼你該試試-rss">為什麼你該試試 RSS<a href="https://www.jaron.tw/blog/rss-reader#%E7%82%BA%E4%BB%80%E9%BA%BC%E4%BD%A0%E8%A9%B2%E8%A9%A6%E8%A9%A6-rss" class="hash-link" aria-label="為什麼你該試試 RSS的直接連結" title="為什麼你該試試 RSS的直接連結">​</a></h3>
+<p>RSS 其實是一個 1999 年就有的標準，好奇的人可以去<a href="https://zh.wikipedia.org/zh-tw/RSS" target="_blank" rel="noopener noreferrer">維基百科</a>看看詳細的介紹和歷史，但我們只需要知道：</p>
+<blockquote>
+<p>RSS 就像是幫你<strong>訂報紙的郵差</strong>。</p>
+<p>你喜歡的網站會有一個「RSS 檔案」（就像郵局的派送清單），裡面列出了最新的文章。
+然後你的 RSS 閱讀器（郵差）每天會自動去抓這份清單，把新內容送到你的 RSS App 裡，<strong>完全免費、沒有廣告、沒有演算法干擾，既有效率又乾淨</strong>。</p>
+<p>所以，你不用每天去逛 10 個網站找更新，只要打開 RSS 閱讀器，所有最新文章都已經幫你收集好了。</p>
+</blockquote>
+<p>聰明的你一定會覺得困惑，既沒有廣告、沒有演算法可以左右內容、又沒有短影片可以<a href="https://www.jaron.tw/blog/distraction-free">搶走我的注意力</a>，更不會在我在乎的朋友的貼文中來一則詐騙廣告，我<a href="https://www.jaron.tw/blog/why-blog">最喜歡的社群媒體</a>們怎麼可能會給我這麼好的東西呢！</p>
+<p>那就對了。Facebook 早在 2015 年就<a href="https://developers.facebook.com/docs/graph-api/changelog/version2.3#v2_3_90_day_deprecations" target="_blank" rel="noopener noreferrer">把官方的 RSS 給關閉了</a>。如果給你們這麼好康的，那我要怎麼知道你用哪一牌的手機、住在哪、你最好的朋友是誰、跟前女友在什麼時候分手（或許比你以為的還早）、你晚上會不會打開外送 App 點一份鹽酥雞，甚至能知道凌晨三點還在暈船對象的貼文停留了 27 秒？</p>
+<p>這些平台<strong>比你還要了解你自己</strong>，他們可以再把這些資料名正言順的跟「廣告合作夥伴」共享（畢竟你都在註冊帳號的時候同意了）。就算你關掉定位、登出帳號，甚至用無痕模式，他們還是能憑藉一些零碎的特徵<sup><a href="https://www.jaron.tw/blog/rss-reader#user-content-fn-1-7e8a7a" id="user-content-fnref-1-7e8a7a" data-footnote-ref="true" aria-describedby="footnote-label">1</a></sup>，<strong>把你從幾十億個用戶中精準的抓出來</strong>。</p>
+<p>不然你以為，這些社群平台怎麼會是免費的，難道是做身體健康的嗎？換句話說，使用者們正在把自己珍貴的注意力、時間、努力賺來的薪水<sup><a href="https://www.jaron.tw/blog/rss-reader#user-content-fn-2-7e8a7a" id="user-content-fnref-2-7e8a7a" data-footnote-ref="true" aria-describedby="footnote-label">2</a></sup>，跟你自己都不知道的秘密，拿來訂閱了這些「免費」的社群平台。</p>
+<p>（<em>就在我寫這篇文章的當下，<a href="https://www.forbes.com/sites/tylerroush/2025/07/31/zuckerberg-overtakes-bezos-for-worlds-third-richest-person-as-meta-rally-adds-28-billion-to-his-fortune/" target="_blank" rel="noopener noreferrer">Mark Zuckerberg 的身價超過了 Jeff Bezos</a>，來到 2,684 億美元，世界排名第三。或許這就是我們「免費」使用社群媒體的代價。</em>）</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="快教教我吧">快教教我吧<a href="https://www.jaron.tw/blog/rss-reader#%E5%BF%AB%E6%95%99%E6%95%99%E6%88%91%E5%90%A7" class="hash-link" aria-label="快教教我吧的直接連結" title="快教教我吧的直接連結">​</a></h3>
+<p>好消息是，我們其實還有選擇。除了社群媒體以外，大部分的網站仍然提供了 RSS 訂閱，包括<a href="https://www.jaron.tw/blog/youtube-has-changed">我們最愛的 YouTube</a>！先來介紹閱讀器的部分。</p>
+<p>我現在主要使用的 RSS 閱讀器是 <a href="https://netnewswire.com/" target="_blank" rel="noopener noreferrer">NetNewsWire</a>，完全<a href="https://github.com/Ranchero-Software/NetNewsWire" target="_blank" rel="noopener noreferrer"><strong>開源</strong></a>並且<strong>免費</strong>！提供了 <a href="https://netnewswire.com/NetNewsWire.zip" target="_blank" rel="noopener noreferrer">Mac</a> 和 <a href="https://apps.apple.com/us/app/netnewswire-rss-reader/id1480640210" target="_blank" rel="noopener noreferrer">iOS</a> 版本。雖然介面看起來比較舊一些些，但該有的功能都有，支援透過 iCloud 同步，而且跑起來超級快。他們的<a href="https://netnewswire.com/philosophy.html" target="_blank" rel="noopener noreferrer">開發哲學</a>是「App 不應該崩潰，應該沒有 Bug，而且要足夠快速。」（<em>瞥了一眼 Windows</em>）</p>
+<p>另外一款我這幾天開始嘗試的是 <a href="https://betamagic.nl/products/newsexplorer.html" target="_blank" rel="noopener noreferrer">News Explorer</a>，只要 $320 元就能買斷 <a href="https://betamagic.nl/store.html" target="_blank" rel="noopener noreferrer">Mac 版本</a>，還有 $150 元就可買斷的 <a href="https://geo.itunes.apple.com/us/app/news-explorer/id1032668306?ls=1&amp;mt=8&amp;at=1000lqMt&amp;ct=store-newsexplorer-ios" target="_blank" rel="noopener noreferrer">iOS/iPad/Watch/TV 版本</a>。他比 NetNewsWire 更現代、好看一點，介面更像我們習慣的網站的閱讀方式。反正可以買斷，也提供 14 天的免費試用，歡迎你去試試看！</p>
+<p>Windows 跟 Android 的使用者們，可能得研究一下 Reddit 上的朋友有沒有什麼推薦的好選項。如果你有推薦的軟體，可以寫信到 <a href="mailto:hi@fattie.io" target="_blank" rel="noopener noreferrer">hi@fattie.io</a> 跟我分享，我會趕緊更新在文章裡的。</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="怎麼找到-rss-網址">怎麼找到 RSS 網址<a href="https://www.jaron.tw/blog/rss-reader#%E6%80%8E%E9%BA%BC%E6%89%BE%E5%88%B0-rss-%E7%B6%B2%E5%9D%80" class="hash-link" aria-label="怎麼找到 RSS 網址的直接連結" title="怎麼找到 RSS 網址的直接連結">​</a></h3>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="我的部落格">我的部落格<a href="https://www.jaron.tw/blog/rss-reader#%E6%88%91%E7%9A%84%E9%83%A8%E8%90%BD%E6%A0%BC" class="hash-link" aria-label="我的部落格的直接連結" title="我的部落格的直接連結">​</a></h4>
+<p>不囉唆，這是這個部落格的 RSS 網址，請先試著在你剛剛下載好的閱讀器上加入我的網站（笑）</p>
+<p><code>https://jaron.tw/blog/rss.xml</code></p>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="youtube">YouTube<a href="https://www.jaron.tw/blog/rss-reader#youtube" class="hash-link" aria-label="YouTube的直接連結" title="YouTube的直接連結">​</a></h4>
+<p>YouTube 的 RSS 稍微麻煩一些些，建議使用電腦操作會比較容易。</p>
+<ol>
+<li>前往你想訂閱的頻道首頁。</li>
+<li>點一下「顯示更多」。</li>
+<li>點一下「分享頻道」&gt;「複製頻道 ID」。</li>
+<li>將複製好的頻道 ID，貼到以下的咒語末端。</li>
+</ol>
+<p><code>https://www.youtube.com/feeds/videos.xml?channel_id=[頻道 ID]</code></p>
+<p>舉例來說，像我的 YouTube 頻道的 RSS Feed 就是 <code>https://www.youtube.com/feeds/videos.xml?channel_id=UCT80xDnMqqK0FRH_h8IofkA</code>。</p>
+<p>雖然有一點麻煩，但會值得的。可以順便趁這個機會過濾一下你的推薦內容，試著挑出三個你最想花時間關注的創作者吧！（<em>我應該可以佔第四個名額吧？我一年才更新三隻影片，嘻嘻</em>）</p>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="其他網站">其他網站<a href="https://www.jaron.tw/blog/rss-reader#%E5%85%B6%E4%BB%96%E7%B6%B2%E7%AB%99" class="hash-link" aria-label="其他網站的直接連結" title="其他網站的直接連結">​</a></h4>
+<p>比較好心的網站或許能在底部或側邊欄找到一個 RSS 的圖案，但我想最快的方式是直接在網路上搜尋「某某網站 RSS 網址」。</p>
+<hr>
+<p>如果你也厭倦了演算法替你決定要看什麼，不如現在就花 5 分鐘，幫你的生活加點你真正想看的東西吧。（當然，先從我的部落格開始）。</p>
+<p>也恭喜你，離更安靜的生活又更進一步了！</p>
+<!-- -->
+<section data-footnotes="true" class="footnotes"><h2 class="anchor anchorWithStickyNavbar_LWe7 sr-only" id="footnote-label">Footnotes<a href="https://www.jaron.tw/blog/rss-reader#footnote-label" class="hash-link" aria-label="Footnotes的直接連結" title="Footnotes的直接連結">​</a></h2>
+<ol>
+<li id="user-content-fn-1-7e8a7a">
+<p>舉例來說，像是你的 IP 位置、瀏覽器類型與版本、作業系統、螢幕解析度、安裝的字體跟外掛程式、時區和語言設定，甚至你的滑鼠移動和打字行為。這些東西單看一個都無法準確識別你，但組合起來就能形成一個幾乎<strong>獨一無二的數位指紋</strong>，用來追蹤或分析使用者行為。 <a href="https://www.jaron.tw/blog/rss-reader#user-content-fnref-1-7e8a7a" data-footnote-backref="" aria-label="Back to reference 1" class="data-footnote-backref">↩</a></p>
+</li>
+<li id="user-content-fn-2-7e8a7a">
+<p>別讓我開始講購物網站那精準到噁心的廣告⋯⋯連你自己忘了加到購物車的東西，它都能提醒你。 <a href="https://www.jaron.tw/blog/rss-reader#user-content-fnref-2-7e8a7a" data-footnote-backref="" aria-label="Back to reference 2" class="data-footnote-backref">↩</a></p>
+</li>
+</ol>
+</section>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[時間都去哪兒了]]></title>
         <id>https://www.jaron.tw/blog/distraction-free</id>
@@ -486,10 +543,9 @@
 <p>所以我想，第一篇貼文就來分享一下我為什麼選擇離開社群媒體、重新定義自己跟社群媒體的關係。</p>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="你是原始人嗎">你是原始人嗎<a href="https://www.jaron.tw/blog/why-blog#%E4%BD%A0%E6%98%AF%E5%8E%9F%E5%A7%8B%E4%BA%BA%E5%97%8E" class="hash-link" aria-label="你是原始人嗎的直接連結" title="你是原始人嗎的直接連結">​</a></h3>
 <p>這是一個好問題，因為我也還沒有辦法想像在別人跟我要 IG 的時候，我卻拿出一個 QR Code 跟他說：</p>
-<p>「<em>很高興認識你，很抱歉，我沒有 IG，但這是我的部落格的 RSS，歡迎在你習慣的閱讀器上訂閱我的網站！</em>」</p>
+<p>「<em>很高興認識你，很抱歉，我沒有 IG，但這是我的部落格的 RSS，歡迎在你習慣的閱讀器上<a href="https://www.jaron.tw/blog/rss-reader">訂閱我的網站！</a></em>」</p>
 <p>這好像不是什麼很好的 pick up line，所以我也還在思考這個問題。</p>
-<hr>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="所以為什麼">所以為什麼<a href="https://www.jaron.tw/blog/why-blog#%E6%89%80%E4%BB%A5%E7%82%BA%E4%BB%80%E9%BA%BC" class="hash-link" aria-label="所以為什麼的直接連結" title="所以為什麼的直接連結">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="為什麼我要離開">為什麼我要離開<a href="https://www.jaron.tw/blog/why-blog#%E7%82%BA%E4%BB%80%E9%BA%BC%E6%88%91%E8%A6%81%E9%9B%A2%E9%96%8B" class="hash-link" aria-label="為什麼我要離開的直接連結" title="為什麼我要離開的直接連結">​</a></h3>
 <blockquote>
 <p>TL;DR 用社群媒體並沒有讓我變得更開心，也沒有讓我跟重要的人保持聯繫。</p>
 </blockquote>
@@ -499,7 +555,7 @@
 <p>忘記是國小幾年級的時候開始流行 Instagram，發發限時動態、摯友貼文，跟朋友在 Messenger 上聊天，玩玩 <a href="https://axesinmotion.com/extreme-car-driving-simulator/" target="_blank" rel="noopener noreferrer">Extreme Car Driving Simulator</a>、<a href="https://pixelgun3d.com/" target="_blank" rel="noopener noreferrer">Pixel Gun 3D</a>，一天頂多就花一兩個小時在手機上。</p>
 <p>雖然偶爾會被唸，但似乎也沒有造成什麼太大的困擾或問題。</p>
 <p>第一次真正從社群媒體休息，是國三的時候。為了更專心的準備會考，暫時把手機和電腦上的社群媒體封鎖掉，但考試一結束還是趕緊載回來了。</p>
-<hr>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="短影片世代">短影片世代<a href="https://www.jaron.tw/blog/why-blog#%E7%9F%AD%E5%BD%B1%E7%89%87%E4%B8%96%E4%BB%A3" class="hash-link" aria-label="短影片世代的直接連結" title="短影片世代的直接連結">​</a></h3>
 <p>社群媒體開始真正困擾我，是在大約 2022 年前後。Instagram、Facebook，還有曾經是我們<a href="https://www.jaron.tw/blog/youtube-has-changed">摯愛的 YouTube</a>，都紛紛在自己的平台上加入短影片功能之後。</p>
 <p><em>（是的，不管你叫 Reel 還是 Short，其實我們都看得出來是被 Tiktok 逼出來的功能。）</em></p>
 <p>我發現這種無止境的「被動」推播內容，不僅會吃掉我寶貴的休息時間，<strong>重點是，我看完之後也沒有變得更開心呀</strong>！</p>
@@ -507,7 +563,7 @@
 <p>我覺得短影音和社群媒體其實是個很大的議題，離開也是我累積多年使用經驗後做出的決定。</p>
 <p>或許未來我會多寫幾篇文章來聊聊我的想法，如果你想要了解其他人的想法的話，我推薦 The Game Theorists 的<a href="https://youtu.be/0Igj3qI0GBA" target="_blank" rel="noopener noreferrer">這部影片</a>，從使用者和創作者的角度都分析得很好。</p>
 </blockquote>
-<hr>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="停止使用的過程">停止使用的過程<a href="https://www.jaron.tw/blog/why-blog#%E5%81%9C%E6%AD%A2%E4%BD%BF%E7%94%A8%E7%9A%84%E9%81%8E%E7%A8%8B" class="hash-link" aria-label="停止使用的過程的直接連結" title="停止使用的過程的直接連結">​</a></h3>
 <p>這兩年的戒斷期，每個階段應該都能獨立寫出一篇文章來分享，但大致的幾個階段是這樣的：</p>
 <ol>
 <li>
@@ -522,7 +578,9 @@
 </li>
 <li>
 <p>我意識到，我使用社群媒體的真正理由，是想要跟對我重要的人維持互動與聯繫。<br>
-<!-- -->但這樣的行為，其實並不是達到這個目標的「關鍵活動」</p>
+<!-- -->但這樣的行為，其實並不是達到這個目標的「關鍵活動」。</p>
+</li>
+</ol>
 <p><a href="https://calnewport.com/" target="_blank" rel="noopener noreferrer">Cal Newport</a> 在《Deep Work》（2016）中舉了一個例子，讓我很有共鳴：</p>
 <blockquote>
 <p><strong>Personal Goal:</strong><br>
@@ -540,7 +598,7 @@
 <li>為這些重要的人付出自己（例如做出實質的犧牲，來讓他們的生活變得更好）。</li>
 </ul>
 </blockquote>
-</li>
+<ol start="5">
 <li>
 <p>把手機上的社群軟體卸載，透過 iPad 和電腦上的網頁版確保我不會錯過重要的訊息邀約。<br>
 <em>（雖然，你不應該透過私訊功能找我合作。</em>）</p>
@@ -550,7 +608,6 @@
 <!-- -->像是看電影、用心製作內容的創作者製作的影片、閱讀書籍、聽音樂或電子書，或是好好玩一個值得玩的遊戲，都是一些很好的選擇</p>
 </li>
 </ol>
-<hr>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="創作者的身份怎麼辦">創作者的身份怎麼辦<a href="https://www.jaron.tw/blog/why-blog#%E5%89%B5%E4%BD%9C%E8%80%85%E7%9A%84%E8%BA%AB%E4%BB%BD%E6%80%8E%E9%BA%BC%E8%BE%A6" class="hash-link" aria-label="創作者的身份怎麼辦的直接連結" title="創作者的身份怎麼辦的直接連結">​</a></h3>
 <p>除了前面提到的過程，另外是受到我的偶像兼良師 Wiwi 官大為的啟發。<br>
 <!-- -->他已經持續更新自己的部落格 <a href="https://wiwi.blog/" target="_blank" rel="noopener noreferrer">Wiwi.Blog</a> 將近一年了！</p>
@@ -568,7 +625,6 @@
 <li>瘋狂重整通知介面，死盯後台數據確保演算法會把我的作品推出去</li>
 <li>the list goes on...</li>
 </ul>
-<hr>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="我想要什麼">我想要什麼<a href="https://www.jaron.tw/blog/why-blog#%E6%88%91%E6%83%B3%E8%A6%81%E4%BB%80%E9%BA%BC" class="hash-link" aria-label="我想要什麼的直接連結" title="我想要什麼的直接連結">​</a></h3>
 <p>我覺得可以 Recap 回 Cal Newport 的觀點，跟對我重要的人維持互動與聯繫，所以好像也沒有太多的期待。</p>
 <p>但我確實有一些想要達成的目標，包括：</p>
@@ -582,7 +638,6 @@
 <p>如果你也正在思考如何重新找回自己的節奏，希望這裡能成為你停下來、喘口氣的其中一個角落：）</p>
 <p>謝謝你看到這裡，期待未來常常在這裡與你相見。</p>
 <p>有什麼想說的，也歡迎寫信來 <a href="mailto:hi@fattie.io" target="_blank" rel="noopener noreferrer">hi@fattie.io</a> 跟我聊天 🙋</p>
-<hr>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="如果你也想要">如果你也想要<a href="https://www.jaron.tw/blog/why-blog#%E5%A6%82%E6%9E%9C%E4%BD%A0%E4%B9%9F%E6%83%B3%E8%A6%81" class="hash-link" aria-label="如果你也想要的直接連結" title="如果你也想要的直接連結">​</a></h3>
 <p>我大約只花了五個小時就讓網站上線並且成功運作，從無到有。<br>
 <!-- -->（當然還有 ChatGPT 的幫助）</p>
