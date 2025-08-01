@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.jaron.tw/blog</id>
+    <id>https://www.jaron.tw/blog/</id>
     <title>Jaron Writes. Blog</title>
     <updated>2025-08-01T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://www.jaron.tw/blog"/>
+    <link rel="alternate" href="https://www.jaron.tw/blog/"/>
     <subtitle>Jaron Writes. Blog</subtitle>
     <icon>https://www.jaron.tw/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[RSS，比演算法更懂你]]></title>
-        <id>https://www.jaron.tw/blog/rss-reader</id>
-        <link href="https://www.jaron.tw/blog/rss-reader"/>
+        <id>https://www.jaron.tw/blog/rss-reader/</id>
+        <link href="https://www.jaron.tw/blog/rss-reader/"/>
         <updated>2025-08-01T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[如果你跟我一樣，也厭倦了被演算法操控的首頁（同時也為了讓我的大腦獲得即時的獎勵），並且把我的文章塞進你各位的手機中，我想是時候來教大家怎麼訂閱你有興趣的 RSS 內容了！]]></summary>
-        <content type="html"><![CDATA[<p>如果你跟我一樣，也<a href="https://www.jaron.tw/blog/why-blog">厭倦了被演算法操控的首頁</a>（同時也為了讓我的大腦獲得<a href="https://www.jaron.tw/blog/distraction-free#%E5%8D%B3%E6%99%82%E7%9A%84%E7%8D%8E%E5%8B%B5">即時的獎勵</a>），並且把我的文章塞進你各位的手機中，我想是時候來教大家怎麼訂閱你有興趣的 RSS 內容了！</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="為什麼你該試試-rss">為什麼你該試試 RSS<a href="https://www.jaron.tw/blog/rss-reader#%E7%82%BA%E4%BB%80%E9%BA%BC%E4%BD%A0%E8%A9%B2%E8%A9%A6%E8%A9%A6-rss" class="hash-link" aria-label="為什麼你該試試 RSS的直接連結" title="為什麼你該試試 RSS的直接連結">​</a></h3>
+        <content type="html"><![CDATA[<p>如果你跟我一樣，也<a href="https://www.jaron.tw/blog/why-blog/">厭倦了被演算法操控的首頁</a>（同時也為了讓我的大腦獲得<a href="https://www.jaron.tw/blog/distraction-free/#%E5%8D%B3%E6%99%82%E7%9A%84%E7%8D%8E%E5%8B%B5">即時的獎勵</a>），並且把我的文章塞進你各位的手機中，我想是時候來教大家怎麼訂閱你有興趣的 RSS 內容了！</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="為什麼你該試試-rss">為什麼你該試試 RSS<a href="https://www.jaron.tw/blog/rss-reader/#%E7%82%BA%E4%BB%80%E9%BA%BC%E4%BD%A0%E8%A9%B2%E8%A9%A6%E8%A9%A6-rss" class="hash-link" aria-label="為什麼你該試試 RSS的直接連結" title="為什麼你該試試 RSS的直接連結">​</a></h3>
 <p>RSS 其實是一個 1999 年就有的標準，好奇的人可以去<a href="https://zh.wikipedia.org/zh-tw/RSS" target="_blank" rel="noopener noreferrer">維基百科</a>看看詳細的介紹和歷史，但我們只需要知道：</p>
 <blockquote>
 <p>RSS 就像是幫你<strong>訂報紙的郵差</strong>。</p>
@@ -22,21 +22,21 @@
 然後你的 RSS 閱讀器（郵差）每天會自動去抓這份清單，把新內容送到你的 RSS App 裡，<strong>完全免費、沒有廣告、沒有演算法干擾，既有效率又乾淨</strong>。</p>
 <p>所以，你不用每天去逛 10 個網站找更新，只要打開 RSS 閱讀器，所有最新文章都已經幫你收集好了。</p>
 </blockquote>
-<p>聰明的你一定會覺得困惑，既沒有廣告、沒有演算法可以左右內容、又沒有短影片可以<a href="https://www.jaron.tw/blog/distraction-free">搶走我的注意力</a>，更不會在我在乎的朋友的貼文中來一則詐騙廣告，我<a href="https://www.jaron.tw/blog/why-blog">最喜歡的社群媒體</a>們怎麼可能會給我這麼好的東西呢！</p>
+<p>聰明的你一定會覺得困惑，既沒有廣告、沒有演算法可以左右內容、又沒有短影片可以<a href="https://www.jaron.tw/blog/distraction-free/">搶走我的注意力</a>，更不會在我在乎的朋友的貼文中來一則詐騙廣告，我<a href="https://www.jaron.tw/blog/why-blog/">最喜歡的社群媒體</a>們怎麼可能會給我這麼好的東西呢！</p>
 <p>那就對了。Facebook 早在 2015 年就<a href="https://developers.facebook.com/docs/graph-api/changelog/version2.3#v2_3_90_day_deprecations" target="_blank" rel="noopener noreferrer">把官方的 RSS 給關閉了</a>。如果給你們這麼好康的，那我要怎麼知道你用哪一牌的手機、住在哪、你最好的朋友是誰、跟前女友在什麼時候分手（或許比你以為的還早）、你晚上會不會打開外送 App 點一份鹽酥雞，甚至能知道凌晨三點還在暈船對象的貼文停留了 27 秒？</p>
-<p>這些平台<strong>比你還要了解你自己</strong>，他們可以再把這些資料名正言順的跟「廣告合作夥伴」共享（畢竟你都在註冊帳號的時候同意了）。就算你關掉定位、登出帳號，甚至用無痕模式，他們還是能憑藉一些零碎的特徵<sup><a href="https://www.jaron.tw/blog/rss-reader#user-content-fn-1-72c4f8" id="user-content-fnref-1-72c4f8" data-footnote-ref="true" aria-describedby="footnote-label">1</a></sup>，<strong>把你從幾十億個用戶中精準的抓出來</strong>。</p>
-<p>不然你以為，這些社群平台怎麼會是免費的，難道是做身體健康的嗎？換句話說，使用者們正在把自己珍貴的注意力、時間、努力賺來的薪水<sup><a href="https://www.jaron.tw/blog/rss-reader#user-content-fn-2-72c4f8" id="user-content-fnref-2-72c4f8" data-footnote-ref="true" aria-describedby="footnote-label">2</a></sup>，跟你自己都不知道的秘密，拿來訂閱了這些「免費」的社群平台。</p>
+<p>這些平台<strong>比你還要了解你自己</strong>，他們可以再把這些資料名正言順的跟「廣告合作夥伴」共享（畢竟你都在註冊帳號的時候同意了）。就算你關掉定位、登出帳號，甚至用無痕模式，他們還是能憑藉一些零碎的特徵<sup><a href="https://www.jaron.tw/blog/rss-reader/#user-content-fn-1-72c4f8" id="user-content-fnref-1-72c4f8" data-footnote-ref="true" aria-describedby="footnote-label">1</a></sup>，<strong>把你從幾十億個用戶中精準的抓出來</strong>。</p>
+<p>不然你以為，這些社群平台怎麼會是免費的，難道是做身體健康的嗎？換句話說，使用者們正在把自己珍貴的注意力、時間、努力賺來的薪水<sup><a href="https://www.jaron.tw/blog/rss-reader/#user-content-fn-2-72c4f8" id="user-content-fnref-2-72c4f8" data-footnote-ref="true" aria-describedby="footnote-label">2</a></sup>，跟你自己都不知道的秘密，拿來訂閱了這些「免費」的社群平台。</p>
 <p>（<em>就在我寫這篇文章的當下，<a href="https://www.forbes.com/sites/tylerroush/2025/07/31/zuckerberg-overtakes-bezos-for-worlds-third-richest-person-as-meta-rally-adds-28-billion-to-his-fortune/" target="_blank" rel="noopener noreferrer">Mark Zuckerberg 的身價超過了 Jeff Bezos</a>，來到 2,684 億美元，世界排名第三。或許這就是我們「免費」使用社群媒體的代價。</em>）</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="快教教我吧">快教教我吧<a href="https://www.jaron.tw/blog/rss-reader#%E5%BF%AB%E6%95%99%E6%95%99%E6%88%91%E5%90%A7" class="hash-link" aria-label="快教教我吧的直接連結" title="快教教我吧的直接連結">​</a></h3>
-<p>好消息是，我們其實還有選擇。除了社群媒體以外，大部分的網站仍然提供了 RSS 訂閱，包括<a href="https://www.jaron.tw/blog/youtube-has-changed">我們最愛的 YouTube</a>。先來介紹閱讀器的部分。</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="快教教我吧">快教教我吧<a href="https://www.jaron.tw/blog/rss-reader/#%E5%BF%AB%E6%95%99%E6%95%99%E6%88%91%E5%90%A7" class="hash-link" aria-label="快教教我吧的直接連結" title="快教教我吧的直接連結">​</a></h3>
+<p>好消息是，我們其實還有選擇。除了社群媒體以外，大部分的網站仍然提供了 RSS 訂閱，包括<a href="https://www.jaron.tw/blog/youtube-has-changed/">我們最愛的 YouTube</a>。先來介紹閱讀器的部分。</p>
 <p>我現在主要使用的 RSS 閱讀器是 <a href="https://netnewswire.com/" target="_blank" rel="noopener noreferrer">NetNewsWire</a>，完全<a href="https://github.com/Ranchero-Software/NetNewsWire" target="_blank" rel="noopener noreferrer"><strong>開源</strong></a>並且<strong>免費</strong>！提供了 <a href="https://netnewswire.com/NetNewsWire.zip" target="_blank" rel="noopener noreferrer">Mac</a> 和 <a href="https://apps.apple.com/us/app/netnewswire-rss-reader/id1480640210" target="_blank" rel="noopener noreferrer">iOS</a> 版本。雖然介面看起來比較舊一些些，但該有的功能都有，支援透過 iCloud 同步，而且跑起來超級快。他們的<a href="https://netnewswire.com/philosophy.html" target="_blank" rel="noopener noreferrer">開發哲學</a>是「App 不應該崩潰，應該沒有 Bug，而且要足夠快速。」（<em>瞥了一眼 Windows</em>）</p>
 <p>另外一款我這幾天開始嘗試的是 <a href="https://betamagic.nl/products/newsexplorer.html" target="_blank" rel="noopener noreferrer">News Explorer</a>，只要 $320 元就能買斷 <a href="https://betamagic.nl/store.html" target="_blank" rel="noopener noreferrer">Mac 版本</a>，還有 $150 元就可買斷的 <a href="https://geo.itunes.apple.com/us/app/news-explorer/id1032668306?ls=1&amp;mt=8&amp;at=1000lqMt&amp;ct=store-newsexplorer-ios" target="_blank" rel="noopener noreferrer">iOS/iPad/Watch/TV 版本</a>。他比 NetNewsWire 更現代、好看一點，介面更像我們習慣的網站的閱讀方式。反正可以買斷，也提供 14 天的免費試用，歡迎你去試試看！</p>
 <p>Windows 跟 Android 的使用者們，可能得研究一下 Reddit 上的朋友有沒有什麼推薦的好選項。如果你有推薦的軟體，可以寫信到 <a href="mailto:hi@fattie.io" target="_blank" rel="noopener noreferrer">hi@fattie.io</a> 跟我分享，我會趕緊更新在文章裡的。</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="怎麼找到-rss-網址">怎麼找到 RSS 網址<a href="https://www.jaron.tw/blog/rss-reader#%E6%80%8E%E9%BA%BC%E6%89%BE%E5%88%B0-rss-%E7%B6%B2%E5%9D%80" class="hash-link" aria-label="怎麼找到 RSS 網址的直接連結" title="怎麼找到 RSS 網址的直接連結">​</a></h3>
-<h4 class="anchor anchorWithStickyNavbar_LWe7" id="我的部落格">我的部落格<a href="https://www.jaron.tw/blog/rss-reader#%E6%88%91%E7%9A%84%E9%83%A8%E8%90%BD%E6%A0%BC" class="hash-link" aria-label="我的部落格的直接連結" title="我的部落格的直接連結">​</a></h4>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="怎麼找到-rss-網址">怎麼找到 RSS 網址<a href="https://www.jaron.tw/blog/rss-reader/#%E6%80%8E%E9%BA%BC%E6%89%BE%E5%88%B0-rss-%E7%B6%B2%E5%9D%80" class="hash-link" aria-label="怎麼找到 RSS 網址的直接連結" title="怎麼找到 RSS 網址的直接連結">​</a></h3>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="我的部落格">我的部落格<a href="https://www.jaron.tw/blog/rss-reader/#%E6%88%91%E7%9A%84%E9%83%A8%E8%90%BD%E6%A0%BC" class="hash-link" aria-label="我的部落格的直接連結" title="我的部落格的直接連結">​</a></h4>
 <p>不囉唆，這是這個部落格的 RSS 網址，請先試著在你剛剛下載好的閱讀器上加入我的網站（笑）</p>
 <p><code>https://jaron.tw/blog/rss.xml</code></p>
-<h4 class="anchor anchorWithStickyNavbar_LWe7" id="youtube">YouTube<a href="https://www.jaron.tw/blog/rss-reader#youtube" class="hash-link" aria-label="YouTube的直接連結" title="YouTube的直接連結">​</a></h4>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="youtube">YouTube<a href="https://www.jaron.tw/blog/rss-reader/#youtube" class="hash-link" aria-label="YouTube的直接連結" title="YouTube的直接連結">​</a></h4>
 <p>YouTube 的 RSS 稍微麻煩一些些，建議使用電腦操作會比較容易。</p>
 <ol>
 <li>前往你想訂閱的頻道首頁。</li>
@@ -47,35 +47,35 @@
 <p><code>https://www.youtube.com/feeds/videos.xml?channel_id=[頻道 ID]</code></p>
 <p>舉例來說，像我的 YouTube 頻道的 RSS Feed 就是 <code>https://www.youtube.com/feeds/videos.xml?channel_id=UCT80xDnMqqK0FRH_h8IofkA</code>。</p>
 <p>雖然有一點麻煩，但會值得的。可以順便趁這個機會過濾一下你的推薦內容，試著挑出三個你最想花時間關注的創作者吧！（<em>我應該可以佔第四個名額吧？我一年才更新三隻影片，嘻嘻</em>）</p>
-<h4 class="anchor anchorWithStickyNavbar_LWe7" id="其他網站">其他網站<a href="https://www.jaron.tw/blog/rss-reader#%E5%85%B6%E4%BB%96%E7%B6%B2%E7%AB%99" class="hash-link" aria-label="其他網站的直接連結" title="其他網站的直接連結">​</a></h4>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="其他網站">其他網站<a href="https://www.jaron.tw/blog/rss-reader/#%E5%85%B6%E4%BB%96%E7%B6%B2%E7%AB%99" class="hash-link" aria-label="其他網站的直接連結" title="其他網站的直接連結">​</a></h4>
 <p>比較好心的網站或許能在底部或側邊欄找到一個 RSS 的圖案，但我想最快的方式是直接在網路上搜尋「某某網站 RSS 網址」。</p>
 <hr>
 <p>如果你也厭倦了演算法替你決定要看什麼，不如現在就花 5 分鐘，幫你的生活加點你真正想看的東西吧。（當然，先從我的部落格開始）。</p>
 <p>也恭喜你，離更安靜的生活又更進一步了！</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="後記">後記<a href="https://www.jaron.tw/blog/rss-reader#%E5%BE%8C%E8%A8%98" class="hash-link" aria-label="後記的直接連結" title="後記的直接連結">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="後記">後記<a href="https://www.jaron.tw/blog/rss-reader/#%E5%BE%8C%E8%A8%98" class="hash-link" aria-label="後記的直接連結" title="後記的直接連結">​</a></h3>
 <p>在我發佈文章不到半小時後，我媽已經自己載好 NetNewsWire，還訂閱了我的部落格耶！你還不趕快試試看嗎？</p>
 <p><img decoding="async" loading="lazy" src="https://www.jaron.tw/assets/images/2025-08-01-netnewswire-e06c570a6d4a1a305f60a48c24e62475.jpg" width="700" height="467" class="img_ev3q"></p>
 <!-- -->
-<section data-footnotes="true" class="footnotes"><h2 class="anchor anchorWithStickyNavbar_LWe7 sr-only" id="footnote-label">Footnotes<a href="https://www.jaron.tw/blog/rss-reader#footnote-label" class="hash-link" aria-label="Footnotes的直接連結" title="Footnotes的直接連結">​</a></h2>
+<section data-footnotes="true" class="footnotes"><h2 class="anchor anchorWithStickyNavbar_LWe7 sr-only" id="footnote-label">Footnotes<a href="https://www.jaron.tw/blog/rss-reader/#footnote-label" class="hash-link" aria-label="Footnotes的直接連結" title="Footnotes的直接連結">​</a></h2>
 <ol>
 <li id="user-content-fn-1-72c4f8">
-<p>舉例來說，像是你的 IP 位置、瀏覽器類型與版本、作業系統、螢幕解析度、安裝的字體跟外掛程式、時區和語言設定，甚至你的滑鼠移動和打字行為。這些東西單看一個都無法準確識別你，但組合起來就能形成一個幾乎<strong>獨一無二的數位指紋</strong>，用來追蹤或分析使用者行為。 <a href="https://www.jaron.tw/blog/rss-reader#user-content-fnref-1-72c4f8" data-footnote-backref="" aria-label="Back to reference 1" class="data-footnote-backref">↩</a></p>
+<p>舉例來說，像是你的 IP 位置、瀏覽器類型與版本、作業系統、螢幕解析度、安裝的字體跟外掛程式、時區和語言設定，甚至你的滑鼠移動和打字行為。這些東西單看一個都無法準確識別你，但組合起來就能形成一個幾乎<strong>獨一無二的數位指紋</strong>，用來追蹤或分析使用者行為。 <a href="https://www.jaron.tw/blog/rss-reader/#user-content-fnref-1-72c4f8" data-footnote-backref="" aria-label="Back to reference 1" class="data-footnote-backref">↩</a></p>
 </li>
 <li id="user-content-fn-2-72c4f8">
-<p>別讓我開始講購物網站那精準到噁心的廣告⋯⋯連你自己忘了加到購物車的東西，它都能提醒你。 <a href="https://www.jaron.tw/blog/rss-reader#user-content-fnref-2-72c4f8" data-footnote-backref="" aria-label="Back to reference 2" class="data-footnote-backref">↩</a></p>
+<p>別讓我開始講購物網站那精準到噁心的廣告⋯⋯連你自己忘了加到購物車的東西，它都能提醒你。 <a href="https://www.jaron.tw/blog/rss-reader/#user-content-fnref-2-72c4f8" data-footnote-backref="" aria-label="Back to reference 2" class="data-footnote-backref">↩</a></p>
 </li>
 </ol>
 </section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[時間都去哪兒了]]></title>
-        <id>https://www.jaron.tw/blog/distraction-free</id>
-        <link href="https://www.jaron.tw/blog/distraction-free"/>
+        <id>https://www.jaron.tw/blog/distraction-free/</id>
+        <link href="https://www.jaron.tw/blog/distraction-free/"/>
         <updated>2025-07-31T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[距離我把所有社群媒體從手機上刪除已經過了 11 天左右，雖然中間有大約一個禮拜是在北京出差，但我意外的發現自己沒有變得更有效率。]]></summary>
-        <content type="html"><![CDATA[<p>距離我把所有<a href="https://www.jaron.tw/blog/why-blog">社群媒體從手機上刪除</a>已經過了 11 天左右，雖然中間有大約一個禮拜是在<a href="https://www.jaron.tw/blog/birtv-day-1">北京出差</a>，但我意外的發現自己沒有變得更有效率。</p>
-<p>對我來說，過去的我有幾種分心的管道，大致上是 Instagram、Facebook，還有 YouTube，但現在的我手機已經剩下 LINE 跟瀏覽器能用，除了<a href="https://www.jaron.tw/blog/youtube-has-changed#%E7%8F%BE%E5%9C%A8%E6%80%8E%E9%BA%BC%E8%BE%A6">每天看一部電影</a>、吃飯時看看 Netflix 外也沒有什麼娛樂，為什麼感覺還是沒有太多進度推進？</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="對生活的美好想像">對生活的美好想像<a href="https://www.jaron.tw/blog/distraction-free#%E5%B0%8D%E7%94%9F%E6%B4%BB%E7%9A%84%E7%BE%8E%E5%A5%BD%E6%83%B3%E5%83%8F" class="hash-link" aria-label="對生活的美好想像的直接連結" title="對生活的美好想像的直接連結">​</a></h3>
+        <content type="html"><![CDATA[<p>距離我把所有<a href="https://www.jaron.tw/blog/why-blog/">社群媒體從手機上刪除</a>已經過了 11 天左右，雖然中間有大約一個禮拜是在<a href="https://www.jaron.tw/blog/birtv-day-1/">北京出差</a>，但我意外的發現自己沒有變得更有效率。</p>
+<p>對我來說，過去的我有幾種分心的管道，大致上是 Instagram、Facebook，還有 YouTube，但現在的我手機已經剩下 LINE 跟瀏覽器能用，除了<a href="https://www.jaron.tw/blog/youtube-has-changed/#%E7%8F%BE%E5%9C%A8%E6%80%8E%E9%BA%BC%E8%BE%A6">每天看一部電影</a>、吃飯時看看 Netflix 外也沒有什麼娛樂，為什麼感覺還是沒有太多進度推進？</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="對生活的美好想像">對生活的美好想像<a href="https://www.jaron.tw/blog/distraction-free/#%E5%B0%8D%E7%94%9F%E6%B4%BB%E7%9A%84%E7%BE%8E%E5%A5%BD%E6%83%B3%E5%83%8F" class="hash-link" aria-label="對生活的美好想像的直接連結" title="對生活的美好想像的直接連結">​</a></h3>
 <p>我隨機找出了 2024 年 2 月螢幕使用時間的紀錄，iPhone 一週的使用時間是 41 小時（<em>WTF？</em>），其中 App 的排名是：</p>
 <ul>
 <li><strong>YouTube，7 小時</strong></li>
@@ -89,30 +89,30 @@
 <li>ChatGPT、相簿、NetNewsWire，都大約 1.5 小時</li>
 </ul>
 <p>（<em>LINE 已經是現在少數我能透過網路跟人類互動的管道了，好像不能再減少哈哈哈</em>）</p>
-<p>我原本的想像可能是，一天多出好幾個小時可以連續專注的時間、<a href="https://www.jaron.tw/blog/youtube-has-changed">YouTube 影片</a>可以更新的更快、可以花時間時間<a href="https://www.jaron.tw/blog/gene-takavic#%E7%86%B1%E6%83%85%E5%8F%AF%E4%BB%A5%E5%BB%B6%E5%BE%8C%E5%97%8E">準備大學的課業</a>。奇怪，理論上我應該多了至少 10 小時的時間、能長時間專注的時間區塊，同時現在少了這麼多讓我分心的來源，怎麼感覺還是沒有太多進度在推動？</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="事情不會自己完成">事情不會自己完成<a href="https://www.jaron.tw/blog/distraction-free#%E4%BA%8B%E6%83%85%E4%B8%8D%E6%9C%83%E8%87%AA%E5%B7%B1%E5%AE%8C%E6%88%90" class="hash-link" aria-label="事情不會自己完成的直接連結" title="事情不會自己完成的直接連結">​</a></h3>
+<p>我原本的想像可能是，一天多出好幾個小時可以連續專注的時間、<a href="https://www.jaron.tw/blog/youtube-has-changed/">YouTube 影片</a>可以更新的更快、可以花時間時間<a href="https://www.jaron.tw/blog/gene-takavic/#%E7%86%B1%E6%83%85%E5%8F%AF%E4%BB%A5%E5%BB%B6%E5%BE%8C%E5%97%8E">準備大學的課業</a>。奇怪，理論上我應該多了至少 10 小時的時間、能長時間專注的時間區塊，同時現在少了這麼多讓我分心的來源，怎麼感覺還是沒有太多進度在推動？</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="事情不會自己完成">事情不會自己完成<a href="https://www.jaron.tw/blog/distraction-free/#%E4%BA%8B%E6%83%85%E4%B8%8D%E6%9C%83%E8%87%AA%E5%B7%B1%E5%AE%8C%E6%88%90" class="hash-link" aria-label="事情不會自己完成的直接連結" title="事情不會自己完成的直接連結">​</a></h3>
 <p>其實一開始我也蠻不解的，因為感性上覺得「只要不分心，事情就會自己完成」，但事實證明完全不是這樣。雖然時間多了，但相對的也會有更多潛在的<strong>碎片任務</strong>偷偷的把自己寶貴的時間和專注力吃掉，比如：跟朋友閒聊午餐要吃什麼、整理一下兩百年沒有整理的硬碟，又或是為了寫一篇部落格卻花了兩倍的時間在研究背景資料。</p>
 <p>這些事情都很好，也值得花時間在上面，但<strong>每天追著我跑的事情並不會自己完成啊</strong>！兩個禮拜沒動的影片腳本不會自己寫出來、下個月要修的微積分沒有記憶吐司可以吃、已經拍完兩個月的紀錄片更不會自己剪好粗剪。（<em>一邊寫冷汗都要冒出來了</em>）</p>
-<p>雖然生活中少了很多雜音，但我同時也需要一個明確的目標系統。比如，每天至少完成三件重要但不緊急的事（Important but not urgent）<sup><a href="https://www.jaron.tw/blog/distraction-free#user-content-fn-1-e673fe" id="user-content-fnref-1-e673fe" data-footnote-ref="true" aria-describedby="footnote-label">1</a></sup>，像是寫部落格、系統化的預習開學後要修的課程、消化自己的書單、花二十分鐘規劃明天要完成的事項，或甚至規劃兩年後的旅行。這些事雖然不緊急，但都很重要，並且貢獻了<strong>長期的價值和成果</strong>。</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="即時的獎勵">即時的獎勵<a href="https://www.jaron.tw/blog/distraction-free#%E5%8D%B3%E6%99%82%E7%9A%84%E7%8D%8E%E5%8B%B5" class="hash-link" aria-label="即時的獎勵的直接連結" title="即時的獎勵的直接連結">​</a></h3>
+<p>雖然生活中少了很多雜音，但我同時也需要一個明確的目標系統。比如，每天至少完成三件重要但不緊急的事（Important but not urgent）<sup><a href="https://www.jaron.tw/blog/distraction-free/#user-content-fn-1-e673fe" id="user-content-fnref-1-e673fe" data-footnote-ref="true" aria-describedby="footnote-label">1</a></sup>，像是寫部落格、系統化的預習開學後要修的課程、消化自己的書單、花二十分鐘規劃明天要完成的事項，或甚至規劃兩年後的旅行。這些事雖然不緊急，但都很重要，並且貢獻了<strong>長期的價值和成果</strong>。</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="即時的獎勵">即時的獎勵<a href="https://www.jaron.tw/blog/distraction-free/#%E5%8D%B3%E6%99%82%E7%9A%84%E7%8D%8E%E5%8B%B5" class="hash-link" aria-label="即時的獎勵的直接連結" title="即時的獎勵的直接連結">​</a></h3>
 <p>除了執行面需要一個更明確的目標外，我覺得在心理層面上也少了即時的回饋（也可以說是給大腦的獎勵，Reward）。以前如果是在 Facebook 上寫好一篇貼文，可以在發佈之後馬上收到（為數不多）的按讚通知，拍了一隻新影片可以馬上分享在 Instagram 限時動態，還能收到大家的愛心。但現在，距離發佈第一篇貼文到現在，我都不知道有沒有人看過其中的三篇貼文。</p>
 <p>最一開始其實還蠻不習慣的，就連發佈這裡的貼文都很沒有儀式感，因為我已經把工作流優化到在終端機中輸入 <code>sync-blog</code>，再按 <code>y</code> 就能發佈文章了。網站上也沒有瀏覽人次、留言區，我也沒有用任何分析的工具來看看今天有誰拜訪了我的網站。<em>如果做完一件事沒有馬上被看見，他還有價值嗎？</em></p>
-<p>其實，最近的我有時候也會想，<a href="https://www.jaron.tw/blog/why-blog">淡出社群媒體</a>會不會是一個錯誤的選擇？但同時自己又還蠻享受這種 Disctraction-free（無干擾的、專心的）的生活，雖然短期還看不到太多的產出，但或許只要我能照著自己的步調、跟隨 Stephen Covey 的建議，或許確實能有<a href="https://www.jaron.tw/blog/helvetica#%E6%88%91%E5%80%91%E6%9C%89%E5%81%9A%E5%87%BA%E6%9B%B4%E5%A5%BD%E7%9A%84%E6%9D%B1%E8%A5%BF%E5%97%8E">更好的產出</a>？</p>
+<p>其實，最近的我有時候也會想，<a href="https://www.jaron.tw/blog/why-blog/">淡出社群媒體</a>會不會是一個錯誤的選擇？但同時自己又還蠻享受這種 Disctraction-free（無干擾的、專心的）的生活，雖然短期還看不到太多的產出，但或許只要我能照著自己的步調、跟隨 Stephen Covey 的建議，或許確實能有<a href="https://www.jaron.tw/blog/helvetica/#%E6%88%91%E5%80%91%E6%9C%89%E5%81%9A%E5%87%BA%E6%9B%B4%E5%A5%BD%E7%9A%84%E6%9D%B1%E8%A5%BF%E5%97%8E">更好的產出</a>？</p>
 <p>說不定一個月後我就把這裡給關了，然後打開 Instagram 假裝什麼都沒發生過也說不定？</p>
 <p><em>假如一棵樹在森林裡倒下而沒有人在附近聽見，那它有沒有發出聲音？</em></p>
 <!-- -->
-<section data-footnotes="true" class="footnotes"><h2 class="anchor anchorWithStickyNavbar_LWe7 sr-only" id="footnote-label">Footnotes<a href="https://www.jaron.tw/blog/distraction-free#footnote-label" class="hash-link" aria-label="Footnotes的直接連結" title="Footnotes的直接連結">​</a></h2>
+<section data-footnotes="true" class="footnotes"><h2 class="anchor anchorWithStickyNavbar_LWe7 sr-only" id="footnote-label">Footnotes<a href="https://www.jaron.tw/blog/distraction-free/#footnote-label" class="hash-link" aria-label="Footnotes的直接連結" title="Footnotes的直接連結">​</a></h2>
 <ol>
 <li id="user-content-fn-1-e673fe">
-<p>來自《7 Habits of Highly Effective People》by Stephen Covey。有機會再寫一篇文章分享這本經典好書。 <a href="https://www.jaron.tw/blog/distraction-free#user-content-fnref-1-e673fe" data-footnote-backref="" aria-label="Back to reference 1" class="data-footnote-backref">↩</a></p>
+<p>來自《7 Habits of Highly Effective People》by Stephen Covey。有機會再寫一篇文章分享這本經典好書。 <a href="https://www.jaron.tw/blog/distraction-free/#user-content-fnref-1-e673fe" data-footnote-backref="" aria-label="Back to reference 1" class="data-footnote-backref">↩</a></p>
 </li>
 </ol>
 </section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Helvetica 是什麼]]></title>
-        <id>https://www.jaron.tw/blog/helvetica</id>
-        <link href="https://www.jaron.tw/blog/helvetica"/>
+        <id>https://www.jaron.tw/blog/helvetica/</id>
+        <link href="https://www.jaron.tw/blog/helvetica/"/>
         <updated>2025-07-30T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[意外看到一篇 Wiwi 老師在 2008 年寫的一篇貼文，提到了這部 2007 年的《Helvetica》，一部在介紹至今已經有將近 70 年歷史的字型 Helvetica 的紀錄片。]]></summary>
         <content type="html"><![CDATA[<p>意外看到一篇 <a href="https://wiwi.blog/" target="_blank" rel="noopener noreferrer">Wiwi</a> 老師在 2008 年寫的<a href="https://wiwi.blog/blog/helvetica" target="_blank" rel="noopener noreferrer">一篇貼文</a>，提到了這部 2007 年的《<a href="https://www.imdb.com/title/tt0847817/" target="_blank" rel="noopener noreferrer">Helvetica</a>》，一部在介紹至今已經有將近 70 年歷史的字型 <strong>Helvetica</strong> 的紀錄片。</p>
@@ -123,9 +123,9 @@
 <p>（如果你不是一個好的設計師，或者根本不是設計師，那就直接用同一個字級的 Helvetica 粗體，像做傳單一樣。看起來會很不錯。）</p>
 </blockquote>
 <p>大部分人應該都沒機會看完整部紀錄片，所以我打算來分享紀錄片中一些有趣的小故事：</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="helvetica-名字的由來">Helvetica 名字的由來<a href="https://www.jaron.tw/blog/helvetica#helvetica-%E5%90%8D%E5%AD%97%E7%9A%84%E7%94%B1%E4%BE%86" class="hash-link" aria-label="Helvetica 名字的由來的直接連結" title="Helvetica 名字的由來的直接連結">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="helvetica-名字的由來">Helvetica 名字的由來<a href="https://www.jaron.tw/blog/helvetica/#helvetica-%E5%90%8D%E5%AD%97%E7%9A%84%E7%94%B1%E4%BE%86" class="hash-link" aria-label="Helvetica 名字的由來的直接連結" title="Helvetica 名字的由來的直接連結">​</a></h3>
 <p>Helvetica 這款字體由瑞士的 Haas 鑄字廠（後來被德國 Stempel 控股）推出，最初的名稱是「<strong>Neue Haas Grotesk</strong>」。然而，Stempel 認為這個名字不適合銷售到美國市場，於是建議改為 <strong><em>Helvetia</em></strong>（拉丁文中的「瑞士」）。但當時的 Haas 負責人 Eduard Hoffmann 認為<strong>不能以國名來命名字體</strong>，於是提出了 Helvetica，最終成為這款經典字型的名稱。</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="字體設計師的浪漫">字體設計師的浪漫<a href="https://www.jaron.tw/blog/helvetica#%E5%AD%97%E9%AB%94%E8%A8%AD%E8%A8%88%E5%B8%AB%E7%9A%84%E6%B5%AA%E6%BC%AB" class="hash-link" aria-label="字體設計師的浪漫的直接連結" title="字體設計師的浪漫的直接連結">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="字體設計師的浪漫">字體設計師的浪漫<a href="https://www.jaron.tw/blog/helvetica/#%E5%AD%97%E9%AB%94%E8%A8%AD%E8%A8%88%E5%B8%AB%E7%9A%84%E6%B5%AA%E6%BC%AB" class="hash-link" aria-label="字體設計師的浪漫的直接連結" title="字體設計師的浪漫的直接連結">​</a></h3>
 <p>我覺得這隻紀錄片的價值除了紀念這個經典字體之外，還讓我們有機會一探究竟<strong>字體設計師</strong>的世界和浪漫，這是幾個讓我印象特別深刻、他們形容 Helvetica 的方式：</p>
 <ul>
 <li>Helvetica is <strong>like air</strong>.<br>
@@ -136,7 +136,7 @@
 <em>Helvetica 簡潔的讓我想起該打掃房間了。</em></li>
 </ul>
 <p>What？我這輩子都沒想過字體還能給人帶來這麼多感受。</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="我們有做出更好的東西嗎">我們有做出更好的東西嗎<a href="https://www.jaron.tw/blog/helvetica#%E6%88%91%E5%80%91%E6%9C%89%E5%81%9A%E5%87%BA%E6%9B%B4%E5%A5%BD%E7%9A%84%E6%9D%B1%E8%A5%BF%E5%97%8E" class="hash-link" aria-label="我們有做出更好的東西嗎的直接連結" title="我們有做出更好的東西嗎的直接連結">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="我們有做出更好的東西嗎">我們有做出更好的東西嗎<a href="https://www.jaron.tw/blog/helvetica/#%E6%88%91%E5%80%91%E6%9C%89%E5%81%9A%E5%87%BA%E6%9B%B4%E5%A5%BD%E7%9A%84%E6%9D%B1%E8%A5%BF%E5%97%8E" class="hash-link" aria-label="我們有做出更好的東西嗎的直接連結" title="我們有做出更好的東西嗎的直接連結">​</a></h3>
 <p>更有意思的是，在片中 2007 年的年代，你可以看到許多傳統的字體師正好遇上個人電腦首次出現的時期。他們認為「電腦能讓你的工作<strong>變得更有效率</strong>，但<strong>不能讓你做出更好的東西</strong>」。這不禁讓我反思，我們這個世代雖然擁有一大堆技術革新、用不完的數位工具，還有發展神速的生成式人工智慧，但 ——</p>
 <blockquote>
 <p><strong>我們真的有做出更好的東西嗎</strong>？</p>
@@ -147,42 +147,42 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[懷念每天練琴的時光]]></title>
-        <id>https://www.jaron.tw/blog/gene-takavic</id>
-        <link href="https://www.jaron.tw/blog/gene-takavic"/>
+        <id>https://www.jaron.tw/blog/gene-takavic/</id>
+        <link href="https://www.jaron.tw/blog/gene-takavic/"/>
         <updated>2025-07-29T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[剛從北京回來這幾天還在補眠，昨晚看電影《世界上最爛的人》還沒看完第一段就睡著了，真的有夠累。比較尷尬的是從 8 點睡到凌晨爬起來，這要我怎麼繼續睡？]]></summary>
         <content type="html"><![CDATA[<p>剛從北京回來這幾天還在補眠，昨晚看電影《<a href="https://www.imdb.com/title/tt10370710/" target="_blank" rel="noopener noreferrer">世界上最爛的人</a>》還沒看完第一段就睡著了，真的有夠累。比較尷尬的是<strong>從 8 點睡到凌晨</strong>爬起來，這要我怎麼繼續睡？</p>
 <p>折騰了一番之後，還是起床騎車跑去吃麥當勞好了。</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="麥香魚跟-gene">麥香魚跟 Gene<a href="https://www.jaron.tw/blog/gene-takavic#%E9%BA%A5%E9%A6%99%E9%AD%9A%E8%B7%9F-gene" class="hash-link" aria-label="麥香魚跟 Gene的直接連結" title="麥香魚跟 Gene的直接連結">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="麥香魚跟-gene">麥香魚跟 Gene<a href="https://www.jaron.tw/blog/gene-takavic/#%E9%BA%A5%E9%A6%99%E9%AD%9A%E8%B7%9F-gene" class="hash-link" aria-label="麥香魚跟 Gene的直接連結" title="麥香魚跟 Gene的直接連結">​</a></h3>
 <p>帶著我的麥香魚、中薯，跟小杯玉米湯坐下，一邊聽著 <a href="https://www.jacobcollier.com/#/" target="_blank" rel="noopener noreferrer">Jacob Collier</a> 上一張專輯《<a href="https://jacobcollier.lnk.to/DjesseVol3SR" target="_blank" rel="noopener noreferrer">Djesee Vol. 3</a>》，看到手機推薦以前高中練琴的影片，突發奇想想聽聽看自己以前彈的怎麼樣。</p>
-<p>不過<a href="https://www.jaron.tw/blog/why-blog">該死的 YouTube</a> <strong>一上傳就給我版權砲</strong>，我沒辦法把影片內嵌進網頁，只能讓你們<a href="https://youtu.be/hSvjTOySmg8" target="_blank" rel="noopener noreferrer"><strong>點進去看</strong></a>了。</p>
+<p>不過<a href="https://www.jaron.tw/blog/why-blog/">該死的 YouTube</a> <strong>一上傳就給我版權砲</strong>，我沒辦法把影片內嵌進網頁，只能讓你們<a href="https://youtu.be/hSvjTOySmg8" target="_blank" rel="noopener noreferrer"><strong>點進去看</strong></a>了。</p>
 <blockquote>
 <p><em>免責聲明，這版本沒有彈的很好！</em><br>
 <em>但保有了我剛開始認識 Kapustin、還在認識曲子的「王則倫」風格。總覺得聽起來有點可愛？</em></p>
 </blockquote>
 <hr>
-<p>一邊吃薯條一邊聽著，我不知道為何腦中冒出《<a href="https://www.imdb.com/title/tt3032476/" target="_blank" rel="noopener noreferrer">絕命律師</a>》第一季第一集<sup><a href="https://www.jaron.tw/blog/gene-takavic#user-content-fn-1-1b3bbe" id="user-content-fnref-1-1b3bbe" data-footnote-ref="true" aria-describedby="footnote-label">1</a></sup>，Gene 在<a href="https://youtu.be/FKvTinFErwg" target="_blank" rel="noopener noreferrer">他家客廳看著他以前的廣告</a>的感覺？好像只差一瓶 Drambuie 跟 Dewars White Label 而已。</p>
+<p>一邊吃薯條一邊聽著，我不知道為何腦中冒出《<a href="https://www.imdb.com/title/tt3032476/" target="_blank" rel="noopener noreferrer">絕命律師</a>》第一季第一集<sup><a href="https://www.jaron.tw/blog/gene-takavic/#user-content-fn-1-1b3bbe" id="user-content-fnref-1-1b3bbe" data-footnote-ref="true" aria-describedby="footnote-label">1</a></sup>，Gene 在<a href="https://youtu.be/FKvTinFErwg" target="_blank" rel="noopener noreferrer">他家客廳看著他以前的廣告</a>的感覺？好像只差一瓶 Drambuie 跟 Dewars White Label 而已。</p>
 <p>聽著聽著，又提醒起自己<strong>還是很喜歡鋼琴</strong>，但上了大學之後既沒有合適的地點可以練琴，更別提要一天抽兩、三小時出來了。</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="學生音樂比賽">學生音樂比賽<a href="https://www.jaron.tw/blog/gene-takavic#%E5%AD%B8%E7%94%9F%E9%9F%B3%E6%A8%82%E6%AF%94%E8%B3%BD" class="hash-link" aria-label="學生音樂比賽的直接連結" title="學生音樂比賽的直接連結">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="學生音樂比賽">學生音樂比賽<a href="https://www.jaron.tw/blog/gene-takavic/#%E5%AD%B8%E7%94%9F%E9%9F%B3%E6%A8%82%E6%AF%94%E8%B3%BD" class="hash-link" aria-label="學生音樂比賽的直接連結" title="學生音樂比賽的直接連結">​</a></h3>
 <p>高一到高二的時候，為了準備全國學生音樂比賽，我幾乎每天都泡在琴房，除了放學時間以外，我連許多上課時間都常常不在教室，通常<strong>不是在琴房就是在去琴房的路上</strong>。雖然我從小一就開始學鋼琴，但這是我第一次真的花了這麼多時間在這項興趣（或專業）上。</p>
 <p>如果說國中準備音樂班聯合招生的時候第一次跟鋼琴產生火花，那高中這段準備比賽的時間就是我<strong>正式愛上鋼琴的時期</strong>。</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="熱情可以延後嗎">熱情可以延後嗎<a href="https://www.jaron.tw/blog/gene-takavic#%E7%86%B1%E6%83%85%E5%8F%AF%E4%BB%A5%E5%BB%B6%E5%BE%8C%E5%97%8E" class="hash-link" aria-label="熱情可以延後嗎的直接連結" title="熱情可以延後嗎的直接連結">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="熱情可以延後嗎">熱情可以延後嗎<a href="https://www.jaron.tw/blog/gene-takavic/#%E7%86%B1%E6%83%85%E5%8F%AF%E4%BB%A5%E5%BB%B6%E5%BE%8C%E5%97%8E" class="hash-link" aria-label="熱情可以延後嗎的直接連結" title="熱情可以延後嗎的直接連結">​</a></h3>
 <p>我曾經受到 <a href="https://www.youtube.com/@odysseas__" target="_blank" rel="noopener noreferrer">Odysseas</a> 的這部影片《<a href="https://youtu.be/-AdXIC44b7Q" target="_blank" rel="noopener noreferrer">How to Manage Multiple Interests</a>》啟發做了一個決定，  把「音樂」這個愛好<strong>延後個幾年</strong>，為了更<strong>專注在學校的課業</strong>，跟影像這個工作或專業上。</p>
 <p>我也曾經下定決心要在大一下的時候專心唸書，然而開學一個月後工作就開始冒出來，最後還是搞得蠟燭兩頭燒，搞到生病已經是家常便飯了。我覺得 Odysseas 的觀點很不錯，也讓我在選擇（取捨）時不會感到過度焦慮，因為還有時間跟機會回頭找尋這些曾經擁有的熱情。但實踐之後發現，就算抽離了練琴的時間，自己的<strong>時間好像還是不夠用</strong>。</p>
 <p>如果你有什麼好想法的話，歡迎寫信到 <a href="mailto:hi@fattie.io" target="_blank" rel="noopener noreferrer">hi@fattie.io</a> 跟我分享。</p>
 <!-- -->
-<section data-footnotes="true" class="footnotes"><h2 class="anchor anchorWithStickyNavbar_LWe7 sr-only" id="footnote-label">Footnotes<a href="https://www.jaron.tw/blog/gene-takavic#footnote-label" class="hash-link" aria-label="Footnotes的直接連結" title="Footnotes的直接連結">​</a></h2>
+<section data-footnotes="true" class="footnotes"><h2 class="anchor anchorWithStickyNavbar_LWe7 sr-only" id="footnote-label">Footnotes<a href="https://www.jaron.tw/blog/gene-takavic/#footnote-label" class="hash-link" aria-label="Footnotes的直接連結" title="Footnotes的直接連結">​</a></h2>
 <ol>
 <li id="user-content-fn-1-1b3bbe">
-<p>超推薦《絕命毒師》跟《絕命律師》系列！是第一部讓我熬夜到凌晨四五點就為了多看幾集的影集。 <a href="https://www.jaron.tw/blog/gene-takavic#user-content-fnref-1-1b3bbe" data-footnote-backref="" aria-label="Back to reference 1" class="data-footnote-backref">↩</a></p>
+<p>超推薦《絕命毒師》跟《絕命律師》系列！是第一部讓我熬夜到凌晨四五點就為了多看幾集的影集。 <a href="https://www.jaron.tw/blog/gene-takavic/#user-content-fnref-1-1b3bbe" data-footnote-backref="" aria-label="Back to reference 1" class="data-footnote-backref">↩</a></p>
 </li>
 </ol>
 </section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[見到活的 Tim 老師]]></title>
-        <id>https://www.jaron.tw/blog/birtv-day-2</id>
-        <link href="https://www.jaron.tw/blog/birtv-day-2"/>
+        <id>https://www.jaron.tw/blog/birtv-day-2/</id>
+        <link href="https://www.jaron.tw/blog/birtv-day-2/"/>
         <updated>2025-07-24T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[昨晚跟 Paul 聊到凌晨 5 點，睡醒已經中午了。結果星培一起床就跟我說：]]></summary>
         <content type="html"><![CDATA[<p>昨晚跟 Paul 聊到凌晨 5 點，睡醒已經中午了。結果星培一起床就跟我說：</p>
@@ -190,7 +190,7 @@
 <strong>Tim 今天早上十點出現在展場</strong><br>
 <em><strong>Tim 今天早上十點出現在展場</strong></em></p>
 <p>我：😴🥱😮😦😧</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="是活的-tim">是活的 Tim！！！<a href="https://www.jaron.tw/blog/birtv-day-2#%E6%98%AF%E6%B4%BB%E7%9A%84-tim" class="hash-link" aria-label="是活的 Tim！！！的直接連結" title="是活的 Tim！！！的直接連結">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="是活的-tim">是活的 Tim！！！<a href="https://www.jaron.tw/blog/birtv-day-2/#%E6%98%AF%E6%B4%BB%E7%9A%84-tim" class="hash-link" aria-label="是活的 Tim！！！的直接連結" title="是活的 Tim！！！的直接連結">​</a></h3>
 <p>我大概從 2016 年 Tim 在英國唸書就開始看他的影片，已經將近有十年的時間。</p>
 <p>2025 年的他，已經有一個<strong>千萬粉絲</strong>的頻道「<a href="https://www.ysjf.com/" target="_blank" rel="noopener noreferrer">Mediastorm影視颶風</a>」和一間<strong>百人的製作公司</strong>「杭州星奧傳媒有限公司」。</p>
 <p><strong>我當然不能錯過這個機會啊！！！</strong></p>
@@ -209,12 +209,12 @@
 <p>還有李四維！</p>
 <hr>
 <p>今天還去了一些昨天沒去到的展區，也分享一些有趣的產品。</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="atomos"><a href="https://www.atomos.com/" target="_blank" rel="noopener noreferrer">ATOMOS</a><a href="https://www.jaron.tw/blog/birtv-day-2#atomos" class="hash-link" aria-label="atomos的直接連結" title="atomos的直接連結">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="atomos"><a href="https://www.atomos.com/" target="_blank" rel="noopener noreferrer">ATOMOS</a><a href="https://www.jaron.tw/blog/birtv-day-2/#atomos" class="hash-link" aria-label="atomos的直接連結" title="atomos的直接連結">​</a></h3>
 <p>新款的 <a href="https://www.atomos.com/explore/shinobi-2/" target="_blank" rel="noopener noreferrer">SHINOBI II</a> 跟 <a href="https://www.atomos.com/explore/shinobi-go/" target="_blank" rel="noopener noreferrer">SHINOBI GO</a> 基本上一模一樣，只差在<strong>軟體上的閹割</strong>⋯<br>
 <!-- -->（<em>怎麼現在每家廠商都在搞這招？</em>）</p>
 <p>整體比初代的 SHINOBI <strong>輕薄</strong>很多，而且 SHINOBI II 多了<strong>相機控制</strong>（但是要接線）、<strong>觸碰對焦</strong>，還有 <a href="https://www.elzonesystem.com/" target="_blank" rel="noopener noreferrer"><strong>EI ZONE</strong></a> 跟 ARRI 的偽色。</p>
 <p>整體來說還蠻推薦的！我自己也還在使用初代的 <a href="https://www.bhphotovideo.com/c/product/1470081-REG/atomos_atomshbs01_shinobi_5_3g_sdi.html" target="_blank" rel="noopener noreferrer">SHINOBI SDI</a> 版本。</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="blackmagicdesign"><a href="https://www.blackmagicdesign.com/" target="_blank" rel="noopener noreferrer">Blackmagicdesign</a><a href="https://www.jaron.tw/blog/birtv-day-2#blackmagicdesign" class="hash-link" aria-label="blackmagicdesign的直接連結" title="blackmagicdesign的直接連結">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="blackmagicdesign"><a href="https://www.blackmagicdesign.com/" target="_blank" rel="noopener noreferrer">Blackmagicdesign</a><a href="https://www.jaron.tw/blog/birtv-day-2/#blackmagicdesign" class="hash-link" aria-label="blackmagicdesign的直接連結" title="blackmagicdesign的直接連結">​</a></h3>
 <p>他們展場的<strong>工作人員都不太理人耶</strong>！是我看起來太年輕了嗎？</p>
 <p><a href="https://www.blackmagicdesign.com/products/davinciresolve" target="_blank" rel="noopener noreferrer">Davinci Resolve</a> 後期相關的產品展的不多，只有 <a href="https://www.blackmagicdesign.com/products/davinciresolve/techspecs/W-DRE-13" target="_blank" rel="noopener noreferrer">Speed Editor</a>、<a href="https://www.blackmagicdesign.com/products/davinciresolve/techspecs/W-DRE-12" target="_blank" rel="noopener noreferrer">Editor Keyboard</a>、<a href="https://www.blackmagicdesign.com/products/davinciresolve/techspecs/W-DRE-16" target="_blank" rel="noopener noreferrer">Micro Color Panel</a>，跟 <a href="https://www.blackmagicdesign.com/products/davinciresolve/techspecs/W-DRE-06" target="_blank" rel="noopener noreferrer">Advanced Panel</a> 而已。<br>
 <!-- -->我比較想看 <a href="https://www.blackmagicdesign.com/products/davinciresolve/techspecs/W-DRE-09" target="_blank" rel="noopener noreferrer">Mini Panel</a> 跟 <a href="https://www.blackmagicdesign.com/products/davinciresolve/fairlight" target="_blank" rel="noopener noreferrer">Fairlight</a> 相關的 Console。</p>
@@ -225,7 +225,7 @@
 <!-- -->我還蠻想要這個的耶！因為用 Speed Editor 還是常常會需要鍵盤跟滑鼠切換，但這款直接把兩個功能整合在一起了。</p>
 <p>然後還有一台聽說是借來的 OB （<a href="https://en.wikipedia.org/wiki/Outside_broadcasting" target="_blank" rel="noopener noreferrer">Outside Broadcast</a>）車。</p>
 <p><img decoding="async" loading="lazy" src="https://www.jaron.tw/assets/images/2025-07-24-ob-truck-ea54fba699742e263926dd796f7e29a7.jpeg" width="700" height="525" class="img_ev3q"></p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="aputure-的晚宴"><a href="https://aputure.com/" target="_blank" rel="noopener noreferrer">Aputure</a> 的晚宴<a href="https://www.jaron.tw/blog/birtv-day-2#aputure-%E7%9A%84%E6%99%9A%E5%AE%B4" class="hash-link" aria-label="aputure-的晚宴的直接連結" title="aputure-的晚宴的直接連結">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="aputure-的晚宴"><a href="https://aputure.com/" target="_blank" rel="noopener noreferrer">Aputure</a> 的晚宴<a href="https://www.jaron.tw/blog/birtv-day-2/#aputure-%E7%9A%84%E6%99%9A%E5%AE%B4" class="hash-link" aria-label="aputure-的晚宴的直接連結" title="aputure-的晚宴的直接連結">​</a></h3>
 <p>晚上參加 Aputure 的<strong>行業用戶晚宴</strong>，認識了很多厲害的創作者跟攝影指導！</p>
 <p><img decoding="async" loading="lazy" src="https://www.jaron.tw/assets/images/2025-07-24-aputure-df39587eec3e51569daccf05a43f9da3.jpeg" width="700" height="525" class="img_ev3q"></p>
 <p>他們今年新的技術的是 <strong>BLAIR</strong> 跟 <strong>BLAIR-CG</strong>，BLAIR-CG 分別代表著：</p>
@@ -238,31 +238,31 @@
 <li><strong>C</strong>yan（青色）</li>
 <li><strong>G</strong>reen（綠色）</li>
 </ul>
-<p>比起過往燈珠的排列組合，<strong>BLAIR-<em>CG</em></strong> 可以覆蓋 90% 的 Rec2020，提供更廣的色域和顏色光創作者選擇，目前已經應用在 <a href="https://aputure.com/products/storm-80c" target="_blank" rel="noopener noreferrer">STORM 80c</a> 和 Nova II<sup><a href="https://www.jaron.tw/blog/birtv-day-2#user-content-fn-1-633417" id="user-content-fnref-1-633417" data-footnote-ref="true" aria-describedby="footnote-label">1</a></sup> 上。</p>
+<p>比起過往燈珠的排列組合，<strong>BLAIR-<em>CG</em></strong> 可以覆蓋 90% 的 Rec2020，提供更廣的色域和顏色光創作者選擇，目前已經應用在 <a href="https://aputure.com/products/storm-80c" target="_blank" rel="noopener noreferrer">STORM 80c</a> 和 Nova II<sup><a href="https://www.jaron.tw/blog/birtv-day-2/#user-content-fn-1-633417" id="user-content-fnref-1-633417" data-footnote-ref="true" aria-describedby="footnote-label">1</a></sup> 上。</p>
 <p>而 <strong>BLAIR</strong> 目前則應用在最新的 <a href="https://aputure.com/products/storm-400x" target="_blank" rel="noopener noreferrer">STORM 400x</a> 上，它的 Indigo（靛藍）燈珠能模擬自然光與鎢絲燈光譜，讓 LED 光源更接近太陽光與鎢絲燈的質感。</p>
 <p>這個影片展示了 BLAIR-CG 的效果（<a href="https://www.youtube.com/watch?v=%E5%BD%B1%E7%89%87ID" target="_blank" rel="noopener noreferrer">在 YouTube 上觀看</a>）：</p>
 <iframe class="custom-iframe" width="100%" height="400" src="https://www.youtube-nocookie.com/embed/lPRpeiU6dLY?modestbranding=1&amp;rel=0" title="Aputure Blair-CG Launch | Live Event Lighting Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe>
 <p>他們現場播放的 Demo 把 BLAIR-CG 的性能示範的很完整，但會讓我拿出手機拍的原因是，視覺真的做得<strong>好用心</strong>！</p>
 <p>旁邊的兩個螢幕居然會<strong>跟著影片的內容變色</strong>，讓我想起我之前做的另一個專案，是視訊畫面結合 DMX 控制 RGB 燈光。</p>
 <hr>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="蟹黃拌麵">蟹黃拌麵<a href="https://www.jaron.tw/blog/birtv-day-2#%E8%9F%B9%E9%BB%83%E6%8B%8C%E9%BA%B5" class="hash-link" aria-label="蟹黃拌麵的直接連結" title="蟹黃拌麵的直接連結">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="蟹黃拌麵">蟹黃拌麵<a href="https://www.jaron.tw/blog/birtv-day-2/#%E8%9F%B9%E9%BB%83%E6%8B%8C%E9%BA%B5" class="hash-link" aria-label="蟹黃拌麵的直接連結" title="蟹黃拌麵的直接連結">​</a></h3>
 <p>今天也想點點看外送，星培選了「鵝肝黃金蟹肉蟹黃拌麵」，我點了個「蟹黃蟹肉龍蝦拌麵」，長這樣：</p>
 <p><img decoding="async" loading="lazy" src="https://www.jaron.tw/assets/images/2025-07-24-crab-roe-noodle-73c5278a2b2d662bb20301c0f1e5fad9.jpg" width="700" height="466" class="img_ev3q"></p>
 <p>一碗才不到 30 人民幣（約 120 台幣），我覺得味道也有點普通，小龍蝦的肉一直卡在殼裡吃不到哈哈哈。</p>
 <p>不過連續兩天的 Social 局結束，也有點懶的再找附近的美食，這時候只想趕快吃完躺平 😪</p>
 <!-- -->
-<section data-footnotes="true" class="footnotes"><h2 class="anchor anchorWithStickyNavbar_LWe7 sr-only" id="footnote-label">Footnotes<a href="https://www.jaron.tw/blog/birtv-day-2#footnote-label" class="hash-link" aria-label="Footnotes的直接連結" title="Footnotes的直接連結">​</a></h2>
+<section data-footnotes="true" class="footnotes"><h2 class="anchor anchorWithStickyNavbar_LWe7 sr-only" id="footnote-label">Footnotes<a href="https://www.jaron.tw/blog/birtv-day-2/#footnote-label" class="hash-link" aria-label="Footnotes的直接連結" title="Footnotes的直接連結">​</a></h2>
 <ol>
 <li id="user-content-fn-1-633417">
-<p>Nova II 尚未公開發佈資訊。讓你們搶先知道了！ <a href="https://www.jaron.tw/blog/birtv-day-2#user-content-fnref-1-633417" data-footnote-backref="" aria-label="Back to reference 1" class="data-footnote-backref">↩</a></p>
+<p>Nova II 尚未公開發佈資訊。讓你們搶先知道了！ <a href="https://www.jaron.tw/blog/birtv-day-2/#user-content-fnref-1-633417" data-footnote-backref="" aria-label="Back to reference 1" class="data-footnote-backref">↩</a></p>
 </li>
 </ol>
 </section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[不小心買了一台 RED]]></title>
-        <id>https://www.jaron.tw/blog/birtv-day-1</id>
-        <link href="https://www.jaron.tw/blog/birtv-day-1"/>
+        <id>https://www.jaron.tw/blog/birtv-day-1/</id>
+        <link href="https://www.jaron.tw/blog/birtv-day-1/"/>
         <updated>2025-07-23T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[今天是 BIRTV 的第一天！從飯店走到展場只需要大約五分鐘的時間。]]></summary>
         <content type="html"><![CDATA[<p>今天是 <a href="https://www.birtv.com/2025/" target="_blank" rel="noopener noreferrer">BIRTV</a> 的第一天！從飯店走到展場只需要大約五分鐘的時間。</p>
@@ -271,45 +271,45 @@
 <blockquote>
 <p><em>門口的 Banner 就是三大單眼巨頭，不知道 Canon 那個位置要多加多少錢？</em></p>
 </blockquote>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="好大">好大<a href="https://www.jaron.tw/blog/birtv-day-1#%E5%A5%BD%E5%A4%A7" class="hash-link" aria-label="好大的直接連結" title="好大的直接連結">​</a></h3>
-<p>上面圖片的這個館只是「一館」，如果你有去過去年<a href="https://www.chanchao.com.tw/digital/" target="_blank" rel="noopener noreferrer">台北的攝影器材展</a><sup><a href="https://www.jaron.tw/blog/birtv-day-1#user-content-fn-2-8d3962" id="user-content-fnref-2-8d3962" data-footnote-ref="true" aria-describedby="footnote-label">1</a></sup>的話，就知道我們只能跟戶外用品展擠在一間，而且還<strong>只有三分之一</strong>的空間 🥲</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="好大">好大<a href="https://www.jaron.tw/blog/birtv-day-1/#%E5%A5%BD%E5%A4%A7" class="hash-link" aria-label="好大的直接連結" title="好大的直接連結">​</a></h3>
+<p>上面圖片的這個館只是「一館」，如果你有去過去年<a href="https://www.chanchao.com.tw/digital/" target="_blank" rel="noopener noreferrer">台北的攝影器材展</a><sup><a href="https://www.jaron.tw/blog/birtv-day-1/#user-content-fn-2-8d3962" id="user-content-fnref-2-8d3962" data-footnote-ref="true" aria-describedby="footnote-label">1</a></sup>的話，就知道我們只能跟戶外用品展擠在一間，而且還<strong>只有三分之一</strong>的空間 🥲</p>
 <p>這是 <strong>BIRTV</strong> 今年的展館地圖，涵蓋了電影、燈光、聲音、虛擬製作、通訊、生成式人工智慧等各種主題。</p>
 <p><img decoding="async" loading="lazy" alt="BIRTV 2025 地圖" src="https://www.jaron.tw/assets/images/2025-07-23-birtv-map-4d6b080333635c0647944398f201d8ad.jpeg" width="700" height="700" class="img_ev3q"></p>
 <hr>
 <p>而這是<strong>台北攝影器材展</strong>去年 2024 的地圖，藍色的是攝影器材展的內容，真的只有三分之一啊！</p>
 <p><img decoding="async" loading="lazy" alt="台北攝影器材暨影音創作設備展地圖" src="https://www.jaron.tw/assets/images/2025-07-23-taipei-map-3228d4610632f4f4b5bdf96376cfb535.jpeg" width="505" height="700" class="img_ev3q"></p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="red-真香"><a href="https://www.red.com/" target="_blank" rel="noopener noreferrer">RED</a> 真香<a href="https://www.jaron.tw/blog/birtv-day-1#red-%E7%9C%9F%E9%A6%99" class="hash-link" aria-label="red-真香的直接連結" title="red-真香的直接連結">​</a></h3>
-<p>一館一進去就是 RED 的攤位，前一天晚上的飯局被推坑了一波，從 US$6,995 <a href="https://www.red.com/stories/komodo-price-drop" target="_blank" rel="noopener noreferrer">降價</a>到 <strong>US$2,995</strong> 的 <a href="https://www.red.com/komodo" target="_blank" rel="noopener noreferrer">KOMODO 6K</a> 真的好香啊。<sup><a href="https://www.jaron.tw/blog/birtv-day-1#user-content-fn-1-8d3962" id="user-content-fnref-1-8d3962" data-footnote-ref="true" aria-describedby="footnote-label">2</a></sup></p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="red-真香"><a href="https://www.red.com/" target="_blank" rel="noopener noreferrer">RED</a> 真香<a href="https://www.jaron.tw/blog/birtv-day-1/#red-%E7%9C%9F%E9%A6%99" class="hash-link" aria-label="red-真香的直接連結" title="red-真香的直接連結">​</a></h3>
+<p>一館一進去就是 RED 的攤位，前一天晚上的飯局被推坑了一波，從 US$6,995 <a href="https://www.red.com/stories/komodo-price-drop" target="_blank" rel="noopener noreferrer">降價</a>到 <strong>US$2,995</strong> 的 <a href="https://www.red.com/komodo" target="_blank" rel="noopener noreferrer">KOMODO 6K</a> 真的好香啊。<sup><a href="https://www.jaron.tw/blog/birtv-day-1/#user-content-fn-1-8d3962" id="user-content-fnref-1-8d3962" data-footnote-ref="true" aria-describedby="footnote-label">2</a></sup></p>
 <p><img decoding="async" loading="lazy" alt="RED 展區" src="https://www.jaron.tw/assets/images/2025-07-23-red-7e4c0d5ae6c6ec4c222555afc2753f24.jpeg" width="700" height="525" class="img_ev3q"></p>
 <p>展示區比較親民的系列是 <a href="https://www.red.com/komodo" target="_blank" rel="noopener noreferrer">KOMODO</a> 和 <a href="https://www.red.com/komodo-x" target="_blank" rel="noopener noreferrer">KOMODO-X</a> 的 <a href="https://www.red.com/red-101/color-monochrome-camera-sensors" target="_blank" rel="noopener noreferrer">Monochrome</a> 版本，搭配 Sigma 的 <a href="https://www.sigma-global.com/en/cine-lenses/ff-high-speed-prime/14_2/" target="_blank" rel="noopener noreferrer">High Speed Prime 14mm T2 FF</a> 跟 NiSi 新出的 <a href="https://www.nisioptics.at/en/Aureus-Prime-50mm-T1.4-PL-Mount/OB003422" target="_blank" rel="noopener noreferrer">Aureus Prime 50mm T1.4</a>。</p>
 <p>我個人比較喜歡的是 <strong>KOMODO 或 KOMODO-X 搭配 Aureus Prime</strong> 的組合，因為機身、鏡頭，還有 V 扣電池配重剛剛好，手持起來很舒服。</p>
 <hr>
 <p>另外，還有好幾套搭載 <a href="https://www.red.com/cine-broadcast" target="_blank" rel="noopener noreferrer">Cine-Broadcast Base Station</a> 的 V-RAPTOR [X]。</p>
 <p><img decoding="async" loading="lazy" alt="RED Cine-Broadcast Base Station" src="https://www.jaron.tw/assets/images/2025-07-23-red-braodcast-3e2d073042fe996a913e23644c98676c.jpeg" width="700" height="525" class="img_ev3q"></p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="nisi-aureas"><a href="https://www.nisioptics.com/" target="_blank" rel="noopener noreferrer">NiSi</a> Aureas<a href="https://www.jaron.tw/blog/birtv-day-1#nisi-aureas" class="hash-link" aria-label="nisi-aureas的直接連結" title="nisi-aureas的直接連結">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="nisi-aureas"><a href="https://www.nisioptics.com/" target="_blank" rel="noopener noreferrer">NiSi</a> Aureas<a href="https://www.jaron.tw/blog/birtv-day-1/#nisi-aureas" class="hash-link" aria-label="nisi-aureas的直接連結" title="nisi-aureas的直接連結">​</a></h3>
 <p><a href="https://nisiopticsusa.com/product/nisi-aureus-prime-full-frame-t1-4-cinema-lens-kit-18mm-24mm-35mm-50mm-85mm-hard-case-pl-mount/" target="_blank" rel="noopener noreferrer">Aureas</a> 算是 <a href="https://www.nisi-lens.com/athena" target="_blank" rel="noopener noreferrer">Athena</a> 的升級款，在仍然緊湊的體積下，帶來了更好的光學素質、呼吸效應控制，以及雅典娜就有的微反差等特色，光圈更從 <strong>T1.9 變成了 T1.4，整整多了將近一檔</strong>。</p>
 <p><img decoding="async" loading="lazy" alt="NiSi Aureas" src="https://www.jaron.tw/assets/images/2025-07-23-nisi-3098dba4ffc04f30e4e6c9b2da90474c.jpeg" width="700" height="480" class="img_ev3q"></p>
 <blockquote>
 <p><em>這是我第一次碰到 ARRI，但這邊的 Alexa 數量多到我數不出來？</em></p>
 </blockquote>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="dpa"><a href="https://www.dpamicrophones.com/" target="_blank" rel="noopener noreferrer">DPA</a><a href="https://www.jaron.tw/blog/birtv-day-1#dpa" class="hash-link" aria-label="dpa的直接連結" title="dpa的直接連結">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="dpa"><a href="https://www.dpamicrophones.com/" target="_blank" rel="noopener noreferrer">DPA</a><a href="https://www.jaron.tw/blog/birtv-day-1/#dpa" class="hash-link" aria-label="dpa的直接連結" title="dpa的直接連結">​</a></h3>
 <p>兩櫃幾乎把所有常用的 DPA 產品都展出來了，樂器用的 <a href="https://www.dpamicrophones.com/campaign/4099-core-plus/" target="_blank" rel="noopener noreferrer">4099</a>、槍型麥克風 <a href="https://www.dpamicrophones.com/microphones/shotgun/4017?variant=54" target="_blank" rel="noopener noreferrer">4017</a>，還有 <a href="https://www.dpamicrophones.com/microphones/lavalier/4060?variant=32" target="_blank" rel="noopener noreferrer">4060</a> 全指向領夾麥克風。</p>
 <p><img decoding="async" loading="lazy" alt="DPA" src="https://www.jaron.tw/assets/images/2025-07-23-dpa-cc46617cabcdaa8789d6286aaeaeb478.jpeg" width="700" height="525" class="img_ev3q"></p>
 <p>上次拍紀錄片的時候因為 Sennheiser <a href="https://www.sennheiser.com/en-us/catalog/products/microphones/mkh-50/mkh-50-p48-003109" target="_blank" rel="noopener noreferrer">MKH 50</a> 還沒到貨，臨時跟朋友調了 4017，聲音是真的很<strong>自然又飽滿</strong>，令人印象深刻。</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="viltrox"><a href="https://www.viltrox.com.cn/" target="_blank" rel="noopener noreferrer">Viltrox</a><a href="https://www.jaron.tw/blog/birtv-day-1#viltrox" class="hash-link" aria-label="viltrox的直接連結" title="viltrox的直接連結">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="viltrox"><a href="https://www.viltrox.com.cn/" target="_blank" rel="noopener noreferrer">Viltrox</a><a href="https://www.jaron.tw/blog/birtv-day-1/#viltrox" class="hash-link" aria-label="viltrox的直接連結" title="viltrox的直接連結">​</a></h3>
 <p>我最印象深刻的是兩顆 LUNA 的變焦電影鏡頭的技術實力展示，焦段分別是 42-420mm 跟 30-300mm。如果沒記錯的話售價好像是 <strong>170 萬人民幣跟 70 萬人民幣</strong>。</p>
 <p><img decoding="async" loading="lazy" alt="Viltrox LUNA Zoom Lens" src="https://www.jaron.tw/assets/images/2025-07-23-viltrox-cba5d1b455d98d1515c9dfe7568da2da.jpeg" width="700" height="525" class="img_ev3q"></p>
 <p>一顆大約 20 公斤，如果不缺錢的話可以拿來裝在 Sony ZV-E1 上面，沒事還能拿來健身 🏋️</p>
 <p><img decoding="async" loading="lazy" alt="LUNA On Tim" src="https://www.jaron.tw/assets/images/2025-07-23-tim-viltrox-7f8841cf69dea00b0ac71c76a7509679.png" width="700" height="394" class="img_ev3q"></p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="dzofilm"><a href="https://dzofilm.com/" target="_blank" rel="noopener noreferrer">DZOFilm</a><a href="https://www.jaron.tw/blog/birtv-day-1#dzofilm" class="hash-link" aria-label="dzofilm的直接連結" title="dzofilm的直接連結">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="dzofilm"><a href="https://dzofilm.com/" target="_blank" rel="noopener noreferrer">DZOFilm</a><a href="https://www.jaron.tw/blog/birtv-day-1/#dzofilm" class="hash-link" aria-label="dzofilm的直接連結" title="dzofilm的直接連結">​</a></h3>
 <p>DZOFilm 有三款產品讓我印象深刻，包括：</p>
 <ul>
-<li>Vespid Prime 2<sup><a href="https://www.jaron.tw/blog/birtv-day-1#user-content-fn-3-8d3962" id="user-content-fnref-3-8d3962" data-footnote-ref="true" aria-describedby="footnote-label">3</a></sup>：比一代的 Vespid <strong>重量和體積小很多</strong>，還有 <a href="https://cookeoptics.com/i-technology/" target="_blank" rel="noopener noreferrer">Cooke /i</a> 的接口</li>
+<li>Vespid Prime 2<sup><a href="https://www.jaron.tw/blog/birtv-day-1/#user-content-fn-3-8d3962" id="user-content-fnref-3-8d3962" data-footnote-ref="true" aria-describedby="footnote-label">3</a></sup>：比一代的 Vespid <strong>重量和體積小很多</strong>，還有 <a href="https://cookeoptics.com/i-technology/" target="_blank" rel="noopener noreferrer">Cooke /i</a> 的接口</li>
 <li><a href="https://dzofilm.com/en/products/arles-lustre" target="_blank" rel="noopener noreferrer">Arles Lustre</a>：Arles 的 Vintage 版本，金色復古的外觀，重點是他的<strong>炫光（Lens Flare）真的很好看</strong>！在有直接光源的情況下可以拍出很有味道的畫面，也讓我想到他們家 <a href="https://thypoch.com/" target="_blank" rel="noopener noreferrer">Thypoch</a> 推出的 <a href="https://thypoch.com/en/products/simera-c" target="_blank" rel="noopener noreferrer">Simera-C</a></li>
 <li><a href="https://dzofilm.com/products/pavo-anamorphic" target="_blank" rel="noopener noreferrer">PAVO 2X Anamorphic</a>：兩倍的變形鏡頭，<strong>拉絲（Streak Flare）控制的很好</strong>，不會過度搶戲。變形獨特的散景也很合我的口味。</li>
 </ul>
 <hr>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="羊蝎子是啥">羊蝎子是啥？<a href="https://www.jaron.tw/blog/birtv-day-1#%E7%BE%8A%E8%9D%8E%E5%AD%90%E6%98%AF%E5%95%A5" class="hash-link" aria-label="羊蝎子是啥？的直接連結" title="羊蝎子是啥？的直接連結">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="羊蝎子是啥">羊蝎子是啥？<a href="https://www.jaron.tw/blog/birtv-day-1/#%E7%BE%8A%E8%9D%8E%E5%AD%90%E6%98%AF%E5%95%A5" class="hash-link" aria-label="羊蝎子是啥？的直接連結" title="羊蝎子是啥？的直接連結">​</a></h3>
 <p>第一天的 BIRTV 結束後，我們的飯店隔壁就是一間「懂羊帝羊蝎子」，雖然不知道羊蠍子是什麼，但店面看起來就很好吃（？）</p>
 <p><img decoding="async" loading="lazy" alt="懂羊帝羊蝎子店面外觀" src="https://www.jaron.tw/assets/images/2025-07-23-restaurant-45dd32a8c5643e26f88bf9b0f12397ed.jpg" width="700" height="467" class="img_ev3q"></p>
 <p><a href="https://zh.wikipedia.org/wiki/%E7%BE%8A%E8%9D%8E%E5%AD%90" target="_blank" rel="noopener noreferrer">維基百科</a>上是這樣介紹的：</p>
@@ -326,8 +326,8 @@
 <blockquote>
 <p>星培：我們可以每天都來吃一次嗎？</p>
 </blockquote>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="爐煮又是啥">爐煮又是啥？<a href="https://www.jaron.tw/blog/birtv-day-1#%E7%88%90%E7%85%AE%E5%8F%88%E6%98%AF%E5%95%A5" class="hash-link" aria-label="爐煮又是啥？的直接連結" title="爐煮又是啥？的直接連結">​</a></h3>
-<p>跟 Paul 哥聊到凌晨肚子餓，我也想點點看美團<sup><a href="https://www.jaron.tw/blog/birtv-day-1#user-content-fn-4-8d3962" id="user-content-fnref-4-8d3962" data-footnote-ref="true" aria-describedby="footnote-label">4</a></sup>外送，於是 Paul 推薦了「<strong>滷煮</strong>」。</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="爐煮又是啥">爐煮又是啥？<a href="https://www.jaron.tw/blog/birtv-day-1/#%E7%88%90%E7%85%AE%E5%8F%88%E6%98%AF%E5%95%A5" class="hash-link" aria-label="爐煮又是啥？的直接連結" title="爐煮又是啥？的直接連結">​</a></h3>
+<p>跟 Paul 哥聊到凌晨肚子餓，我也想點點看美團<sup><a href="https://www.jaron.tw/blog/birtv-day-1/#user-content-fn-4-8d3962" id="user-content-fnref-4-8d3962" data-footnote-ref="true" aria-describedby="footnote-label">4</a></sup>外送，於是 Paul 推薦了「<strong>滷煮</strong>」。</p>
 <p>而我又要請出<a href="https://zh.wikipedia.org/zh-tw/%E5%8D%A4%E7%85%AE%E7%81%AB%E7%83%A7" target="_blank" rel="noopener noreferrer">維基百科</a>了：</p>
 <blockquote>
 <p>滷煮火燒是北京特有的一種菜餚，起源於城南的南橫街。以豬的下水和火燒烹製。滷煮火燒來源於清代宮廷小吃「蘇造肉」。「蘇造肉」是乾隆帝游江南時御用廚師發明，用五花肉煮製成。一般人吃不起五花肉，用豬頭肉和下水來代替。</p>
@@ -340,42 +340,42 @@
 <p>跟 Paul 聊完之後發現已經凌晨五點了，來的這幾天幾乎每天都看到北京的日出才睡覺 🤣</p>
 <p>來北京的行程還有四天，千萬別錯過最後一天登機前的刺激故事 😱</p>
 <!-- -->
-<section data-footnotes="true" class="footnotes"><h2 class="anchor anchorWithStickyNavbar_LWe7 sr-only" id="footnote-label">Footnotes<a href="https://www.jaron.tw/blog/birtv-day-1#footnote-label" class="hash-link" aria-label="Footnotes的直接連結" title="Footnotes的直接連結">​</a></h2>
+<section data-footnotes="true" class="footnotes"><h2 class="anchor anchorWithStickyNavbar_LWe7 sr-only" id="footnote-label">Footnotes<a href="https://www.jaron.tw/blog/birtv-day-1/#footnote-label" class="hash-link" aria-label="Footnotes的直接連結" title="Footnotes的直接連結">​</a></h2>
 <ol>
 <li id="user-content-fn-2-8d3962">
-<p>台北攝影器材暨影音創作設備展。 <a href="https://www.jaron.tw/blog/birtv-day-1#user-content-fnref-2-8d3962" data-footnote-backref="" aria-label="Back to reference 1" class="data-footnote-backref">↩</a></p>
+<p>台北攝影器材暨影音創作設備展。 <a href="https://www.jaron.tw/blog/birtv-day-1/#user-content-fnref-2-8d3962" data-footnote-backref="" aria-label="Back to reference 1" class="data-footnote-backref">↩</a></p>
 </li>
 <li id="user-content-fn-1-8d3962">
-<p>結果回到台灣的路上就打給代理商訂貨了，錢包哭哭 💸 <a href="https://www.jaron.tw/blog/birtv-day-1#user-content-fnref-1-8d3962" data-footnote-backref="" aria-label="Back to reference 2" class="data-footnote-backref">↩</a></p>
+<p>結果回到台灣的路上就打給代理商訂貨了，錢包哭哭 💸 <a href="https://www.jaron.tw/blog/birtv-day-1/#user-content-fnref-1-8d3962" data-footnote-backref="" aria-label="Back to reference 2" class="data-footnote-backref">↩</a></p>
 </li>
 <li id="user-content-fn-3-8d3962">
-<p>官網上還沒有資訊，但可以在網路上找到今年 NAB 的介紹。 <a href="https://www.jaron.tw/blog/birtv-day-1#user-content-fnref-3-8d3962" data-footnote-backref="" aria-label="Back to reference 3" class="data-footnote-backref">↩</a></p>
+<p>官網上還沒有資訊，但可以在網路上找到今年 NAB 的介紹。 <a href="https://www.jaron.tw/blog/birtv-day-1/#user-content-fnref-3-8d3962" data-footnote-backref="" aria-label="Back to reference 3" class="data-footnote-backref">↩</a></p>
 </li>
 <li id="user-content-fn-4-8d3962">
-<p>可以理解成台灣的 Uber Eats 或 Foodpanda。 <a href="https://www.jaron.tw/blog/birtv-day-1#user-content-fnref-4-8d3962" data-footnote-backref="" aria-label="Back to reference 4" class="data-footnote-backref">↩</a></p>
+<p>可以理解成台灣的 Uber Eats 或 Foodpanda。 <a href="https://www.jaron.tw/blog/birtv-day-1/#user-content-fnref-4-8d3962" data-footnote-backref="" aria-label="Back to reference 4" class="data-footnote-backref">↩</a></p>
 </li>
 </ol>
 </section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[第一次來北京]]></title>
-        <id>https://www.jaron.tw/blog/first-time-in-beijing</id>
-        <link href="https://www.jaron.tw/blog/first-time-in-beijing"/>
+        <id>https://www.jaron.tw/blog/first-time-in-beijing/</id>
+        <link href="https://www.jaron.tw/blog/first-time-in-beijing/"/>
         <updated>2025-07-22T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[這次為了 BIRTV（北京國際廣播電影電視展覽會），特地飛來北京看展，謝謝潤橙的 Paul 哥和星培哥帶我出門開眼界！]]></summary>
         <content type="html"><![CDATA[<p>這次為了 <a href="https://www.birtv.com/2025/" target="_blank" rel="noopener noreferrer">BIRTV</a>（北京國際廣播電影電視展覽會），特地飛來北京看展，謝謝<a href="https://reun.com.tw/" target="_blank" rel="noopener noreferrer">潤橙</a>的 Paul 哥和<a href="https://www.youtube.com/c/%E6%98%9F%E5%9F%B9Jasper" target="_blank" rel="noopener noreferrer">星培</a>哥帶我出門開眼界！</p>
 <p>趁我還沒開始忙著看展以前，先來分享一些有趣的插曲：</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="長榮飛機餐">長榮飛機餐<a href="https://www.jaron.tw/blog/first-time-in-beijing#%E9%95%B7%E6%A6%AE%E9%A3%9B%E6%A9%9F%E9%A4%90" class="hash-link" aria-label="長榮飛機餐的直接連結" title="長榮飛機餐的直接連結">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="長榮飛機餐">長榮飛機餐<a href="https://www.jaron.tw/blog/first-time-in-beijing/#%E9%95%B7%E6%A6%AE%E9%A3%9B%E6%A9%9F%E9%A4%90" class="hash-link" aria-label="長榮飛機餐的直接連結" title="長榮飛機餐的直接連結">​</a></h3>
 <p>這是我第二次搭乘長榮航空，這次從桃園搭乘 A333 到北京首都機場，飛機餐的主食意外的還可以？<br>
 <!-- -->肉量蠻多的，調味也還行。</p>
 <p><img decoding="async" loading="lazy" alt="吃到一半的飛機餐" src="https://www.jaron.tw/assets/images/2025-07-22-airline-meal-e69c8478647ab4ce023b52079bf6ca19.jpeg" width="700" height="534" class="img_ev3q"></p>
 <p>但是不知道為什麼打開的時候有一股濃烈的<strong>燒焦味</strong>，而且甜點真的不是很好吃，我沒有吃完。</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="語言自適應">語言自適應<a href="https://www.jaron.tw/blog/first-time-in-beijing#%E8%AA%9E%E8%A8%80%E8%87%AA%E9%81%A9%E6%87%89" class="hash-link" aria-label="語言自適應的直接連結" title="語言自適應的直接連結">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="語言自適應">語言自適應<a href="https://www.jaron.tw/blog/first-time-in-beijing/#%E8%AA%9E%E8%A8%80%E8%87%AA%E9%81%A9%E6%87%89" class="hash-link" aria-label="語言自適應的直接連結" title="語言自適應的直接連結">​</a></h3>
 <p>剛好主要語言都是中文，一開始還對腔調不太習慣。不過落地五小時後，好像說話的方式也能自動切換？</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="出租車師傅">出租車師傅<a href="https://www.jaron.tw/blog/first-time-in-beijing#%E5%87%BA%E7%A7%9F%E8%BB%8A%E5%B8%AB%E5%82%85" class="hash-link" aria-label="出租車師傅的直接連結" title="出租車師傅的直接連結">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="出租車師傅">出租車師傅<a href="https://www.jaron.tw/blog/first-time-in-beijing/#%E5%87%BA%E7%A7%9F%E8%BB%8A%E5%B8%AB%E5%82%85" class="hash-link" aria-label="出租車師傅的直接連結" title="出租車師傅的直接連結">​</a></h3>
 <blockquote>
 <p>師傅：去哪兒呢？<br>
-<!-- -->Paul：OO 酒店<sup><a href="https://www.jaron.tw/blog/first-time-in-beijing#user-content-fn-1-da62ba" id="user-content-fnref-1-da62ba" data-footnote-ref="true" aria-describedby="footnote-label">1</a></sup>。</p>
+<!-- -->Paul：OO 酒店<sup><a href="https://www.jaron.tw/blog/first-time-in-beijing/#user-content-fn-1-da62ba" id="user-content-fnref-1-da62ba" data-footnote-ref="true" aria-describedby="footnote-label">1</a></sup>。</p>
 <p>（<em>🚗 車子開始移動</em>）</p>
 <p>Paul：師傅您好，要導航嗎？<br>
 <!-- -->師傅：好。<br>
@@ -385,7 +385,7 @@
 <p>我＆星培：<em>？？？</em></p>
 </blockquote>
 <p>（<em>是說我們在剛要去飯店的路上就差點出車禍了，有一台車在交流道出口的最後五公尺要往左鬼切，看來三寶也是世界級的現象呢⋯⋯</em>）</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="膠片模擬">膠片模擬<a href="https://www.jaron.tw/blog/first-time-in-beijing#%E8%86%A0%E7%89%87%E6%A8%A1%E6%93%AC" class="hash-link" aria-label="膠片模擬的直接連結" title="膠片模擬的直接連結">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="膠片模擬">膠片模擬<a href="https://www.jaron.tw/blog/first-time-in-beijing/#%E8%86%A0%E7%89%87%E6%A8%A1%E6%93%AC" class="hash-link" aria-label="膠片模擬的直接連結" title="膠片模擬的直接連結">​</a></h3>
 <p>最近蠻喜歡用 <a href="http://dazz.ltd/" target="_blank" rel="noopener noreferrer">Dazz</a> 這個軟體拍照，除了可能已經習慣了 iPhone 的鏡頭風格以外⋯⋯</p>
 <p>有時候「<strong>不完美的完美</strong>」—— 反而格外吸引我。</p>
 <p><img decoding="async" loading="lazy" alt="窗外的風景" src="https://www.jaron.tw/assets/images/2025-07-22-plane-window-068f690f2d59f37f277c093320d25e52.jpeg" width="700" height="466" class="img_ev3q"></p>
@@ -402,25 +402,25 @@
 <li>還有很多，想到再來補充！</li>
 </ul>
 <p>（<em>是說，有這些「不完美」特質的東西，好像都<a href="https://www.thomann.co.uk/ams_neve_1073_dpd_preamp_stereo.htm" target="_blank" rel="noopener noreferrer">特別貴</a>。</em>）</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="酸辣粉">酸辣粉<a href="https://www.jaron.tw/blog/first-time-in-beijing#%E9%85%B8%E8%BE%A3%E7%B2%89" class="hash-link" aria-label="酸辣粉的直接連結" title="酸辣粉的直接連結">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="酸辣粉">酸辣粉<a href="https://www.jaron.tw/blog/first-time-in-beijing/#%E9%85%B8%E8%BE%A3%E7%B2%89" class="hash-link" aria-label="酸辣粉的直接連結" title="酸辣粉的直接連結">​</a></h3>
 <p><img decoding="async" loading="lazy" alt="酸辣粉" src="https://www.jaron.tw/assets/images/2025-07-22-hot-noodles-bf4f671055de0100f0d0639ebba55e06.jpg" width="700" height="466" class="img_ev3q"></p>
 <p>飯店隔壁是一間小餐廳，酸辣粉意外的很好吃！如果有冷氣我應該就能吃完了。</p>
 <hr>
 <p>展覽明天就開始了，現在是凌晨一點 😴<br>
 <!-- -->不知道這幾天有沒有機會見到<a href="https://zh.wikipedia.org/wiki/%E5%BD%B1%E8%A7%86%E9%A3%93%E9%A3%8E" target="_blank" rel="noopener noreferrer">影視颶風</a>的「<strong>好跪好我是 Tim</strong>」呢？</p>
 <!-- -->
-<section data-footnotes="true" class="footnotes"><h2 class="anchor anchorWithStickyNavbar_LWe7 sr-only" id="footnote-label">Footnotes<a href="https://www.jaron.tw/blog/first-time-in-beijing#footnote-label" class="hash-link" aria-label="Footnotes的直接連結" title="Footnotes的直接連結">​</a></h2>
+<section data-footnotes="true" class="footnotes"><h2 class="anchor anchorWithStickyNavbar_LWe7 sr-only" id="footnote-label">Footnotes<a href="https://www.jaron.tw/blog/first-time-in-beijing/#footnote-label" class="hash-link" aria-label="Footnotes的直接連結" title="Footnotes的直接連結">​</a></h2>
 <ol>
 <li id="user-content-fn-1-da62ba">
-<p>「酒店」在中國是指飯店的意思。 <a href="https://www.jaron.tw/blog/first-time-in-beijing#user-content-fnref-1-da62ba" data-footnote-backref="" aria-label="Back to reference 1" class="data-footnote-backref">↩</a></p>
+<p>「酒店」在中國是指飯店的意思。 <a href="https://www.jaron.tw/blog/first-time-in-beijing/#user-content-fnref-1-da62ba" data-footnote-backref="" aria-label="Back to reference 1" class="data-footnote-backref">↩</a></p>
 </li>
 </ol>
 </section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[多重身份的困擾]]></title>
-        <id>https://www.jaron.tw/blog/name-and-identity</id>
-        <link href="https://www.jaron.tw/blog/name-and-identity"/>
+        <id>https://www.jaron.tw/blog/name-and-identity/</id>
+        <link href="https://www.jaron.tw/blog/name-and-identity/"/>
         <updated>2025-07-21T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[最近因為開始經營新的品牌 defines 定義文化（是我的影像品牌！歡迎你找我合作。），這陣子又架了一個新的網站 jaron.tw，常常會需要有填寫姓名、或是創立新的使用者名稱的需求。]]></summary>
         <content type="html"><![CDATA[<p>最近因為開始經營新的品牌 <a href="https://defines.tw/" target="_blank" rel="noopener noreferrer">defines 定義文化</a>（是我的影像品牌！歡迎你找我合作。），這陣子又架了一個新的網站 <a href="https://jaron.tw/" target="_blank" rel="noopener noreferrer">jaron.tw</a>，常常會需要有填寫姓名、或是創立新的使用者名稱的需求。</p>
@@ -435,12 +435,12 @@
 其實可以把它想做這就是「我」</p>
 </li>
 </ol>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="這很重要嗎">這很重要嗎<a href="https://www.jaron.tw/blog/name-and-identity#%E9%80%99%E5%BE%88%E9%87%8D%E8%A6%81%E5%97%8E" class="hash-link" aria-label="這很重要嗎的直接連結" title="這很重要嗎的直接連結">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="這很重要嗎">這很重要嗎<a href="https://www.jaron.tw/blog/name-and-identity/#%E9%80%99%E5%BE%88%E9%87%8D%E8%A6%81%E5%97%8E" class="hash-link" aria-label="這很重要嗎的直接連結" title="這很重要嗎的直接連結">​</a></h3>
 <p>重要啊！至少對我來說還蠻重要的。畢竟姓名不只是字面上的標籤，還牽扯到我怎麼呈現自己、其他人類怎麼跟我互動。</p>
 <p>舉例來說，<strong>如果有一天我不再是「小胖Fattie」，這些觀眾們還會記得我嗎？</strong></p>
 <p>又或者，假設小胖真的不再在社群媒體上活躍，「數字上」的社群影響力瞬間被大大削弱，該怎麼辦？</p>
 <p>這也是我還在尋找一個平衡的問題。</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="至少現在怎麼分">至少⋯現在怎麼分<a href="https://www.jaron.tw/blog/name-and-identity#%E8%87%B3%E5%B0%91%E7%8F%BE%E5%9C%A8%E6%80%8E%E9%BA%BC%E5%88%86" class="hash-link" aria-label="至少⋯現在怎麼分的直接連結" title="至少⋯現在怎麼分的直接連結">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="至少現在怎麼分">至少⋯現在怎麼分<a href="https://www.jaron.tw/blog/name-and-identity/#%E8%87%B3%E5%B0%91%E7%8F%BE%E5%9C%A8%E6%80%8E%E9%BA%BC%E5%88%86" class="hash-link" aria-label="至少⋯現在怎麼分的直接連結" title="至少⋯現在怎麼分的直接連結">​</a></h3>
 <p>現在的我為了經營 <a href="https://defines.tw/" target="_blank" rel="noopener noreferrer">defines 定義文化</a>，名片上多半會寫「王則倫」，因為導演、創辦人、負責人這些角色，好像還是需要比較正式一些。</p>
 <p>現在對於「小胖Fattie 」的看法，比較像是一個定義文化旗下的子品牌、或是旗下的創作者。</p>
 <p>而「王則倫」則代表著我。</p>
@@ -451,11 +451,11 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[YouTube 變了]]></title>
-        <id>https://www.jaron.tw/blog/youtube-has-changed</id>
-        <link href="https://www.jaron.tw/blog/youtube-has-changed"/>
+        <id>https://www.jaron.tw/blog/youtube-has-changed/</id>
+        <link href="https://www.jaron.tw/blog/youtube-has-changed/"/>
         <updated>2025-07-21T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[快問快答]]></summary>
-        <content type="html"><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="快問快答">快問快答<a href="https://www.jaron.tw/blog/youtube-has-changed#%E5%BF%AB%E5%95%8F%E5%BF%AB%E7%AD%94" class="hash-link" aria-label="快問快答的直接連結" title="快問快答的直接連結">​</a></h3>
+        <content type="html"><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="快問快答">快問快答<a href="https://www.jaron.tw/blog/youtube-has-changed/#%E5%BF%AB%E5%95%8F%E5%BF%AB%E7%AD%94" class="hash-link" aria-label="快問快答的直接連結" title="快問快答的直接連結">​</a></h3>
 <blockquote>
 <p>你能說出五個你最喜歡的 YouTube 頻道名稱嗎？</p>
 </blockquote>
@@ -464,21 +464,21 @@
 <p>你能說出三個你最喜歡的短影片創作者的名字嗎？</p>
 </blockquote>
 <p>第一個問題在 2020 年，甚至 2015 年出現的話，我相信大部分的人都能快速的說出自己喜歡的創作者，還能很興奮的跟你分享為什麼喜歡他的影片、每週什麼時候一定要準時看他更新等等⋯⋯</p>
-<p>但是，我們現在接收訊息的習慣，已經從過去的<strong>主動選擇</strong>（關注喜歡的創作者），變成大量的<strong>被動推播</strong>（只要滑動就能看到下一部影片），而且不只是在社群平台上<sup><a href="https://www.jaron.tw/blog/youtube-has-changed#user-content-fn-1-492b3b" id="user-content-fnref-1-492b3b" data-footnote-ref="true" aria-describedby="footnote-label">1</a></sup>。</p>
+<p>但是，我們現在接收訊息的習慣，已經從過去的<strong>主動選擇</strong>（關注喜歡的創作者），變成大量的<strong>被動推播</strong>（只要滑動就能看到下一部影片），而且不只是在社群平台上<sup><a href="https://www.jaron.tw/blog/youtube-has-changed/#user-content-fn-1-492b3b" id="user-content-fnref-1-492b3b" data-footnote-ref="true" aria-describedby="footnote-label">1</a></sup>。</p>
 <p>（<em>如果這兩個問題你能很快速地回答出來，請一定要寫信到 <a href="mailto:hi@fattie.io" target="_blank" rel="noopener noreferrer">hi@fattie.io</a> 跟我分享！我很想認識他們。</em>）</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="平台的改變">平台的改變<a href="https://www.jaron.tw/blog/youtube-has-changed#%E5%B9%B3%E5%8F%B0%E7%9A%84%E6%94%B9%E8%AE%8A" class="hash-link" aria-label="平台的改變的直接連結" title="平台的改變的直接連結">​</a></h3>
-<p>我還記得我小時候最喜歡的遊戲實況主是<a href="https://www.youtube.com/channel/UCnJEWsS5agXCkqIpyHC9Grg" target="_blank" rel="noopener noreferrer">阿神</a>，最喜歡他的 Minecraft 實況影片，還有他和 Bob<sup><a href="https://www.jaron.tw/blog/youtube-has-changed#user-content-fn-2-492b3b" id="user-content-fnref-2-492b3b" data-footnote-ref="true" aria-describedby="footnote-label">2</a></sup> 們聊天的<a href="https://youtube.com/playlist?list=PLtHA2VxfiZuUrny3w48hUQ9fGfsP_Bupm" target="_blank" rel="noopener noreferrer">深夜巴士</a>直播系列。</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="平台的改變">平台的改變<a href="https://www.jaron.tw/blog/youtube-has-changed/#%E5%B9%B3%E5%8F%B0%E7%9A%84%E6%94%B9%E8%AE%8A" class="hash-link" aria-label="平台的改變的直接連結" title="平台的改變的直接連結">​</a></h3>
+<p>我還記得我小時候最喜歡的遊戲實況主是<a href="https://www.youtube.com/channel/UCnJEWsS5agXCkqIpyHC9Grg" target="_blank" rel="noopener noreferrer">阿神</a>，最喜歡他的 Minecraft 實況影片，還有他和 Bob<sup><a href="https://www.jaron.tw/blog/youtube-has-changed/#user-content-fn-2-492b3b" id="user-content-fnref-2-492b3b" data-footnote-ref="true" aria-describedby="footnote-label">2</a></sup> 們聊天的<a href="https://youtube.com/playlist?list=PLtHA2VxfiZuUrny3w48hUQ9fGfsP_Bupm" target="_blank" rel="noopener noreferrer">深夜巴士</a>直播系列。</p>
 <p>以前的我們會可以<strong>喜歡一位創作者</strong>，主動搜尋他的頻道、訂閱他，而 YouTube 也會把他的影片準時送到我們手上。</p>
 <p>而現在的 YouTube，先別提那個<strong>我從來就沒有想看的 Shorts</strong> 直接<strong>霸佔了我的首頁</strong>，把首頁滑到最底都不會找到一部我有興趣的影片。</p>
 <blockquote>
 <p><em>如果你也很討厭 Shorts 的話，這是一個讓 YouTube 不要一直推播垃圾內容給你的<a href="https://youtu.be/ROaQW0-gKrg&amp;t=69" target="_blank" rel="noopener noreferrer">快速解法</a>，實測有效！</em></p>
 </blockquote>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="有人記得指尖陀螺嗎">有人記得指尖陀螺嗎<a href="https://www.jaron.tw/blog/youtube-has-changed#%E6%9C%89%E4%BA%BA%E8%A8%98%E5%BE%97%E6%8C%87%E5%B0%96%E9%99%80%E8%9E%BA%E5%97%8E" class="hash-link" aria-label="有人記得指尖陀螺嗎的直接連結" title="有人記得指尖陀螺嗎的直接連結">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="有人記得指尖陀螺嗎">有人記得指尖陀螺嗎<a href="https://www.jaron.tw/blog/youtube-has-changed/#%E6%9C%89%E4%BA%BA%E8%A8%98%E5%BE%97%E6%8C%87%E5%B0%96%E9%99%80%E8%9E%BA%E5%97%8E" class="hash-link" aria-label="有人記得指尖陀螺嗎的直接連結" title="有人記得指尖陀螺嗎的直接連結">​</a></h3>
 <p>在 2017 年的時候，Joeman 只要在家裡的<a href="https://youtu.be/g2MblLYAZyI?si=mavFcpgy-2gAkm0s" target="_blank" rel="noopener noreferrer">客廳開箱指尖陀螺</a>，就可以有<strong>將近 200 萬的點閱率</strong>。<br>
 <!-- -->（<em>並不是說以前就能輕鬆拿流量，除了指尖陀螺是當時的熱門題材外，Joeman 本身的主持功力、介紹能力，還有個人風格等，也都是大家會喜歡的關鍵之一。Joeman 真的厲害！</em>）</p>
 <p>但 2025 年的現在，製作費可能要燒掉好幾萬元，有導演、企劃、兩位以上的攝影師，還有一整個公司製作的 Joe 是要對決，很可能<strong>只有不到 50 萬的流量</strong>。</p>
 <hr>
-<p>身為一個一隻影片至少要花 40 個小時<sup><a href="https://www.jaron.tw/blog/youtube-has-changed#user-content-fn-3-492b3b" id="user-content-fnref-3-492b3b" data-footnote-ref="true" aria-describedby="footnote-label">3</a></sup>的創作者，我今年年初在東京拍攝的<a href="https://youtu.be/JPtAAoyFNV8" target="_blank" rel="noopener noreferrer">《快醒醒，你在東京》（8K）</a>，我們一起來看看截至今天<sup><a href="https://www.jaron.tw/blog/youtube-has-changed#user-content-fn-4-492b3b" id="user-content-fnref-4-492b3b" data-footnote-ref="true" aria-describedby="footnote-label">4</a></sup>的成效怎麼樣。</p>
+<p>身為一個一隻影片至少要花 40 個小時<sup><a href="https://www.jaron.tw/blog/youtube-has-changed/#user-content-fn-3-492b3b" id="user-content-fnref-3-492b3b" data-footnote-ref="true" aria-describedby="footnote-label">3</a></sup>的創作者，我今年年初在東京拍攝的<a href="https://youtu.be/JPtAAoyFNV8" target="_blank" rel="noopener noreferrer">《快醒醒，你在東京》（8K）</a>，我們一起來看看截至今天<sup><a href="https://www.jaron.tw/blog/youtube-has-changed/#user-content-fn-4-492b3b" id="user-content-fnref-4-492b3b" data-footnote-ref="true" aria-describedby="footnote-label">4</a></sup>的成效怎麼樣。</p>
 <p>目前的總觀看次數是 2,200 次，這是一部我很喜歡的作品（<em>有機會我們可以來聊聊它！</em>），而其中：</p>
 <ol>
 <li>
@@ -492,7 +492,7 @@
 <p>其實，這其中有至少 500 次（約 25%），是我在 Threads 上，<strong>發了至少四篇文章，用我「不喜歡」的文筆</strong>，讓大家有機會能看到這部作品。</p>
 <p>換句話說，如果我沒有做這件事的話，這部作品很大機率<strong>就只有 1,000 次的觀看次數</strong>。</p>
 <p>我以為，創作者只要專心在創作內容就好。</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="現在怎麼辦">現在怎麼辦<a href="https://www.jaron.tw/blog/youtube-has-changed#%E7%8F%BE%E5%9C%A8%E6%80%8E%E9%BA%BC%E8%BE%A6" class="hash-link" aria-label="現在怎麼辦的直接連結" title="現在怎麼辦的直接連結">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="現在怎麼辦">現在怎麼辦<a href="https://www.jaron.tw/blog/youtube-has-changed/#%E7%8F%BE%E5%9C%A8%E6%80%8E%E9%BA%BC%E8%BE%A6" class="hash-link" aria-label="現在怎麼辦的直接連結" title="現在怎麼辦的直接連結">​</a></h3>
 <p>身為觀眾的話，你可以試試看：</p>
 <ol>
 <li>
@@ -517,38 +517,38 @@
 <p>不過，身為創作者的我⋯⋯<br>
 <!-- -->暫時還不知道該怎麼辦 🤔</p>
 <!-- -->
-<section data-footnotes="true" class="footnotes"><h2 class="anchor anchorWithStickyNavbar_LWe7 sr-only" id="footnote-label">Footnotes<a href="https://www.jaron.tw/blog/youtube-has-changed#footnote-label" class="hash-link" aria-label="Footnotes的直接連結" title="Footnotes的直接連結">​</a></h2>
+<section data-footnotes="true" class="footnotes"><h2 class="anchor anchorWithStickyNavbar_LWe7 sr-only" id="footnote-label">Footnotes<a href="https://www.jaron.tw/blog/youtube-has-changed/#footnote-label" class="hash-link" aria-label="Footnotes的直接連結" title="Footnotes的直接連結">​</a></h2>
 <ol>
 <li id="user-content-fn-1-492b3b">
-<p>你聽的 Spotify 會推薦音樂給你、UberEats 會推薦你餐廳、Netflix 會幫你挑好你要看的下一部影集。 <a href="https://www.jaron.tw/blog/youtube-has-changed#user-content-fnref-1-492b3b" data-footnote-backref="" aria-label="Back to reference 1" class="data-footnote-backref">↩</a></p>
+<p>你聽的 Spotify 會推薦音樂給你、UberEats 會推薦你餐廳、Netflix 會幫你挑好你要看的下一部影集。 <a href="https://www.jaron.tw/blog/youtube-has-changed/#user-content-fnref-1-492b3b" data-footnote-backref="" aria-label="Back to reference 1" class="data-footnote-backref">↩</a></p>
 </li>
 <li id="user-content-fn-2-492b3b">
-<p>阿神的觀眾被稱為「Bob」。 <a href="https://www.jaron.tw/blog/youtube-has-changed#user-content-fnref-2-492b3b" data-footnote-backref="" aria-label="Back to reference 2" class="data-footnote-backref">↩</a></p>
+<p>阿神的觀眾被稱為「Bob」。 <a href="https://www.jaron.tw/blog/youtube-has-changed/#user-content-fnref-2-492b3b" data-footnote-backref="" aria-label="Back to reference 2" class="data-footnote-backref">↩</a></p>
 </li>
 <li id="user-content-fn-3-492b3b">
-<p>平均來說，一部影片我大約要花至少 20 小時的剪輯，不包括前期構想、和拍攝。 <a href="https://www.jaron.tw/blog/youtube-has-changed#user-content-fnref-3-492b3b" data-footnote-backref="" aria-label="Back to reference 3" class="data-footnote-backref">↩</a></p>
+<p>平均來說，一部影片我大約要花至少 20 小時的剪輯，不包括前期構想、和拍攝。 <a href="https://www.jaron.tw/blog/youtube-has-changed/#user-content-fnref-3-492b3b" data-footnote-backref="" aria-label="Back to reference 3" class="data-footnote-backref">↩</a></p>
 </li>
 <li id="user-content-fn-4-492b3b">
-<p>截至2025 年 7 月 21 日。 <a href="https://www.jaron.tw/blog/youtube-has-changed#user-content-fnref-4-492b3b" data-footnote-backref="" aria-label="Back to reference 4" class="data-footnote-backref">↩</a></p>
+<p>截至2025 年 7 月 21 日。 <a href="https://www.jaron.tw/blog/youtube-has-changed/#user-content-fnref-4-492b3b" data-footnote-backref="" aria-label="Back to reference 4" class="data-footnote-backref">↩</a></p>
 </li>
 </ol>
 </section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[沒有社群軟體怎麼辦]]></title>
-        <id>https://www.jaron.tw/blog/why-blog</id>
-        <link href="https://www.jaron.tw/blog/why-blog"/>
+        <id>https://www.jaron.tw/blog/why-blog/</id>
+        <link href="https://www.jaron.tw/blog/why-blog/"/>
         <updated>2025-07-20T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[哈囉 👋 歡迎你來到我的新網站！]]></summary>
         <content type="html"><![CDATA[<p>哈囉 👋 歡迎你來到我的新網站！</p>
 <p>大多數人聽到我沒有 IG 或 Facebook，都會驚訝地問我：<br>
 <!-- -->「你怎麼活下去的？」</p>
 <p>所以我想，第一篇貼文就來分享一下我為什麼選擇離開社群媒體、重新定義自己跟社群媒體的關係。</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="你是原始人嗎">你是原始人嗎<a href="https://www.jaron.tw/blog/why-blog#%E4%BD%A0%E6%98%AF%E5%8E%9F%E5%A7%8B%E4%BA%BA%E5%97%8E" class="hash-link" aria-label="你是原始人嗎的直接連結" title="你是原始人嗎的直接連結">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="你是原始人嗎">你是原始人嗎<a href="https://www.jaron.tw/blog/why-blog/#%E4%BD%A0%E6%98%AF%E5%8E%9F%E5%A7%8B%E4%BA%BA%E5%97%8E" class="hash-link" aria-label="你是原始人嗎的直接連結" title="你是原始人嗎的直接連結">​</a></h3>
 <p>這是一個好問題，因為我也還沒有辦法想像在別人跟我要 IG 的時候，我卻拿出一個 QR Code 跟他說：</p>
-<p>「<em>很高興認識你，很抱歉，我沒有 IG，但這是我的部落格的 RSS，歡迎在你習慣的閱讀器上<a href="https://www.jaron.tw/blog/rss-reader">訂閱我的網站！</a></em>」</p>
+<p>「<em>很高興認識你，很抱歉，我沒有 IG，但這是我的部落格的 RSS，歡迎在你習慣的閱讀器上<a href="https://www.jaron.tw/blog/rss-reader/">訂閱我的網站！</a></em>」</p>
 <p>這好像不是什麼很好的 pick up line，所以我也還在思考這個問題。</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="為什麼我要離開">為什麼我要離開<a href="https://www.jaron.tw/blog/why-blog#%E7%82%BA%E4%BB%80%E9%BA%BC%E6%88%91%E8%A6%81%E9%9B%A2%E9%96%8B" class="hash-link" aria-label="為什麼我要離開的直接連結" title="為什麼我要離開的直接連結">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="為什麼我要離開">為什麼我要離開<a href="https://www.jaron.tw/blog/why-blog/#%E7%82%BA%E4%BB%80%E9%BA%BC%E6%88%91%E8%A6%81%E9%9B%A2%E9%96%8B" class="hash-link" aria-label="為什麼我要離開的直接連結" title="為什麼我要離開的直接連結">​</a></h3>
 <blockquote>
 <p>TL;DR 用社群媒體並沒有讓我變得更開心，也沒有讓我跟重要的人保持聯繫。</p>
 </blockquote>
@@ -558,15 +558,15 @@
 <p>忘記是國小幾年級的時候開始流行 Instagram，發發限時動態、摯友貼文，跟朋友在 Messenger 上聊天，玩玩 <a href="https://axesinmotion.com/extreme-car-driving-simulator/" target="_blank" rel="noopener noreferrer">Extreme Car Driving Simulator</a>、<a href="https://pixelgun3d.com/" target="_blank" rel="noopener noreferrer">Pixel Gun 3D</a>，一天頂多就花一兩個小時在手機上。</p>
 <p>雖然偶爾會被唸，但似乎也沒有造成什麼太大的困擾或問題。</p>
 <p>第一次真正從社群媒體休息，是國三的時候。為了更專心的準備會考，暫時把手機和電腦上的社群媒體封鎖掉，但考試一結束還是趕緊載回來了。</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="短影片世代">短影片世代<a href="https://www.jaron.tw/blog/why-blog#%E7%9F%AD%E5%BD%B1%E7%89%87%E4%B8%96%E4%BB%A3" class="hash-link" aria-label="短影片世代的直接連結" title="短影片世代的直接連結">​</a></h3>
-<p>社群媒體開始真正困擾我，是在大約 2022 年前後。Instagram、Facebook，還有曾經是我們<a href="https://www.jaron.tw/blog/youtube-has-changed">摯愛的 YouTube</a>，都紛紛在自己的平台上加入短影片功能之後。</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="短影片世代">短影片世代<a href="https://www.jaron.tw/blog/why-blog/#%E7%9F%AD%E5%BD%B1%E7%89%87%E4%B8%96%E4%BB%A3" class="hash-link" aria-label="短影片世代的直接連結" title="短影片世代的直接連結">​</a></h3>
+<p>社群媒體開始真正困擾我，是在大約 2022 年前後。Instagram、Facebook，還有曾經是我們<a href="https://www.jaron.tw/blog/youtube-has-changed/">摯愛的 YouTube</a>，都紛紛在自己的平台上加入短影片功能之後。</p>
 <p><em>（是的，不管你叫 Reel 還是 Short，其實我們都看得出來是被 Tiktok 逼出來的功能。）</em></p>
 <p>我發現這種無止境的「被動」推播內容，不僅會吃掉我寶貴的休息時間，<strong>重點是，我看完之後也沒有變得更開心呀</strong>！</p>
 <blockquote>
 <p>我覺得短影音和社群媒體其實是個很大的議題，離開也是我累積多年使用經驗後做出的決定。</p>
 <p>或許未來我會多寫幾篇文章來聊聊我的想法，如果你想要了解其他人的想法的話，我推薦 The Game Theorists 的<a href="https://youtu.be/0Igj3qI0GBA" target="_blank" rel="noopener noreferrer">這部影片</a>，從使用者和創作者的角度都分析得很好。</p>
 </blockquote>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="停止使用的過程">停止使用的過程<a href="https://www.jaron.tw/blog/why-blog#%E5%81%9C%E6%AD%A2%E4%BD%BF%E7%94%A8%E7%9A%84%E9%81%8E%E7%A8%8B" class="hash-link" aria-label="停止使用的過程的直接連結" title="停止使用的過程的直接連結">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="停止使用的過程">停止使用的過程<a href="https://www.jaron.tw/blog/why-blog/#%E5%81%9C%E6%AD%A2%E4%BD%BF%E7%94%A8%E7%9A%84%E9%81%8E%E7%A8%8B" class="hash-link" aria-label="停止使用的過程的直接連結" title="停止使用的過程的直接連結">​</a></h3>
 <p>這兩年的戒斷期，每個階段應該都能獨立寫出一篇文章來分享，但大致的幾個階段是這樣的：</p>
 <ol>
 <li>
@@ -611,7 +611,7 @@
 <!-- -->像是看電影、用心製作內容的創作者製作的影片、閱讀書籍、聽音樂或電子書，或是好好玩一個值得玩的遊戲，都是一些很好的選擇</p>
 </li>
 </ol>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="創作者的身份怎麼辦">創作者的身份怎麼辦<a href="https://www.jaron.tw/blog/why-blog#%E5%89%B5%E4%BD%9C%E8%80%85%E7%9A%84%E8%BA%AB%E4%BB%BD%E6%80%8E%E9%BA%BC%E8%BE%A6" class="hash-link" aria-label="創作者的身份怎麼辦的直接連結" title="創作者的身份怎麼辦的直接連結">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="創作者的身份怎麼辦">創作者的身份怎麼辦<a href="https://www.jaron.tw/blog/why-blog/#%E5%89%B5%E4%BD%9C%E8%80%85%E7%9A%84%E8%BA%AB%E4%BB%BD%E6%80%8E%E9%BA%BC%E8%BE%A6" class="hash-link" aria-label="創作者的身份怎麼辦的直接連結" title="創作者的身份怎麼辦的直接連結">​</a></h3>
 <p>除了前面提到的過程，另外是受到我的偶像兼良師 Wiwi 官大為的啟發。<br>
 <!-- -->他已經持續更新自己的部落格 <a href="https://wiwi.blog/" target="_blank" rel="noopener noreferrer">Wiwi.Blog</a> 將近一年了！</p>
 <p>在讀他的貼文時，除了有一種在了解好久不見的朋友的近況的感覺之外，也覺得對現在的我來說是個不錯的內容出口。</p>
@@ -628,7 +628,7 @@
 <li>瘋狂重整通知介面，死盯後台數據確保演算法會把我的作品推出去</li>
 <li>the list goes on...</li>
 </ul>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="我想要什麼">我想要什麼<a href="https://www.jaron.tw/blog/why-blog#%E6%88%91%E6%83%B3%E8%A6%81%E4%BB%80%E9%BA%BC" class="hash-link" aria-label="我想要什麼的直接連結" title="我想要什麼的直接連結">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="我想要什麼">我想要什麼<a href="https://www.jaron.tw/blog/why-blog/#%E6%88%91%E6%83%B3%E8%A6%81%E4%BB%80%E9%BA%BC" class="hash-link" aria-label="我想要什麼的直接連結" title="我想要什麼的直接連結">​</a></h3>
 <p>我覺得可以 Recap 回 Cal Newport 的觀點，跟對我重要的人維持互動與聯繫，所以好像也沒有太多的期待。</p>
 <p>但我確實有一些想要達成的目標，包括：</p>
 <ul>
@@ -641,7 +641,7 @@
 <p>如果你也正在思考如何重新找回自己的節奏，希望這裡能成為你停下來、喘口氣的其中一個角落：）</p>
 <p>謝謝你看到這裡，期待未來常常在這裡與你相見。</p>
 <p>有什麼想說的，也歡迎寫信來 <a href="mailto:hi@fattie.io" target="_blank" rel="noopener noreferrer">hi@fattie.io</a> 跟我聊天 🙋</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="如果你也想要">如果你也想要<a href="https://www.jaron.tw/blog/why-blog#%E5%A6%82%E6%9E%9C%E4%BD%A0%E4%B9%9F%E6%83%B3%E8%A6%81" class="hash-link" aria-label="如果你也想要的直接連結" title="如果你也想要的直接連結">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="如果你也想要">如果你也想要<a href="https://www.jaron.tw/blog/why-blog/#%E5%A6%82%E6%9E%9C%E4%BD%A0%E4%B9%9F%E6%83%B3%E8%A6%81" class="hash-link" aria-label="如果你也想要的直接連結" title="如果你也想要的直接連結">​</a></h3>
 <p>我大約只花了五個小時就讓網站上線並且成功運作，從無到有。<br>
 <!-- -->（當然還有 ChatGPT 的幫助）</p>
 <p>我使用的套件是 <a href="https://docusaurus.io/" target="_blank" rel="noopener noreferrer">Docusaurus</a>，新增新的文章非常簡單，只需要新增一個 Markdown 文件，就會自動建立好新的網站。</p>
