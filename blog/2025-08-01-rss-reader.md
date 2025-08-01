@@ -29,7 +29,7 @@ RSS 其實是一個 1999 年就有的標準，好奇的人可以去[維基百科
 
 ### 快教教我吧
 
-好消息是，我們其實還有選擇。除了社群媒體以外，大部分的網站仍然提供了 RSS 訂閱，包括[我們最愛的 YouTube](2025-07-21-youtube-has-changed.md)！先來介紹閱讀器的部分。
+好消息是，我們其實還有選擇。除了社群媒體以外，大部分的網站仍然提供了 RSS 訂閱，包括[我們最愛的 YouTube](2025-07-21-youtube-has-changed.md)。先來介紹閱讀器的部分。
 
 我現在主要使用的 RSS 閱讀器是 [NetNewsWire](https://netnewswire.com/)，完全[**開源**](https://github.com/Ranchero-Software/NetNewsWire)並且**免費**！提供了 [Mac](https://netnewswire.com/NetNewsWire.zip) 和 [iOS](https://apps.apple.com/us/app/netnewswire-rss-reader/id1480640210) 版本。雖然介面看起來比較舊一些些，但該有的功能都有，支援透過 iCloud 同步，而且跑起來超級快。他們的[開發哲學](https://netnewswire.com/philosophy.html)是「App 不應該崩潰，應該沒有 Bug，而且要足夠快速。」（*瞥了一眼 Windows*）
 
