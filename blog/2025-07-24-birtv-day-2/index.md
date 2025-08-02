@@ -1,6 +1,6 @@
 ---
 slug: birtv-day-2
-title: 見到活的 Tim 老師
+title: 見到活的 Tim
 ---
 昨晚跟 Paul 聊到凌晨 5 點，睡醒已經中午了。結果星培一起床就跟我說：
 
