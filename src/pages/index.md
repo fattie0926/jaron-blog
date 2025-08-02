@@ -17,6 +17,7 @@ title: "Jaron 的貼文"
 
 - [意識到自己沒有生活](/blog/living-before-creating/)
 - [如何訂閱 RSS / 我的部落格](/blog/rss-reader/)
+- [沒有社群軟體怎麼辦](/blog/why-blog/)
 
 ## 📌 其他區塊（即將上線，敬請期待）
 
