@@ -11,13 +11,12 @@ title: "Jaron 的貼文"
 這裡就像是我各個社群軟體的合體版 —— 但只有我說了算。  
 自 2025 年起，我開始嘗試不再使用社群媒體，改在這裡記錄觀察、想法與創作背後的故事。
 
-<p style={{ textAlign: 'center', margin: '2em 0' }}>
 [前往我的貼文列表](/blog)
-</p>
 
 ### 📖 精選文章
 
-- [如何訂閱 RSS / 我的部落格](/blog/rss-reader)
+- [意識到自己沒有生活](/blog/living-before-creating/)
+- [如何訂閱 RSS / 我的部落格](/blog/rss-reader/)
 
 ## 📌 其他區塊（即將上線，敬請期待）
 
