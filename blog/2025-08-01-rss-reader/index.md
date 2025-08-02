@@ -33,6 +33,8 @@ RSS 其實是一個 1999 年就有的標準，好奇的人可以去[維基百科
 
 我現在主要使用的 RSS 閱讀器是 [News Explorer](https://betamagic.nl/products/newsexplorer.html)，只要 $320 元就能買斷 [Mac 版本](https://betamagic.nl/store.html)，還有 $150 元就可買斷的 [iOS/iPad/Watch/TV 版本](https://geo.itunes.apple.com/us/app/news-explorer/id1032668306?ls=1&mt=8&at=1000lqMt&ct=store-newsexplorer-ios)。他比 NetNewsWire 更現代、好看一點，介面更像我們習慣的網站的閱讀方式。反正可以買斷，Mac 版本也提供 14 天的免費試用，歡迎你去試試看！
 
+*更新*：我發現 News Explorer 預設使用的是「Mercury Reader」來抓文章內容，有時候它沒辦法正確讀取 Markdown 網站，結果就變成文字擠在一起。如果你也遇到類似的問題，可以試著改用 RSS 提供的原文：在首頁點擊右上角的「⋯」>「Settings」>「Reading」，再把第一個 Default 選項改成 Feed Article，就會正常顯示了。
+
 另外一款我過去使用的是 [NetNewsWire](https://netnewswire.com/)，完全[開源](https://github.com/Ranchero-Software/NetNewsWire)並且免費！提供了 [Mac](https://netnewswire.com/NetNewsWire.zip) 和 [iOS](https://apps.apple.com/us/app/netnewswire-rss-reader/id1480640210) 版本。雖然介面看起來比較舊一些些，但該有的功能都有，支援透過 iCloud 同步，而且跑起來超級快。他們的[開發哲學](https://netnewswire.com/philosophy.html)是「App 不應該崩潰，應該沒有 Bug，而且要足夠快速。」（*瞥了一眼 Windows*）
 
 Windows 跟 Android 的使用者們，可能得研究一下 Reddit 上的朋友有沒有什麼推薦的好選項。如果你有推薦的軟體，可以寫信到 hi@fattie.io 跟我分享，我會趕緊更新在文章裡的。
