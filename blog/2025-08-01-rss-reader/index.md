@@ -8,10 +8,10 @@ title: RSS，比演算法更懂你
 
 RSS 其實是一個 1999 年就有的標準，好奇的人可以去[維基百科](https://zh.wikipedia.org/zh-tw/RSS)看看詳細的介紹和歷史，但我們只需要知道：
 
-> RSS 就像是幫你**訂報紙的郵差**。
+> RSS 就像是幫你訂報紙的郵差。
 > 
 > 你喜歡的網站會有一個「RSS 檔案」（就像郵局的派送清單），裡面列出了最新的文章。
-> 然後你的 RSS 閱讀器（郵差）每天會自動去抓這份清單，把新內容送到你的 RSS App 裡，**完全免費、沒有廣告、沒有演算法干擾，既有效率又乾淨**。
+> 然後你的 RSS 閱讀器（郵差）每天會自動去抓這份清單，把新內容送到你的 RSS App 裡，完全免費、沒有廣告、沒有演算法干擾，既有效率又乾淨。
 > 
 > 所以，你不用每天去逛 10 個網站找更新，只要打開 RSS 閱讀器，所有最新文章都已經幫你收集好了。
 
@@ -21,7 +21,7 @@ RSS 其實是一個 1999 年就有的標準，好奇的人可以去[維基百科
 
 那就對了。Facebook 早在 2015 年就[把官方的 RSS 給關閉了](https://developers.facebook.com/docs/graph-api/changelog/version2.3#v2_3_90_day_deprecations)。如果給你們這麼好康的，那我要怎麼知道你用哪一牌的手機、住在哪、你最好的朋友是誰、跟前女友在什麼時候分手（或許比你以為的還早）、你晚上會不會打開外送 App 點一份鹽酥雞，甚至能知道凌晨三點還在暈船對象的貼文停留了 27 秒？
 
-這些平台**比你還要了解你自己**，他們可以再把這些資料名正言順的跟「廣告合作夥伴」共享（畢竟你都在註冊帳號的時候同意了）。就算你關掉定位、登出帳號，甚至用無痕模式，他們還是能憑藉一些零碎的特徵[^1]，**把你從幾十億個用戶中精準的抓出來**。
+這些平台比你還要了解你自己，他們可以再把這些資料名正言順的跟「廣告合作夥伴」共享（畢竟你都在註冊帳號的時候同意了）。就算你關掉定位、登出帳號，甚至用無痕模式，他們還是能憑藉一些零碎的特徵[^1]，把你從幾十億個用戶中精準的抓出來。
 
 不然你以為，這些社群平台怎麼會是免費的，難道是做身體健康的嗎？換句話說，使用者們正在把自己珍貴的注意力、時間、努力賺來的薪水[^2]，跟你自己都不知道的秘密，拿來訂閱了這些「免費」的社群平台。
 
@@ -31,9 +31,9 @@ RSS 其實是一個 1999 年就有的標準，好奇的人可以去[維基百科
 
 好消息是，我們其實還有選擇。除了社群媒體以外，大部分的網站仍然提供了 RSS 訂閱，包括[我們最愛的 YouTube](2025-07-21-youtube-has-changed.md)。先來介紹閱讀器的部分。
 
-我現在主要使用的 RSS 閱讀器是 [NetNewsWire](https://netnewswire.com/)，完全[**開源**](https://github.com/Ranchero-Software/NetNewsWire)並且**免費**！提供了 [Mac](https://netnewswire.com/NetNewsWire.zip) 和 [iOS](https://apps.apple.com/us/app/netnewswire-rss-reader/id1480640210) 版本。雖然介面看起來比較舊一些些，但該有的功能都有，支援透過 iCloud 同步，而且跑起來超級快。他們的[開發哲學](https://netnewswire.com/philosophy.html)是「App 不應該崩潰，應該沒有 Bug，而且要足夠快速。」（*瞥了一眼 Windows*）
+我現在主要使用的 RSS 閱讀器是 [News Explorer](https://betamagic.nl/products/newsexplorer.html)，只要 $320 元就能買斷 [Mac 版本](https://betamagic.nl/store.html)，還有 $150 元就可買斷的 [iOS/iPad/Watch/TV 版本](https://geo.itunes.apple.com/us/app/news-explorer/id1032668306?ls=1&mt=8&at=1000lqMt&ct=store-newsexplorer-ios)。他比 NetNewsWire 更現代、好看一點，介面更像我們習慣的網站的閱讀方式。反正可以買斷，Mac 版本也提供 14 天的免費試用，歡迎你去試試看！
 
-另外一款我這幾天開始嘗試的是 [News Explorer](https://betamagic.nl/products/newsexplorer.html)，只要 $320 元就能買斷 [Mac 版本](https://betamagic.nl/store.html)，還有 $150 元就可買斷的 [iOS/iPad/Watch/TV 版本](https://geo.itunes.apple.com/us/app/news-explorer/id1032668306?ls=1&mt=8&at=1000lqMt&ct=store-newsexplorer-ios)。他比 NetNewsWire 更現代、好看一點，介面更像我們習慣的網站的閱讀方式。反正可以買斷，也提供 14 天的免費試用，歡迎你去試試看！
+另外一款我過去使用的是 [NetNewsWire](https://netnewswire.com/)，完全[開源](https://github.com/Ranchero-Software/NetNewsWire)並且免費！提供了 [Mac](https://netnewswire.com/NetNewsWire.zip) 和 [iOS](https://apps.apple.com/us/app/netnewswire-rss-reader/id1480640210) 版本。雖然介面看起來比較舊一些些，但該有的功能都有，支援透過 iCloud 同步，而且跑起來超級快。他們的[開發哲學](https://netnewswire.com/philosophy.html)是「App 不應該崩潰，應該沒有 Bug，而且要足夠快速。」（*瞥了一眼 Windows*）
 
 Windows 跟 Android 的使用者們，可能得研究一下 Reddit 上的朋友有沒有什麼推薦的好選項。如果你有推薦的軟體，可以寫信到 hi@fattie.io 跟我分享，我會趕緊更新在文章裡的。
 
@@ -76,6 +76,6 @@ YouTube 的 RSS 稍微麻煩一些些，建議使用電腦操作會比較容易�
 
 ![](2025-08-01-netnewswire.jpg)
 
-[^1]: 舉例來說，像是你的 IP 位置、瀏覽器類型與版本、作業系統、螢幕解析度、安裝的字體跟外掛程式、時區和語言設定，甚至你的滑鼠移動和打字行為。這些東西單看一個都無法準確識別你，但組合起來就能形成一個幾乎**獨一無二的數位指紋**，用來追蹤或分析使用者行為。
+[^1]: 舉例來說，像是你的 IP 位置、瀏覽器類型與版本、作業系統、螢幕解析度、安裝的字體跟外掛程式、時區和語言設定，甚至你的滑鼠移動和打字行為。這些東西單看一個都無法準確識別你，但組合起來就能形成一個幾乎獨一無二的數位指紋，用來追蹤或分析使用者行為。
 
 [^2]: 別讓我開始講購物網站那精準到噁心的廣告⋯⋯連你自己忘了加到購物車的東西，它都能提醒你。
