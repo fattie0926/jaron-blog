@@ -2,13 +2,7 @@
 slug: lukang-and-france
 title: 鹿港輕旅行的小故事
 ---
-*新影片的小小更新*
-
-大家還記得[新影片](https://youtu.be/QhEInY4Drxs)中的[畫畫的法國人](https://youtu.be/QhEInY4Drxs?t=69)嗎？
-
-因為我沒有詢問過對方，所以這邊不方便公布他的 Facebook
-
-以下是擷取的一些留言（翻譯後）
+大家還記得[新影片](https://youtu.be/QhEInY4Drxs)中的[畫畫的法國人](https://youtu.be/QhEInY4Drxs?t=69)嗎？因為我沒有詢問過對方，所以這邊不方便公布他的 Facebook，以下是擷取的一些留言：
 
 > 看看這個驚人的影片剪輯。拍攝時， 我在鹿港的這個寺廟，我在作畫⋯影片就是證據！！！
 > 

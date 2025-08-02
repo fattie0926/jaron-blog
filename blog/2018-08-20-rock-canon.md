@@ -4,15 +4,11 @@ title: 搖滾卡農
 ---
 *不能說的秘密鬥琴精彩重現！居然還有搖滾卡農！？六音的秘密⋯⋯噓「畢業音樂會—十八香頌」*
 
-節目中後段的卡農，是模仿[^1] [The Piano Guys](https://www.youtube.com/@thepianoguys) 的 [Rockelbel's Canon](https://youtu.be/LV5_xj_yuhs)，希望你們會喜歡 😉
-
-這場戲是整場音樂會的第一個節目，整理成影片讓無法到場的你們欣賞我們的心血 😏😏
+節目中後段的卡農，是模仿[^1] [The Piano Guys](https://www.youtube.com/@thepianoguys) 的 [Rockelbel's Canon](https://youtu.be/LV5_xj_yuhs)，希望你們會喜歡 😉 這場戲是整場音樂會的第一個節目，整理成影片讓無法到場的你們欣賞我們的心血 😏😏
 
 <!-- truncate -->
 
-影片連結在留言中喔，因 Facebook 新政策導致只要貼文有連結，觸擊率就會變得很低[^2] 😡😡
-
-陸陸續續會把整場音樂會的錄影整理上來囉～記得持續關注我的頻道，順便按個訂閱 + 小鈴鐺，然後再分享出去哈哈哈 😂😂😂😂
+影片連結在留言中喔，因 Facebook 新政策導致只要貼文有連結，觸擊率就會變得很低[^2] 😡😡 陸陸續續會把整場音樂會的錄影整理上來囉～記得持續關注我的頻道，順便按個訂閱 + 小鈴鐺，然後再分享出去哈哈哈 😂😂😂😂
 
 <iframe
   class="custom-iframe"
