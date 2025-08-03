@@ -104,7 +104,7 @@ const config = {
         },
         items: [
           {to: '/blog', label: '貼文', position: 'left'},
-          {to: '/library', label: '圖書館', position: 'left'},
+          {to: '/library', label: '書櫃', position: 'left'},
 /*           {
             href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',
@@ -123,7 +123,7 @@ const config = {
                 to: '/blog',
               },
               {
-                label: '圖書館',
+                label: '書櫃',
                 to: '/library',
               },
             ],
