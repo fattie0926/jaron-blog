@@ -68,7 +68,7 @@ title: 為什麼我決定離開社群媒體
 
 如果你也正在思考如何重新找回自己的節奏，或許可以考慮自己架設一個網站！我只花了五個小時就讓這個網站從無到有，並順利運行起來（當然，也感謝 ChatGPT 的幫助）。
 
-我使用的工具是 [Docusaurus](https://docusaurus.io/)，只要新增 Markdown 文件就能輕鬆更新網站內容。如果你對 Markdown 還不熟悉，可以透過這個[Markdown 教學網站](https://www.markdowntutorial.com/)快速上手，非常推薦！
+我使用的工具是 [Docusaurus](https://docusaurus.io/)，只要新增 Markdown 文件就能輕鬆更新網站內容。如果你對 Markdown 還不熟悉，可以透過這個 [Markdown 教學網站](https://www.markdowntutorial.com/) 快速上手，非常推薦！
 
 ---
 

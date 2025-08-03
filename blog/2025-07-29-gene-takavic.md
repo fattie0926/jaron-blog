@@ -10,7 +10,7 @@ title: 懷念每天練琴的時光
 
 ### 麥香魚跟 Gene
 
-帶著我的麥香魚、中薯，跟小杯玉米湯坐下，一邊聽著 [Jacob Collier](https://www.jacobcollier.com/#/) 上一張專輯《[Djesee Vol. 3](https://jacobcollier.lnk.to/DjesseVol3SR)》，看到手機推薦以前高中[練琴](2024-10-03-chicken-rice-egg.md)的影片，突發奇想想聽聽看自己以前彈的怎麼樣。
+帶著我的麥香魚、中薯，跟小杯玉米湯坐下，一邊聽著 [Jacob Collier](https://www.jacobcollier.com/#/) 上一張專輯《[Djesee Vol. 3](https://jacobcollier.lnk.to/DjesseVol3SR)》，看到手機推薦以前高中[練琴](/instagram-jaron.tw/2024-10-03-chicken-rice-egg.md)的影片，突發奇想想聽聽看自己以前彈的怎麼樣。
 
 不過[該死的 YouTube](2025-07-20-why-leave-social-media.md) 一上傳就給我版權砲，我沒辦法把影片內嵌進網頁，只能讓你們[點進去看](https://youtu.be/hSvjTOySmg8)了。
 

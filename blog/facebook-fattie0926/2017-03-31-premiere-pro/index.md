@@ -1,6 +1,6 @@
 ---
 slug: premiere-pro
-title: 開始使用 Premiere Pro
+title: Premiere Pro
 ---
 開始使用Adobe Primiere Pro~  
 \#PrimierePro  

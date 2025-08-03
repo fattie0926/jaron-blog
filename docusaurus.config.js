@@ -105,6 +105,7 @@ const config = {
         items: [
           {to: '/blog', label: '貼文', position: 'left'},
           {to: '/library', label: '書櫃', position: 'left'},
+          {to: '/travel', label: '旅行', position: 'left'},
 /*           {
             href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',
@@ -126,6 +127,10 @@ const config = {
                 label: '書櫃',
                 to: '/library',
               },
+              {
+                label: '旅行',
+                to: '/travel',
+              },
             ],
           },
           {
@@ -134,14 +139,6 @@ const config = {
               {
                 label: '影片作品',
                 href: 'https://www.youtube.com/@fattie0926',
-              },
-              {
-                label: 'defines 定義文化',
-                href: 'https://defines.tw',
-              },
-              {
-                label: '個人 Facebook',
-                href: 'https://facebook.com/jaron.tw',
               },
             ],
           },

@@ -58,6 +58,7 @@ title: 我的書櫃
 
 - Jay Asher - 13 Reasons Why
 - Walter Tevis - The Queen’s Gambit
+- Lois Lowry - The Giver
 - R. J. Palacio - Wonder
 - George R. R. Martin – A Song of Ice and Fire (Box Set)
 - Karen M. McManus - One of Us Is Lying
