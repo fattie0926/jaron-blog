@@ -12,7 +12,7 @@ title: 懷念每天練琴的時光
 
 帶著我的麥香魚、中薯，跟小杯玉米湯坐下，一邊聽著 [Jacob Collier](https://www.jacobcollier.com/#/) 上一張專輯《[Djesee Vol. 3](https://jacobcollier.lnk.to/DjesseVol3SR)》，看到手機推薦以前高中練琴的影片，突發奇想想聽聽看自己以前彈的怎麼樣。
 
-不過[該死的 YouTube](2025-07-20-why-blog.md) 一上傳就給我版權砲，我沒辦法把影片內嵌進網頁，只能讓你們[點進去看](https://youtu.be/hSvjTOySmg8)了。
+不過[該死的 YouTube](2025-07-20-why-leave-social-media.md) 一上傳就給我版權砲，我沒辦法把影片內嵌進網頁，只能讓你們[點進去看](https://youtu.be/hSvjTOySmg8)了。
 
 > _免責聲明，這版本沒有彈的很好！_  
 > _但保有了我剛開始認識 Kapustin、還在認識曲子的「王則倫」風格。總覺得聽起來有點可愛？_
