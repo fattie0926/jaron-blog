@@ -95,7 +95,7 @@ Here’s how we do it.</p>
         <link href="https://www.jaron.tw/blog/rss-reader/"/>
         <updated>2025-08-01T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[如果你跟我一樣，也厭倦了被演算法操控的首頁（同時也為了讓我的大腦獲得即時的獎勵），並且把我的文章塞進你各位的手機中，我想是時候來教大家怎麼訂閱你有興趣的 RSS 內容了！]]></summary>
-        <content type="html"><![CDATA[<p>如果你跟我一樣，也<a href="https://www.jaron.tw/blog/why-blog/">厭倦了被演算法操控的首頁</a>（同時也為了讓我的大腦獲得<a href="https://www.jaron.tw/blog/distraction-free/#%E5%8D%B3%E6%99%82%E7%9A%84%E7%8D%8E%E5%8B%B5">即時的獎勵</a>），並且把我的文章塞進你各位的手機中，我想是時候來教大家怎麼訂閱你有興趣的 RSS 內容了！</p>
+        <content type="html"><![CDATA[<p>如果你跟我一樣，也<a href="https://www.jaron.tw/blog/why-leave-social-media/">厭倦了被演算法操控的首頁</a>（同時也為了讓我的大腦獲得<a href="https://www.jaron.tw/blog/distraction-free/#%E5%8D%B3%E6%99%82%E7%9A%84%E7%8D%8E%E5%8B%B5">即時的獎勵</a>），並且把我的文章塞進你各位的手機中，我想是時候來教大家怎麼訂閱你有興趣的 RSS 內容了！</p>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="為什麼你該試試-rss">為什麼你該試試 RSS<a href="https://www.jaron.tw/blog/rss-reader/#%E7%82%BA%E4%BB%80%E9%BA%BC%E4%BD%A0%E8%A9%B2%E8%A9%A6%E8%A9%A6-rss" class="hash-link" aria-label="為什麼你該試試 RSS的直接連結" title="為什麼你該試試 RSS的直接連結">​</a></h3>
 <p>RSS 其實是一個 1999 年就有的標準，好奇的人可以去<a href="https://zh.wikipedia.org/zh-tw/RSS" target="_blank" rel="noopener noreferrer">維基百科</a>看看詳細的介紹和歷史，但我們只需要知道：</p>
 <blockquote>
@@ -104,7 +104,7 @@ Here’s how we do it.</p>
 然後你的 RSS 閱讀器（郵差）每天會自動去抓這份清單，把新內容送到你的 RSS App 裡，完全免費、沒有廣告、沒有演算法干擾，既有效率又乾淨。</p>
 <p>所以，你不用每天去逛 10 個網站找更新，只要打開 RSS 閱讀器，所有最新文章都已經幫你收集好了。</p>
 </blockquote>
-<p>聰明的你一定會覺得困惑，既沒有廣告、沒有演算法可以左右內容、又沒有短影片可以<a href="https://www.jaron.tw/blog/distraction-free/">搶走我的注意力</a>，更不會在我在乎的朋友的貼文中來一則詐騙廣告，我<a href="https://www.jaron.tw/blog/why-blog/">最喜歡的社群媒體</a>們怎麼可能會給我這麼好的東西呢！</p>
+<p>聰明的你一定會覺得困惑，既沒有廣告、沒有演算法可以左右內容、又沒有短影片可以<a href="https://www.jaron.tw/blog/distraction-free/">搶走我的注意力</a>，更不會在我在乎的朋友的貼文中來一則詐騙廣告，我<a href="https://www.jaron.tw/blog/why-leave-social-media/">最喜歡的社群媒體</a>們怎麼可能會給我這麼好的東西呢！</p>
 <p>那就對了。Facebook 早在 2015 年就<a href="https://developers.facebook.com/docs/graph-api/changelog/version2.3#v2_3_90_day_deprecations" target="_blank" rel="noopener noreferrer">把官方的 RSS 給關閉了</a>。如果給你們這麼好康的，那我要怎麼知道你用哪一牌的手機、住在哪、你最好的朋友是誰、跟前女友在什麼時候分手（或許比你以為的還早）、你晚上會不會打開外送 App 點一份鹽酥雞，甚至能知道凌晨三點還在暈船對象的貼文停留了 27 秒？</p>
 <p>這些平台比你還要了解你自己，他們可以再把這些資料名正言順的跟「廣告合作夥伴」共享（畢竟你都在註冊帳號的時候同意了）。就算你關掉定位、登出帳號，甚至用無痕模式，他們還是能憑藉一些零碎的特徵<sup><a href="https://www.jaron.tw/blog/rss-reader/#user-content-fn-1-72c4f8" id="user-content-fnref-1-72c4f8" data-footnote-ref="true" aria-describedby="footnote-label">1</a></sup>，把你從幾十億個用戶中精準的抓出來。</p>
 <p>不然你以為，這些社群平台怎麼會是免費的，難道是做身體健康的嗎？換句話說，使用者們正在把自己珍貴的注意力、時間、努力賺來的薪水<sup><a href="https://www.jaron.tw/blog/rss-reader/#user-content-fn-2-72c4f8" id="user-content-fnref-2-72c4f8" data-footnote-ref="true" aria-describedby="footnote-label">2</a></sup>，跟你自己都不知道的秘密，拿來訂閱了這些「免費」的社群平台。</p>
@@ -156,7 +156,7 @@ Here’s how we do it.</p>
         <link href="https://www.jaron.tw/blog/distraction-free/"/>
         <updated>2025-07-31T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[距離我把所有社群媒體從手機上刪除已經過了 11 天左右，雖然中間有大約一個禮拜是在北京出差，但我意外的發現自己沒有變得更有效率。]]></summary>
-        <content type="html"><![CDATA[<p>距離我把所有<a href="https://www.jaron.tw/blog/why-blog/">社群媒體從手機上刪除</a>已經過了 11 天左右，雖然中間有大約一個禮拜是在<a href="https://www.jaron.tw/blog/birtv-day-1/">北京出差</a>，但我意外的發現自己沒有變得更有效率。</p>
+        <content type="html"><![CDATA[<p>距離我把所有<a href="https://www.jaron.tw/blog/why-leave-social-media/">社群媒體從手機上刪除</a>已經過了 11 天左右，雖然中間有大約一個禮拜是在<a href="https://www.jaron.tw/blog/birtv-day-1/">北京出差</a>，但我意外的發現自己沒有變得更有效率。</p>
 <p>對我來說，過去的我有幾種分心的管道，大致上是 Instagram、Facebook，還有 YouTube，但現在的我手機已經剩下 LINE 跟瀏覽器能用，除了<a href="https://www.jaron.tw/blog/youtube-has-changed/#%E7%8F%BE%E5%9C%A8%E6%80%8E%E9%BA%BC%E8%BE%A6">每天看一部電影</a>、吃飯時看看 Netflix 外也沒有什麼娛樂，為什麼感覺還是沒有太多進度推進？</p>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="對生活的美好想像">對生活的美好想像<a href="https://www.jaron.tw/blog/distraction-free/#%E5%B0%8D%E7%94%9F%E6%B4%BB%E7%9A%84%E7%BE%8E%E5%A5%BD%E6%83%B3%E5%83%8F" class="hash-link" aria-label="對生活的美好想像的直接連結" title="對生活的美好想像的直接連結">​</a></h3>
 <p>我隨機找出了 2024 年 2 月螢幕使用時間的紀錄，iPhone 一週的使用時間是 41 小時（<em>WTF？</em>），其中 App 的排名是：</p>
@@ -180,7 +180,7 @@ Here’s how we do it.</p>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="即時的獎勵">即時的獎勵<a href="https://www.jaron.tw/blog/distraction-free/#%E5%8D%B3%E6%99%82%E7%9A%84%E7%8D%8E%E5%8B%B5" class="hash-link" aria-label="即時的獎勵的直接連結" title="即時的獎勵的直接連結">​</a></h3>
 <p>除了執行面需要一個更明確的目標外，我覺得在心理層面上也少了即時的回饋（也可以說是給大腦的獎勵，Reward）。以前如果是在 Facebook 上寫好一篇貼文，可以在發佈之後馬上收到（為數不多）的按讚通知，拍了一隻新影片可以馬上分享在 Instagram 限時動態，還能收到大家的愛心。但現在，距離發佈第一篇貼文到現在，我都不知道有沒有人看過其中的三篇貼文。</p>
 <p>最一開始其實還蠻不習慣的，就連發佈這裡的貼文都很沒有儀式感，因為我已經把工作流優化到在終端機中輸入 <code>sync-blog</code>，再按 <code>y</code> 就能發佈文章了。網站上也沒有瀏覽人次、留言區，我也沒有用任何分析的工具來看看今天有誰拜訪了我的網站。<em>如果做完一件事沒有馬上被看見，他還有價值嗎？</em></p>
-<p>其實，最近的我有時候也會想，<a href="https://www.jaron.tw/blog/why-blog/">淡出社群媒體</a>會不會是一個錯誤的選擇？但同時自己又還蠻享受這種 Disctraction-free（無干擾的、專心的）的生活，雖然短期還看不到太多的產出，但或許只要我能照著自己的步調、跟隨 Stephen Covey 的建議，或許確實能有<a href="https://www.jaron.tw/blog/helvetica/#%E6%88%91%E5%80%91%E6%9C%89%E5%81%9A%E5%87%BA%E6%9B%B4%E5%A5%BD%E7%9A%84%E6%9D%B1%E8%A5%BF%E5%97%8E">更好的產出</a>？</p>
+<p>其實，最近的我有時候也會想，<a href="https://www.jaron.tw/blog/why-leave-social-media/">淡出社群媒體</a>會不會是一個錯誤的選擇？但同時自己又還蠻享受這種 Disctraction-free（無干擾的、專心的）的生活，雖然短期還看不到太多的產出，但或許只要我能照著自己的步調、跟隨 Stephen Covey 的建議，或許確實能有<a href="https://www.jaron.tw/blog/helvetica/#%E6%88%91%E5%80%91%E6%9C%89%E5%81%9A%E5%87%BA%E6%9B%B4%E5%A5%BD%E7%9A%84%E6%9D%B1%E8%A5%BF%E5%97%8E">更好的產出</a>？</p>
 <p>說不定一個月後我就把這裡給關了，然後打開 Instagram 假裝什麼都沒發生過也說不定？</p>
 <p><em>假如一棵樹在森林裡倒下而沒有人在附近聽見，那它有沒有發出聲音？</em></p>
 <!-- -->
@@ -237,8 +237,8 @@ Here’s how we do it.</p>
         <content type="html"><![CDATA[<p>剛從北京回來這幾天還在補眠，昨晚看電影《<a href="https://www.imdb.com/title/tt10370710/" target="_blank" rel="noopener noreferrer">世界上最爛的人</a>》還沒看完第一段就睡著了，真的有夠累。比較尷尬的是從 8 點睡到凌晨爬起來，這要我怎麼繼續睡？</p>
 <p>折騰了一番之後，還是起床騎車跑去吃麥當勞好了。</p>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="麥香魚跟-gene">麥香魚跟 Gene<a href="https://www.jaron.tw/blog/gene-takavic/#%E9%BA%A5%E9%A6%99%E9%AD%9A%E8%B7%9F-gene" class="hash-link" aria-label="麥香魚跟 Gene的直接連結" title="麥香魚跟 Gene的直接連結">​</a></h3>
-<p>帶著我的麥香魚、中薯，跟小杯玉米湯坐下，一邊聽著 <a href="https://www.jacobcollier.com/#/" target="_blank" rel="noopener noreferrer">Jacob Collier</a> 上一張專輯《<a href="https://jacobcollier.lnk.to/DjesseVol3SR" target="_blank" rel="noopener noreferrer">Djesee Vol. 3</a>》，看到手機推薦以前高中練琴的影片，突發奇想想聽聽看自己以前彈的怎麼樣。</p>
-<p>不過<a href="https://www.jaron.tw/blog/why-blog/">該死的 YouTube</a> 一上傳就給我版權砲，我沒辦法把影片內嵌進網頁，只能讓你們<a href="https://youtu.be/hSvjTOySmg8" target="_blank" rel="noopener noreferrer">點進去看</a>了。</p>
+<p>帶著我的麥香魚、中薯，跟小杯玉米湯坐下，一邊聽著 <a href="https://www.jacobcollier.com/#/" target="_blank" rel="noopener noreferrer">Jacob Collier</a> 上一張專輯《<a href="https://jacobcollier.lnk.to/DjesseVol3SR" target="_blank" rel="noopener noreferrer">Djesee Vol. 3</a>》，看到手機推薦以前高中<a href="https://www.jaron.tw/blog/chicken-rice-egg/">練琴</a>的影片，突發奇想想聽聽看自己以前彈的怎麼樣。</p>
+<p>不過<a href="https://www.jaron.tw/blog/why-leave-social-media/">該死的 YouTube</a> 一上傳就給我版權砲，我沒辦法把影片內嵌進網頁，只能讓你們<a href="https://youtu.be/hSvjTOySmg8" target="_blank" rel="noopener noreferrer">點進去看</a>了。</p>
 <blockquote>
 <p><em>免責聲明，這版本沒有彈的很好！</em><br>
 <em>但保有了我剛開始認識 Kapustin、還在認識曲子的「王則倫」風格。總覺得聽起來有點可愛？</em></p>
@@ -611,106 +611,74 @@ Here’s how we do it.</p>
 </section>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[沒有社群軟體怎麼辦]]></title>
-        <id>https://www.jaron.tw/blog/why-blog/</id>
-        <link href="https://www.jaron.tw/blog/why-blog/"/>
+        <title type="html"><![CDATA[為什麼我決定離開社群媒體]]></title>
+        <id>https://www.jaron.tw/blog/why-leave-social-media/</id>
+        <link href="https://www.jaron.tw/blog/why-leave-social-media/"/>
         <updated>2025-07-20T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[哈囉 👋 歡迎你來到我的新網站！]]></summary>
         <content type="html"><![CDATA[<p>哈囉 👋 歡迎你來到我的新網站！</p>
-<p>大多數人聽到我沒有 IG 或 Facebook，都會驚訝地問我：「你怎麼活下去的？」所以我想，第一篇貼文就來分享一下我為什麼選擇離開社群媒體、重新定義自己跟社群媒體的關係。</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="你是原始人嗎">你是原始人嗎<a href="https://www.jaron.tw/blog/why-blog/#%E4%BD%A0%E6%98%AF%E5%8E%9F%E5%A7%8B%E4%BA%BA%E5%97%8E" class="hash-link" aria-label="你是原始人嗎的直接連結" title="你是原始人嗎的直接連結">​</a></h3>
-<p>這是一個好問題，因為我也還沒有辦法想像在別人跟我要 IG 的時候，我卻拿出一個 QR Code 跟他說：</p>
-<p>「<em>很高興認識你，很抱歉，我沒有 IG，但這是我的部落格的 RSS，歡迎在你習慣的閱讀器上<a href="https://www.jaron.tw/blog/rss-reader/">訂閱我的網站！</a></em>」</p>
-<p>這好像不是什麼很好的 pick up line，所以我也還在思考這個問題。</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="為什麼我要離開">為什麼我要離開<a href="https://www.jaron.tw/blog/why-blog/#%E7%82%BA%E4%BB%80%E9%BA%BC%E6%88%91%E8%A6%81%E9%9B%A2%E9%96%8B" class="hash-link" aria-label="為什麼我要離開的直接連結" title="為什麼我要離開的直接連結">​</a></h3>
-<blockquote>
-<p>TL;DR 用社群媒體並沒有讓我變得更開心，也沒有讓我跟重要的人保持聯繫。</p>
-</blockquote>
-<p>其實會走到今天這一步，經歷了應該有兩年的「戒斷期」，但這個問題似乎在過去並不存在。</p>
-<p>我的第一台智慧型手機應該是在國小一二年級的時候拿到的，是一隻老早忘記從哪來的智慧型手機。當時應該就是載個 LINE、跟同學玩<a href="https://game.devsisters.com/zh-Hant/cookierun/#hot-issue" target="_blank" rel="noopener noreferrer">跑跑薑餅人</a>、跟我媽玩 <a href="https://notice2.line.me/SJLGCOFFEE/android/document/notice?lang=zh-Hant&amp;country=TW" target="_blank" rel="noopener noreferrer">I Love Coffee</a>，偶爾滑滑 Facebook，還有用家裡的 Windows XP 桌電玩玩光碟遊戲，畢竟開 Minecraft 電腦都會變成停格動畫。</p>
-<p>忘記是國小幾年級的時候開始流行 Instagram，發發限時動態、摯友貼文，跟朋友在 Messenger 上聊天，玩玩 <a href="https://axesinmotion.com/extreme-car-driving-simulator/" target="_blank" rel="noopener noreferrer">Extreme Car Driving Simulator</a>、<a href="https://pixelgun3d.com/" target="_blank" rel="noopener noreferrer">Pixel Gun 3D</a>，一天頂多就花一兩個小時在手機上。雖然偶爾會被唸，但似乎也沒有造成什麼太大的困擾或問題。</p>
-<p>第一次真正從社群媒體休息，是<a href="https://www.jaron.tw/blog/stop-social-media/">國三的時候</a>。為了更專心的準備會考，暫時把手機和電腦上的社群媒體封鎖掉，但考試一結束還是趕緊載回來了。</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="短影片世代">短影片世代<a href="https://www.jaron.tw/blog/why-blog/#%E7%9F%AD%E5%BD%B1%E7%89%87%E4%B8%96%E4%BB%A3" class="hash-link" aria-label="短影片世代的直接連結" title="短影片世代的直接連結">​</a></h3>
-<p>社群媒體開始真正困擾我，是在大約 2022 年前後。Instagram、Facebook，還有曾經是我們<a href="https://www.jaron.tw/blog/youtube-has-changed/">摯愛的 YouTube</a>，都紛紛在自己的平台上加入短影片功能之後。</p>
-<p><em>（是的，不管你叫 Reel 還是 Short，其實我們都看得出來是被 Tiktok 逼出來的功能。）</em></p>
-<p>我發現這種無止境的「被動」推播內容，不僅會吃掉我寶貴的休息時間，<strong>重點是，我看完之後也沒有變得更開心呀</strong>！</p>
-<blockquote>
-<p>我覺得短影音和社群媒體其實是個很大的議題，離開也是我累積多年使用經驗後做出的決定。</p>
-<p>或許未來我會多寫幾篇文章來聊聊我的想法，如果你想要了解其他人的想法的話，我推薦 The Game Theorists 的<a href="https://youtu.be/0Igj3qI0GBA" target="_blank" rel="noopener noreferrer">這部影片</a>，從使用者和創作者的角度都分析得很好。</p>
-</blockquote>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="停止使用的過程">停止使用的過程<a href="https://www.jaron.tw/blog/why-blog/#%E5%81%9C%E6%AD%A2%E4%BD%BF%E7%94%A8%E7%9A%84%E9%81%8E%E7%A8%8B" class="hash-link" aria-label="停止使用的過程的直接連結" title="停止使用的過程的直接連結">​</a></h3>
-<p>這兩年的戒斷期，每個階段應該都能獨立寫出一篇文章來分享，但大致的幾個階段是這樣的：</p>
+<p>大多數人聽到我沒有 IG 或 Facebook，都會驚訝地問：「你怎麼活下去的？」這個問題也讓我想了很久，甚至花了將近兩年的時間，才真正做出離開社群媒體這個決定。</p>
+<p>在這篇文章，我想清楚地告訴你：</p>
+<ul>
+<li>為什麼我決定離開社群媒體？</li>
+<li>我是怎麼做到的？</li>
+<li>作為創作者，沒有了社群媒體，我要怎麼繼續？</li>
+<li>以及，我真正想要的是什麼？</li>
+</ul>
+<p>希望這篇文章能讓你更了解我的想法，也能給你一些新的思考角度。</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="為什麼我要離開">為什麼我要離開？<a href="https://www.jaron.tw/blog/why-leave-social-media/#%E7%82%BA%E4%BB%80%E9%BA%BC%E6%88%91%E8%A6%81%E9%9B%A2%E9%96%8B" class="hash-link" aria-label="為什麼我要離開？的直接連結" title="為什麼我要離開？的直接連結">​</a></h3>
+<p>我認真回顧這幾年使用社群媒體的經驗後，發現了幾個重要問題：</p>
 <ol>
 <li>
-<p>使用 iOS 內建的螢幕使用時間，來限制社群軟體使用的時間</p>
+<p><strong>演算法的控制</strong>：平台越來越積極地推播我不想看的內容，導致我反而看不到朋友真實發的東西。結果，我花了更多時間在無意義的短影片上，但並沒有因此感覺到開心或有價值。</p>
 </li>
 <li>
-<p>開始懷疑自己，為什麼要用社群媒體？於是開始用 <a href="https://one-sec.app/" target="_blank" rel="noopener noreferrer">one sec</a>，在每次打開這些 App 前詢問自己要做什麼，確保自己不會 doomscrolling<br>
-<em>（我喜歡翻譯成：漫無目的的一直滑手機。）</em></p>
+<p><strong>無法真正維繫人際關係</strong>：本來以為透過 IG 和 Facebook 能與朋友保持聯繫，但我發現，這種被動的點讚和滑動，並不是真的在交流，也沒讓我們的關係變得更好。</p>
 </li>
 <li>
-<p>因為 one sec 每次打開這些「我很喜歡的 App」都要浪費我 15 秒，所以我把它刪了，但不到一個月我的習慣又被打回原形</p>
-</li>
-<li>
-<p>我意識到，我使用社群媒體的真正理由，是想要跟對我重要的人維持互動與聯繫。<br>
-<!-- -->但這樣的行為，其實並不是達到這個目標的「關鍵活動」。</p>
+<p><strong>注意力的碎裂</strong>：我一直很珍惜注意力和深度工作（這點要感謝 Cal Newport），但這些平台的推播通知、無限的短影片，卻讓我的專注力不斷被打斷，漸漸失去深度思考的能力。</p>
 </li>
 </ol>
-<p><a href="https://calnewport.com/" target="_blank" rel="noopener noreferrer">Cal Newport</a> 在《Deep Work》（2016）中舉了一個例子，讓我很有共鳴：</p>
-<blockquote>
-<p><strong>Personal Goal:</strong><br>
-<!-- -->To maintain close and rewarding friendships with a group of people who are important to me.</p>
-<p><strong>Key Activities Supporting This Goal:</strong></p>
+<p>最後真正推動我下決心的，確實是短影音（Reels、Shorts）的崛起。我開始意識到，這種無限推播的短影音並沒有給我帶來真正的樂趣，反而只讓我更焦慮、更空虛。</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="我是怎麼做到的">我是怎麼做到的？<a href="https://www.jaron.tw/blog/why-leave-social-media/#%E6%88%91%E6%98%AF%E6%80%8E%E9%BA%BC%E5%81%9A%E5%88%B0%E7%9A%84" class="hash-link" aria-label="我是怎麼做到的？的直接連結" title="我是怎麼做到的？的直接連結">​</a></h3>
+<p>其實，決定離開並不容易，這是經過將近兩年的「戒斷期」一步步累積的成果：</p>
 <ul>
-<li>Regularly take the time for meaningful connection with those who are most important to me (e.g., a long talk, a meal, joint activity).</li>
-<li>Give of myself to those who are most important to me (e.g., making nontrivial sacrifices that improve their lives).</li>
-</ul>
-<p><strong>個人目標：</strong><br>
-<!-- -->和一群對我來說重要的人，<strong>維持親密且有意義的友誼關係</strong>。</p>
-<p><strong>支持這個目標的關鍵行動：</strong></p>
-<ul>
-<li>定期花時間與重要的人建立有深度的連結（例如深入對談、一起吃飯、一起做某些事）。</li>
-<li>為這些重要的人付出自己（例如做出實質的犧牲，來讓他們的生活變得更好）。</li>
-</ul>
-</blockquote>
-<ol start="5">
 <li>
-<p>把手機上的社群軟體卸載，透過 iPad 和電腦上的網頁版確保我不會錯過重要的訊息邀約。<br>
-<em>（雖然，你不應該透過私訊功能找我合作。</em>）</p>
+<p><strong>螢幕使用時間</strong>：我一開始先用 iOS 內建的螢幕使用時間來限制 App 使用量。</p>
 </li>
 <li>
-<p>漸漸地不依賴社群媒體來擺脫無聊（<em>身為一個創作者，你必須有無聊的時間</em>），多多攝取其他<strong>人類製作的</strong>高品質的內容<br>
-<!-- -->像是看電影、用心製作內容的創作者製作的影片、閱讀書籍、聽音樂或電子書，或是好好玩一個值得玩的遊戲，都是一些很好的選擇</p>
+<p><strong>one sec</strong>：後來我開始用 one sec，每次打開 IG 或 Facebook 都先問自己：「我現在到底為什麼要打開這個 App？」試著避免 doomscrolling。</p>
 </li>
-</ol>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="創作者的身份怎麼辦">創作者的身份怎麼辦<a href="https://www.jaron.tw/blog/why-blog/#%E5%89%B5%E4%BD%9C%E8%80%85%E7%9A%84%E8%BA%AB%E4%BB%BD%E6%80%8E%E9%BA%BC%E8%BE%A6" class="hash-link" aria-label="創作者的身份怎麼辦的直接連結" title="創作者的身份怎麼辦的直接連結">​</a></h3>
-<p>除了前面提到的過程，另外是受到我的偶像兼良師 Wiwi 官大為的啟發，他已經持續更新自己的部落格 <a href="https://wiwi.blog/" target="_blank" rel="noopener noreferrer">Wiwi.Blog</a> 將近一年了！在讀他的貼文時，除了有一種在了解好久不見的朋友的近況的感覺之外，也覺得對現在的我來說是個不錯的內容出口。</p>
-<p>然而，身為創作者的我也會感到擔心。畢竟我過去將近十年的作品集、粉絲，通通都在這些社群平台上，我該怎麼繼續經營自己？不過這也讓我意識到，我的一切都依賴在這些科技巨擘上，似乎也不是一件好事？如果哪天我的 IG 或臉書也莫名其妙被祖，或是 Google 哪天忽然跟我說：</p>
-<p>「你需要每個月支付 $149，我們才會繼續把你的影片推薦給觀眾喔！」</p>
-<p>身為使用者的我們好像也是無能為力，只能乖乖交保護費，哪天不幹了還會忘記取消信用卡綁定繼續被扣款。</p>
-<hr>
-<p>這真的是一個很大的議題，我還可以隨意舉出幾個社群媒體的問題：</p>
-<ul>
-<li>做 A 主題流量才會好，所以我要放棄我真心想做的 B 企劃</li>
-<li>為什麼我的影片觀看次數只有 20？是我的內容不夠好嗎</li>
-<li>瘋狂重整通知介面，死盯後台數據確保演算法會把我的作品推出去</li>
-<li>the list goes on...</li>
+<li>
+<p><strong>卸載手機 App</strong>：但 one sec 帶來的不便，讓我短暫退縮又回到原點。最後我直接從手機上卸載了這些 App，只透過電腦或 iPad 的網頁版偶爾查看，確保不會錯過真正重要的訊息。</p>
+</li>
 </ul>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="我想要什麼">我想要什麼<a href="https://www.jaron.tw/blog/why-blog/#%E6%88%91%E6%83%B3%E8%A6%81%E4%BB%80%E9%BA%BC" class="hash-link" aria-label="我想要什麼的直接連結" title="我想要什麼的直接連結">​</a></h3>
-<p>我覺得可以 Recap 回 Cal Newport 的觀點，跟對我重要的人維持互動與聯繫，所以好像也沒有太多的期待。</p>
-<p>但我確實有一些想要達成的目標，包括：</p>
+<p>這些過程，都讓我慢慢減少對社群媒體的依賴，並開始回歸更有價值的活動：閱讀、看電影、聽音樂，或認真玩一個值得玩的遊戲，並重新找回了大量真正屬於自己的時間。</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="身為創作者沒有社群媒體怎麼辦">身為創作者，沒有社群媒體怎麼辦？<a href="https://www.jaron.tw/blog/why-leave-social-media/#%E8%BA%AB%E7%82%BA%E5%89%B5%E4%BD%9C%E8%80%85%E6%B2%92%E6%9C%89%E7%A4%BE%E7%BE%A4%E5%AA%92%E9%AB%94%E6%80%8E%E9%BA%BC%E8%BE%A6" class="hash-link" aria-label="身為創作者，沒有社群媒體怎麼辦？的直接連結" title="身為創作者，沒有社群媒體怎麼辦？的直接連結">​</a></h3>
+<p>作為一個已經累積了將近十年創作歷程的人，我確實有過猶豫。如果我離開 IG、Facebook、YouTube 這些平台，我要怎麼維持過去的作品？我要怎麼和粉絲保持聯繫？</p>
+<p>後來，我發現這其實是個更根本的問題：我的作品、觀眾，甚至整個創作生涯，竟然完全依附在這些科技巨頭的手上。哪天演算法變了，或平台改規則了，我是不是就失去了一切？</p>
+<p>受我的偶像兼良師 Wiwi 官大為的啟發（他已經持續經營 <a href="https://wiwi.blog/" target="_blank" rel="noopener noreferrer">Wiwi.Blog</a> 一年多了），我決定也架設自己的網站，打造一個完全屬於自己的創作基地。這裡沒有演算法的威脅，也不用擔心哪天平台忽然改規則收費。</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="我真正想要什麼">我真正想要什麼？<a href="https://www.jaron.tw/blog/why-leave-social-media/#%E6%88%91%E7%9C%9F%E6%AD%A3%E6%83%B3%E8%A6%81%E4%BB%80%E9%BA%BC" class="hash-link" aria-label="我真正想要什麼？的直接連結" title="我真正想要什麼？的直接連結">​</a></h3>
+<p>重新掌控自己的平台，並不是為了逃避現實，而是為了實踐我真正重視的價值觀：</p>
 <ul>
-<li>想要有深度、慢一點的輸出空間</li>
-<li>想保有真正的注意力</li>
-<li>想創造的是作品，不是流量</li>
+<li>
+<p><strong>創作真正有深度的內容</strong>：我想慢慢地創作，寫出真正值得分享的東西，而不是追著流量跑。</p>
+</li>
+<li>
+<p><strong>守護我的注意力</strong>：我希望我的注意力不再被短影音和無意義的通知分割，讓我能夠專心做好真正重要的事情。</p>
+</li>
+<li>
+<p><strong>打造一個真實的交流空間</strong>：這裡沒有演算法操控的推播，只有真實且深度的分享，無論是生活上的瑣事，或是一些值得深思的話題。</p>
+</li>
 </ul>
-<p>我也想試著日更，雖然不會每天都是長文，但偶爾分享一些觀察、想法、或生活的瑣事，也是一種很棒的記錄。</p>
+<p>我也想嘗試每天更新，偶爾短篇、偶爾長篇，真實地記錄我的觀察與想法。</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="你也想試試看嗎">你也想試試看嗎？<a href="https://www.jaron.tw/blog/why-leave-social-media/#%E4%BD%A0%E4%B9%9F%E6%83%B3%E8%A9%A6%E8%A9%A6%E7%9C%8B%E5%97%8E" class="hash-link" aria-label="你也想試試看嗎？的直接連結" title="你也想試試看嗎？的直接連結">​</a></h3>
+<p>如果你也正在思考如何重新找回自己的節奏，或許可以考慮自己架設一個網站！我只花了五個小時就讓這個網站從無到有，並順利運行起來（當然，也感謝 ChatGPT 的幫助）。</p>
+<p>我使用的工具是&nbsp;<a href="https://docusaurus.io/" target="_blank" rel="noopener noreferrer">Docusaurus</a>，只要新增 Markdown 文件就能輕鬆更新網站內容。如果你對 Markdown 還不熟悉，可以透過這個<a href="https://www.markdowntutorial.com/" target="_blank" rel="noopener noreferrer">Markdown 教學網站</a>快速上手，非常推薦！</p>
 <hr>
-<p>如果你也正在思考如何重新找回自己的節奏，希望這裡能成為你停下來、喘口氣的其中一個角落：）</p>
-<p>謝謝你看到這裡，期待未來常常在這裡與你相見。有什麼想說的，也歡迎寫信來 <a href="mailto:hi@fattie.io" target="_blank" rel="noopener noreferrer">hi@fattie.io</a> 跟我聊天 🙋</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="如果你也想要">如果你也想要<a href="https://www.jaron.tw/blog/why-blog/#%E5%A6%82%E6%9E%9C%E4%BD%A0%E4%B9%9F%E6%83%B3%E8%A6%81" class="hash-link" aria-label="如果你也想要的直接連結" title="如果你也想要的直接連結">​</a></h3>
-<p>我大約只花了五個小時就讓網站上線並且成功運作，從無到有。（當然還有 ChatGPT 的幫助）</p>
-<p>我使用的套件是 <a href="https://docusaurus.io/" target="_blank" rel="noopener noreferrer">Docusaurus</a>，新增新的文章非常簡單，只需要新增一個 Markdown 文件，就會自動建立好新的網站。如果你還沒用過 Markdown 的話，可以試試這個<a href="https://www.markdowntutorial.com/" target="_blank" rel="noopener noreferrer">學習 Markdown 語法的網站</a>，可以讓你快速熟悉基本文法，推推！</p>]]></content>
+<p>最後，謝謝你看到這裡。</p>
+<p>這個網站不只是我的創作基地，也希望能成為你停下來、喘口氣的角落。如果你有任何想法，歡迎隨時寫信到&nbsp;<a href="mailto:hi@fattie.io" target="_blank" rel="noopener noreferrer">hi@fattie.io</a>&nbsp;跟我聊聊 🙋‍♂️</p>
+<p>期待未來經常在這裡見到你！</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[雞肉飯加滷蛋]]></title>
