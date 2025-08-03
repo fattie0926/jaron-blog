@@ -674,7 +674,7 @@ Here’s how we do it.</p>
 <p>我也想嘗試每天更新，偶爾短篇、偶爾長篇，真實地記錄我的觀察與想法。</p>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="你也想試試看嗎">你也想試試看嗎？<a href="https://www.jaron.tw/blog/why-leave-social-media/#%E4%BD%A0%E4%B9%9F%E6%83%B3%E8%A9%A6%E8%A9%A6%E7%9C%8B%E5%97%8E" class="hash-link" aria-label="你也想試試看嗎？的直接連結" title="你也想試試看嗎？的直接連結">​</a></h3>
 <p>如果你也正在思考如何重新找回自己的節奏，或許可以考慮自己架設一個網站！我只花了五個小時就讓這個網站從無到有，並順利運行起來（當然，也感謝 ChatGPT 的幫助）。</p>
-<p>我使用的工具是&nbsp;<a href="https://docusaurus.io/" target="_blank" rel="noopener noreferrer">Docusaurus</a>，只要新增 Markdown 文件就能輕鬆更新網站內容。如果你對 Markdown 還不熟悉，可以透過這個<a href="https://www.markdowntutorial.com/" target="_blank" rel="noopener noreferrer">Markdown 教學網站</a>快速上手，非常推薦！</p>
+<p>我使用的工具是&nbsp;<a href="https://docusaurus.io/" target="_blank" rel="noopener noreferrer">Docusaurus</a>，只要新增 Markdown 文件就能輕鬆更新網站內容。如果你對 Markdown 還不熟悉，可以透過這個 <a href="https://www.markdowntutorial.com/" target="_blank" rel="noopener noreferrer">Markdown 教學網站</a> 快速上手，非常推薦！</p>
 <hr>
 <p>最後，謝謝你看到這裡。</p>
 <p>這個網站不只是我的創作基地，也希望能成為你停下來、喘口氣的角落。如果你有任何想法，歡迎隨時寫信到&nbsp;<a href="mailto:hi@fattie.io" target="_blank" rel="noopener noreferrer">hi@fattie.io</a>&nbsp;跟我聊聊 🙋‍♂️</p>
@@ -710,7 +710,7 @@ Here’s how we do it.</p>
 <p>總而言之，信用卡是一個很有利的工具，但務必要謹慎使用，避免陷入債務陷阱。<br>
 <!-- -->（<em>文末有補充觀看，讓你知道為什麼可能使用現金很可能會虧錢</em>）</p>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="嘗試投資重點不是獲得收益而是學會如何使用這些工具">嘗試投資，重點不是獲得收益，而是學會如何使用這些工具<a href="https://www.jaron.tw/blog/financial-advice/#%E5%98%97%E8%A9%A6%E6%8A%95%E8%B3%87%E9%87%8D%E9%BB%9E%E4%B8%8D%E6%98%AF%E7%8D%B2%E5%BE%97%E6%94%B6%E7%9B%8A%E8%80%8C%E6%98%AF%E5%AD%B8%E6%9C%83%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E9%80%99%E4%BA%9B%E5%B7%A5%E5%85%B7" class="hash-link" aria-label="嘗試投資，重點不是獲得收益，而是學會如何使用這些工具的直接連結" title="嘗試投資，重點不是獲得收益，而是學會如何使用這些工具的直接連結">​</a></h3>
-<p>可以找一些低風險的金融商品，例如定存、公債、ETF 等等。一來是現金就算放在銀行裡，也會被通貨膨脹吃掉（台灣平均約 2%<sup><a href="https://www.jaron.tw/blog/financial-advice/#user-content-fn-1-81f8ee" id="user-content-fnref-1-81f8ee" data-footnote-ref="true" aria-describedby="footnote-label">1</a></sup>），再來是可以儘早熟悉該如何使用這些金融商品。</p>
+<p>可以找一些低風險的金融商品，例如定存、公債、ETF 等等。一來是現金就算放在銀行裡，也會被通貨膨脹吃掉（台灣平均約 2%<sup><a href="https://www.jaron.tw/blog/financial-advice/#user-content-fn-1-d5ff8c" id="user-content-fnref-1-d5ff8c" data-footnote-ref="true" aria-describedby="footnote-label">1</a></sup>），再來是可以儘早熟悉該如何使用這些金融商品。</p>
 <p>如同上一點的額外知識所提到的，現在的學習成本可能是數百元到數千元的損失，但如果累積一定存款後才開始接觸這些工具，很有可能會一次損失大筆的金額、甚至遭到詐騙。</p>
 <blockquote>
 <p><strong>非投資建議，僅供參考</strong>：<br>
@@ -733,11 +733,37 @@ Here’s how we do it.</p>
 <!-- -->
 <section data-footnotes="true" class="footnotes"><h2 class="anchor anchorWithStickyNavbar_LWe7 sr-only" id="footnote-label">Footnotes<a href="https://www.jaron.tw/blog/financial-advice/#footnote-label" class="hash-link" aria-label="Footnotes的直接連結" title="Footnotes的直接連結">​</a></h2>
 <ol>
-<li id="user-content-fn-1-81f8ee">
-<p>潘羿菁，CNA 中央通訊社，2025 年 1 月 7 號，《<a href="https://www.cna.com.tw/news/afe/202501070235.aspx" target="_blank" rel="noopener noreferrer">2024年全年CPI上漲2.18% 連3年突破通膨警戒線</a>》 <a href="https://www.jaron.tw/blog/financial-advice/#user-content-fnref-1-81f8ee" data-footnote-backref="" aria-label="Back to reference 1" class="data-footnote-backref">↩</a></p>
+<li id="user-content-fn-1-d5ff8c">
+<p>潘羿菁，CNA 中央通訊社，2025 年 1 月 7 號，《<a href="https://www.cna.com.tw/news/afe/202501070235.aspx" target="_blank" rel="noopener noreferrer">2024年全年CPI上漲2.18% 連3年突破通膨警戒線</a>》 <a href="https://www.jaron.tw/blog/financial-advice/#user-content-fnref-1-d5ff8c" data-footnote-backref="" aria-label="Back to reference 1" class="data-footnote-backref">↩</a></p>
 </li>
 </ol>
 </section>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一分鐘打兩百字]]></title>
+        <id>https://www.jaron.tw/blog/195-wpm/</id>
+        <link href="https://www.jaron.tw/blog/195-wpm/"/>
+        <updated>2024-07-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[面試官：你有什麼特殊技能]]></summary>
+        <content type="html"><![CDATA[<p>面試官：你有什麼特殊技能<br>
+<!-- -->我：中打一分鐘 195 個字</p>
+<p><img decoding="async" loading="lazy" src="https://www.jaron.tw/assets/images/2024-07-27-1-2e6c7082c79733aa3aca68ee99a54161.jpg" width="658" height="992" class="img_ev3q"></p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sora 訓練資料的未解之謎]]></title>
+        <id>https://www.jaron.tw/blog/sora/</id>
+        <link href="https://www.jaron.tw/blog/sora/"/>
+        <updated>2024-04-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[雖然 OpenAI 的 Sora 實力強大，但你有沒有想過它的訓練資料來源呢？]]></summary>
+        <content type="html"><![CDATA[<p>雖然 OpenAI 的 Sora 實力強大，但你有沒有想過它的訓練資料來源呢？</p>
+<p>好奇的我做了點研究，約半個月前，OpenAI 的 CTO Mira Murati 接受了《華爾街日報》記者 Joanna Stern 的採訪。當被問及「你們用了哪些數據來訓練 Sora？」時，Mira 僅表示他們使用了公開可獲取的數據，並未能確定具體細節。而當記者追問是否包括 YouTube、Facebook 或 Instagram 等平台的數據時，CTO 則回答說，如果這些數據是公開可獲取的，那麼有可能會被使用，但她並不確定。</p>
+<p>採訪結束時，唯一獲得 Mira 證實的訓練數據來源，僅為 Shutterstock 授權的內容。至於是否利用了其他平台的數據，目前還是一個未知數。有意思的是，《華爾街日報》在採訪前提供了四個指令給 OpenAI，用以生成影片，其中一個生成的影片中出現了類似於蟹老闆的眼睛。</p>
+<p><img decoding="async" loading="lazy" src="https://www.jaron.tw/assets/images/2024-04-07-mr-krabs-13c2e143fb3295cf3326db4f63f31f17.webp" width="1400" height="788" class="img_ev3q"></p>
+<p>左圖為 Sora 生成的影像，右圖為卡通海綿寶寶的片段。(Source: WSJ)</p>
+<p>考量到當前大型語言模型的性能，我直覺上不認為僅用 Shutterstock 的罐頭素材就能創造出這麼多元和逼真的場景。</p>
+<p>你，能接受自己發在社群上的東西被拿去訓練嗎🤔</p>
+<p>原採訪影片（04:23）：</p>
+<iframe class="custom-iframe" width="100%" height="400" src="https://www.youtube-nocookie.com/embed/mAUpxN-EIgU?start=263&amp;modestbranding=1&amp;rel=0" title="OpenAI's Sora Made Me Crazy AI Videos—Then the CTO Answered (Most of) My Questions | WSJ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[奧斯陸愛樂]]></title>
@@ -793,6 +819,48 @@ Here’s how we do it.</p>
 <p>BTW，前期有很多資料處理都是請 ChatGPT 幫我用 Python 做的，過往如果我自己寫的話可能要花上好幾個小時，ChatGPT 大概只要 10 秒差不多，還會教我讀懂他的 Code：）</p>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[樂球漫步音樂會]]></title>
+        <id>https://www.jaron.tw/blog/fly-to-the-moon/</id>
+        <link href="https://www.jaron.tw/blog/fly-to-the-moon/"/>
+        <updated>2022-04-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[📣 來聽我們的實習音樂會 📣]]></summary>
+        <content type="html"><![CDATA[<p>📣 來聽我們的實習音樂會 📣</p>
+<p>#分不出主副修的人類 😵‍💫😵‍💫<br>
+<!-- -->Hello Guys 大家好，我是小胖Fatt⋯阿不是啦。哈囉大家好，我是王則倫！</p>
+<p>身為鋼琴小王子 aka 時間管理大師 aka 音樂會負責人 aka（好了可以了），特地想和大家分享一下：雖然是實習音樂會，但我們的前置準備可是一點都不馬虎 ❕ 音樂會一系列的視覺和宣傳全部都從 Moon 出發 🚀  還有大家精心練習的每個節目 🎵。</p>
+<p><img decoding="async" loading="lazy" src="https://www.jaron.tw/assets/images/2022-04-12-1-d31ceedd2ad09433202d2b042afac0de.jpg" width="842" height="1191" class="img_ev3q"></p>
+<p>希望大家會喜歡這次的『樂球漫步』🤍，也別忘了留到最後，看看我們特地為大家準備的驚喜團體節目 🤩</p>
+<p>最後再次誠摯邀請大家，本週四晚間 7 點，在情人節當天一起參加我們的實習音樂會 🥳，跟我們一起 Fly To The Moon 🌕！</p>
+<p>📆 日期｜2022/4/14（四）<br>
+<!-- -->🕖 時間｜18:40 開放進場 - 19:00 開始<br>
+<!-- -->📍 地點｜正心中學會卿大樓 四樓演奏廳</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="-偶的更多介紹">👀 偶的更多介紹<a href="https://www.jaron.tw/blog/fly-to-the-moon/#-%E5%81%B6%E7%9A%84%E6%9B%B4%E5%A4%9A%E4%BB%8B%E7%B4%B9" class="hash-link" aria-label="👀 偶的更多介紹的直接連結" title="👀 偶的更多介紹的直接連結">​</a></h3>
+<p><img decoding="async" loading="lazy" src="https://www.jaron.tw/assets/images/2022-04-12-2-68e75e0bc324e4084513330d8eae6755.jpg" width="2048" height="2048" class="img_ev3q"></p>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="鋼琴小王子">#鋼琴小王子<a href="https://www.jaron.tw/blog/fly-to-the-moon/#%E9%8B%BC%E7%90%B4%E5%B0%8F%E7%8E%8B%E5%AD%90" class="hash-link" aria-label="#鋼琴小王子的直接連結" title="#鋼琴小王子的直接連結">​</a></h4>
+<p>他一彈起鋼琴，絕對是視覺與聽覺的一大饗宴 ‼️ 還記得有一次下午主任去出差就讓我們自習，結果他在台上練了整整兩個小時的琴，我們其他三個人在台下睡了整整兩個小時，真的太舒服了 😌</p>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="時間管理大師">#時間管理大師<a href="https://www.jaron.tw/blog/fly-to-the-moon/#%E6%99%82%E9%96%93%E7%AE%A1%E7%90%86%E5%A4%A7%E5%B8%AB" class="hash-link" aria-label="#時間管理大師的直接連結" title="#時間管理大師的直接連結">​</a></h4>
+<p>他只要一打開電腦或手機，絕對是時間管理的應用程式在運作！才高一的他身兼多職，一天和我們大家一樣只有 24 小時，但他卻要顧好學業、術科、工作，現在甚至還兼任了我們的負責人，他可是一秒都不浪費啊 🤩🤩</p>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="兩副面孔">#兩副面孔<a href="https://www.jaron.tw/blog/fly-to-the-moon/#%E5%85%A9%E5%89%AF%E9%9D%A2%E5%AD%94" class="hash-link" aria-label="#兩副面孔的直接連結" title="#兩副面孔的直接連結">​</a></h4>
+<p>平常的他在跟我們打屁的時候就像是普通的高中生一樣，有說有笑的，不過一但開始做正事，他馬上就會變成一副嚴肅臉，我們都開玩笑說他絕對可以去應徵海底撈的變臉秀 ‼️😍</p>
+<hr>
+<p>小編我來偷偷解釋一下為什麼他是「分不出主副修的人類」好了！他是一個很全能的人，只要有想做的事情就絕對會把它做到完美，而鋼琴跟小提琴也是一樣。我們的主副修考試量可是差超級多的呢！如果時間允許他甚至兩個都可以做為主修考試，可見他的能力有多強啊 😍😍。</p>
+<blockquote>
+<p>「你去想一想 你去看一看～」</p>
+</blockquote>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="-音樂會後樂球旅行第-16-天">🚀 音樂會後：樂球旅行第 16 天<a href="https://www.jaron.tw/blog/fly-to-the-moon/#-%E9%9F%B3%E6%A8%82%E6%9C%83%E5%BE%8C%E6%A8%82%E7%90%83%E6%97%85%E8%A1%8C%E7%AC%AC-16-%E5%A4%A9" class="hash-link" aria-label="🚀 音樂會後：樂球旅行第 16 天的直接連結" title="🚀 音樂會後：樂球旅行第 16 天的直接連結">​</a></h3>
+<p>剛抵達地球的我，帶了一些照片 🌍，想和你們這群最棒的人類分享 🤩！</p>
+<p><img decoding="async" loading="lazy" src="https://www.jaron.tw/assets/images/2022-04-30-1-5b2750f6d0fe5b10392ac03f58794be2.jpg" width="1440" height="960" class="img_ev3q"></p>
+<p>在這裡再次感謝 🙇：來聆賞音樂會的每一個人、最強的演出夥伴們、曾經幫助過我們的朋友和老師、真的超 Carry 的場務，還有旅行中遇見的每一個人 🚀。</p>
+<p><img decoding="async" loading="lazy" src="https://www.jaron.tw/assets/images/2022-04-30-4-127887a59af261af9f05ba7a6eae625d.jpg" width="1440" height="960" class="img_ev3q"></p>
+<p>樂球漫步，帶你 Fly to the Moon ❤️。</p>
+<p><img decoding="async" loading="lazy" src="https://www.jaron.tw/assets/images/2022-04-30-5-5e84a102802b54903d4bfc6c46f037aa.jpg" width="1440" height="960" class="img_ev3q"></p>
+<p>📸 Photographer / @fang.ru628<br>
+<!-- -->🌕 Official Posts / @jhs.sh_music</p>
+<hr>
+<p>你可以在<a href="https://youtu.be/COvye-KaTJU" target="_blank" rel="noopener noreferrer">這裡</a>看到完整的音樂會影片。<br>
+<!-- -->在 0:31:14 / 1:03:20 / 1:17:20 可以看到我的演出 (っ'ᵕ')╮ =͟͟͞͞♡</p>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[萬年香火]]></title>
         <id>https://www.jaron.tw/blog/eternal-incense/</id>
         <link href="https://www.jaron.tw/blog/eternal-incense/"/>
@@ -829,53 +897,5 @@ Here’s how we do it.</p>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="qa-">Q&amp;A 💬​<a href="https://www.jaron.tw/blog/stop-social-media/#qa-" class="hash-link" aria-label="Q&amp;A 💬​的直接連結" title="Q&amp;A 💬​的直接連結">​</a></h3>
 <p>如果有急事要聯絡你的話怎麼辦？​<br>
 <!-- -->目前打算開放 Email 和 Facebook 的私訊​。</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第一次得獎]]></title>
-        <id>https://www.jaron.tw/blog/touching99/</id>
-        <link href="https://www.jaron.tw/blog/touching99/"/>
-        <updated>2020-09-26T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[上週六，我到了台北參加第 11 屆《感動久久》的頒獎典禮，《鹿港輕旅行》這部作品獲得優勝 ！🎉]]></summary>
-        <content type="html"><![CDATA[<p>上週六，我到了台北參加第 11 屆《感動久久》的頒獎典禮，《<a href="https://youtu.be/QhEInY4Drxs" target="_blank" rel="noopener noreferrer">鹿港輕旅行</a>》這部作品獲得<strong>優勝</strong> ！🎉</p>
-<p>第一次參加這樣的頒獎典禮，內心充滿了雀躍和激動 ☺️ 非常感謝評審的賞識，以及感動 99、ASUS Foundation 財團法人華碩文教基金會、公視粉絲團，提供這次的機會！也很感謝這一路上走來支持我的人們，還有我的家人 😆</p>
-<p>今天也正好是我 15 歲的第一天，感覺距離 14 歲的我又跨了一大步 🎉 自己也已經有一陣子沒有製作影片，硬碟裡也有已經重拍好幾次的影片，但一直沒能成功公開。</p>
-<p>拿下這個獎項之後，想創作的動力變得更強大，謝謝你們的陪伴 ❤️❤️</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[住院]]></title>
-        <id>https://www.jaron.tw/blog/hospitalization/</id>
-        <link href="https://www.jaron.tw/blog/hospitalization/"/>
-        <updated>2020-06-10T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[小小更新一下，有關我這陣子的身體狀況：]]></summary>
-        <content type="html"><![CDATA[<p>小小更新一下，有關我這陣子的身體狀況：</p>
-<p>6/7 下午忽然肚子很痛，晚上就送急診了。<br>
-<!-- -->晚上做完電腦斷層，醫生說闌尾有一點發炎，但沒有到需要開刀的程度，先暫時住院觀察。</p>
-<p>6/8 下午住院時，左眼忽然發現看到一條類似黑線的東西，很像蟲，這時肚子已經好多了。</p>
-<p>6/9 下午在醫院裡的眼科會診，醫生說是眼底出血，有可能是三高、糖尿病，或是壓力太大引起的，但我血液、尿液的檢查都正常。</p>
-<p>6/10 早上出院，這時肚子已無大礙，安排口服抗生素後出院，但眼睛的黑線仍然沒有消失。</p>
-<p>出院後身體已經舒服很多，除了眼睛的問題還沒有解決外<br>
-<!-- -->也在此感謝辛苦的醫療人員～～❤️<br>
-<!-- -->話說我還在急診室被護士認出來，這算解鎖人生成就嗎？（誤</p>
-<p>若這幾天有私訊沒有回覆的，不好意思，這幾天會再找時間回覆大家～😆</p>
-<p>#心情要放鬆 #壓力不要太大<br>
-<!-- -->#繼續加油</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2000 訂閱]]></title>
-        <id>https://www.jaron.tw/blog/2000-subscribers/</id>
-        <link href="https://www.jaron.tw/blog/2000-subscribers/"/>
-        <updated>2020-02-23T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[天阿，從 1000 訂閱到現在應該不到 10 天吧⋯⋯你們會不會太厲害！❤️]]></summary>
-        <content type="html"><![CDATA[<p>天阿，從 1000 訂閱到現在應該不到 10 天吧⋯⋯你們會不會太厲害！❤️</p>
-<p>#害我粉緊張 #下個作品會更讚</p>
-<p>從 500 訂閱拖到現在的 Q&amp;A，再搜集一次！<sup><a href="https://www.jaron.tw/blog/2000-subscribers/#user-content-fn-1-efcaa3" id="user-content-fnref-1-efcaa3" data-footnote-ref="true" aria-describedby="footnote-label">1</a></sup></p>
-<!-- -->
-<section data-footnotes="true" class="footnotes"><h2 class="anchor anchorWithStickyNavbar_LWe7 sr-only" id="footnote-label">Footnotes<a href="https://www.jaron.tw/blog/2000-subscribers/#footnote-label" class="hash-link" aria-label="Footnotes的直接連結" title="Footnotes的直接連結">​</a></h2>
-<ol>
-<li id="user-content-fn-1-efcaa3">
-<p>2025 年的小胖：一直到現在 1.1 萬好像都沒拍這個 Q&amp;A，哈哈 <a href="https://www.jaron.tw/blog/2000-subscribers/#user-content-fnref-1-efcaa3" data-footnote-backref="" aria-label="Back to reference 1" class="data-footnote-backref">↩</a></p>
-</li>
-</ol>
-</section>]]></content>
     </entry>
 </feed>
