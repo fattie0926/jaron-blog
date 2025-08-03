@@ -8,6 +8,6 @@ title: "我去過的地方"
 
 - 🇭🇰 香港 · 2025
 - 🇯🇵 東京 · 2025
-- 🇨🇳 北京 · 2025
+- 🇨🇳 [北京](/blog/first-time-in-beijing) · 2025
 
 ![我曾經去過的地方](mapchart.png)

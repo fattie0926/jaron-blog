@@ -106,6 +106,7 @@ const config = {
           {to: '/blog', label: '貼文', position: 'left'},
           {to: '/library', label: '書櫃', position: 'left'},
           {to: '/travel', label: '旅行', position: 'left'},
+          {to: '/use', label: '愛用', position: 'left'},
 /*           {
             href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',
@@ -130,6 +131,10 @@ const config = {
               {
                 label: '旅行',
                 to: '/travel',
+              },
+              {
+                label: '愛用',
+                to: '/use',
               },
             ],
           },
