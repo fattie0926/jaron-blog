@@ -2,6 +2,9 @@
 slug: birtv-day-2
 title: 見到活的 Tim
 ---
+> **北京行系列文章**  
+> [第一次來北京](2025-07-22-first-time-in-beijing/index.md) ｜ [一次帶你逛 BIRTV](2025-07-23-birtv-day-1/index.md) ｜ [見到活的 Tim](2025-07-24-birtv-day-2/index.md) ｜ [好事成三](2025-07-26-good-things-come-in-threes/index.md)
+
 昨晚跟 Paul 聊到凌晨 5 點，睡醒已經中午了。結果星培一起床就跟我說：
 
 Tim 今天早上十點出現在展場  
@@ -126,5 +129,13 @@ _**Tim 今天早上十點出現在展場**_
 一碗才不到 30 人民幣（約 120 台幣），我覺得味道也有點普通，小龍蝦的肉一直卡在殼裡吃不到哈哈哈。
 
 不過連續兩天的 Social 局結束，也有點懶的再找附近的美食，這時候只想趕快吃完躺平 😪
+
+---
+
+**延伸閱讀：北京行系列**  
+- [第一次來北京](2025-07-22-first-time-in-beijing/index.md)  
+- [一次帶你逛 BIRTV](2025-07-23-birtv-day-1/index.md)  
+- [見到活的 Tim](2025-07-24-birtv-day-2/index.md)  
+- [好事成三](2025-07-26-good-things-come-in-threes/index.md)
 
 [^1]: Nova II 尚未公開發佈資訊。讓你們搶先知道了！

@@ -1,7 +1,10 @@
 ---
 slug: birtv-day-1
-title: 不小心買了一台 RED
+title: 一次帶你逛 BIRTV
 ---
+> **北京行系列文章**  
+> [第一次來北京](2025-07-22-first-time-in-beijing/index.md) ｜ [一次帶你逛 BIRTV](2025-07-23-birtv-day-1/index.md) ｜ [見到活的 Tim](2025-07-24-birtv-day-2/index.md) ｜ [好事成三](2025-07-26-good-things-come-in-threes/index.md)
+ 
 今天是 [BIRTV](https://www.birtv.com/2025/) 的第一天！從飯店走到展場只需要大約五分鐘的時間。
 
 雖然這幾天北京的天氣其實跟台灣差不多，但第一天換證的隊伍大排長龍，在戶外待久一點其實還是挺熱的。
@@ -124,6 +127,14 @@ DZOFilm 有三款產品讓我印象深刻，包括：
 跟 Paul 聊完之後發現已經凌晨五點了，來的這幾天幾乎每天都看到北京的日出才睡覺 🤣
 
 來北京的行程還有四天，千萬別錯過最後一天登機前的刺激故事 😱
+
+---
+
+**延伸閱讀：北京行系列**  
+- [第一次來北京](2025-07-22-first-time-in-beijing/index.md)  
+- [一次帶你逛 BIRTV](2025-07-23-birtv-day-1/index.md)  
+- [見到活的 Tim](2025-07-24-birtv-day-2/index.md)  
+- [好事成三](2025-07-26-good-things-come-in-threes/index.md)
 
 [^1]: 結果回到台灣的路上就打給代理商訂貨了，錢包哭哭 💸
 
