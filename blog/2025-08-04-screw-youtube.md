@@ -45,6 +45,6 @@ title: 搞什麼啊 YouTube
 
 在影片前半段你可以看到，當初蘋果從 iPhone 8 跨到 iPhone X 的全螢幕，對於國小生來說的吸引力有多大。同時，至今過了 8 年蘋果還在用類似的設計，其實還蠻厲害的。
 
-比 8 年更誇張的是我上禮拜在看《[Helvetica](2025-07-30-helvetica.md)》這部紀錄片的時候，看到一個跟我的 Studio Disaply 長得超像的螢幕。於是我查了一下，這個設計最早可以追朔到 2004 年推出的[ Apple Cinema Display](https://ukcomputerparts.co.uk/product/apple-20-cinema-display-widescreen-aluminium-lcd-monitor-a1081/)，型號 A1081。已經過了 21 年了蘋果！這個底座跟轉軸，根本長得一模一樣啊⋯⋯我服！（連螢幕的邊框都沒有變細呢）
+比 8 年更誇張的是，我上禮拜在看《[Helvetica](2025-07-30-helvetica.md)》這部紀錄片的時候，看到一個跟我的 Studio Disaply 長得超像的螢幕。於是我查了一下，這個設計最早可以追朔到 2004 年推出的[ Apple Cinema Display](https://ukcomputerparts.co.uk/product/apple-20-cinema-display-widescreen-aluminium-lcd-monitor-a1081/)，型號 A1081。已經過了 21 年了蘋果！這個底座跟轉軸，根本長得一模一樣啊⋯⋯我服！（連螢幕的邊框都沒有變細呢）
 
 [^1]: Bree Brouwer，tubefilter，2015 年 7 月 26 日，[https://www.tubefilter.com/2015/07/26/youtube-400-hours-content-every-minute/](https://www.tubefilter.com/2015/07/26/youtube-400-hours-content-every-minute/)

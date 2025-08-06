@@ -34,3 +34,9 @@
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+audio.blog-audio {
+  width: 80%;
+  height: 35px;
+  margin: 10px 0;
+}

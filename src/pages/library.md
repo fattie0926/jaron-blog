@@ -11,9 +11,9 @@ title: 我的書櫃
 - **Stephen R. Covey – The 7 Habits of Highly Effective People**
 - **Tim Ferriss – The 4-Hour Work Week**
 - **Cal Newport – Deep Work**
-- **James Clear – Atomic Habits**
+- [**James Clear – Atomic Habits**](/blog/atomic-habits/)
 - Cal Newport - Slow Productivity
-- Darren Hardy - The Compound Effect
+- [Darren Hardy - The Compound Effect](/blog/the-compound-effect/)
 - Jake Knapp, John Zeretsky - Make Time
 - Richard Koch - The 80/20 Principle
 - Ali Abdaal - Feel-Good Productivity
